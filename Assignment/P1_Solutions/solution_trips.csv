@@ -1,38 +1,38 @@
 ,Aircraft type,Origin,Destination,Total_trips
 0,Regional Jet,LIRF,LIRF,0.0
-1,Regional Jet,LIRF,EDDT,0.0
+1,Regional Jet,LIRF,EDDT,2.0
 2,Regional Jet,LIRF,RJAA,0.0
-3,Regional Jet,LIRF,EDDM,-0.0
-4,Regional Jet,LIRF,LFPG,1.0
+3,Regional Jet,LIRF,EDDM,2.0
+4,Regional Jet,LIRF,LFPG,4.0
 5,Regional Jet,LIRF,SAEZ,0.0
 6,Regional Jet,LIRF,CYYZ,0.0
 7,Regional Jet,LIRF,MMMX,0.0
 8,Regional Jet,LIRF,CYVR,0.0
-9,Regional Jet,LIRF,EDDF,1.0
+9,Regional Jet,LIRF,EDDF,2.0
 10,Regional Jet,LIRF,KJFK,0.0
 11,Regional Jet,LIRF,SBGL,0.0
-12,Regional Jet,LIRF,LEMD,-0.0
+12,Regional Jet,LIRF,LEMD,2.0
 13,Regional Jet,LIRF,ZSPD,0.0
 14,Regional Jet,LIRF,OMDB,0.0
-15,Regional Jet,LIRF,LTFM,-0.0
+15,Regional Jet,LIRF,LTFM,3.0
 16,Regional Jet,LIRF,ZBAA,0.0
 17,Regional Jet,LIRF,VIDP,0.0
-18,Regional Jet,LIRF,EFRO,0.0
+18,Regional Jet,LIRF,EFRO,1.0
 19,Regional Jet,LIRF,EHEH,1.0
 20,Regional Jet,LIRF,EFHK,1.0
 21,Regional Jet,LIRF,LDZA,1.0
-22,Regional Jet,LIRF,EBBR,1.0
-23,Regional Jet,LIRF,EIDW,1.0
-24,Regional Jet,LIRF,LGAV,0.0
+22,Regional Jet,LIRF,EBBR,2.0
+23,Regional Jet,LIRF,EIDW,0.0
+24,Regional Jet,LIRF,LGAV,2.0
 25,Regional Jet,LIRF,BIKF,0.0
 26,Regional Jet,LIRF,EETN,1.0
 27,Regional Jet,LIRF,LKPR,1.0
 28,Regional Jet,LIRF,FACT,0.0
-29,Regional Jet,LIRF,ESSA,1.0
+29,Regional Jet,LIRF,ESSA,2.0
 30,Regional Jet,LIRF,EGPH,1.0
 31,Regional Jet,LIRF,LFQQ,1.0
 32,Regional Jet,LIRF,LPPT,1.0
-33,Regional Jet,EDDT,LIRF,-0.0
+33,Regional Jet,EDDT,LIRF,2.0
 34,Regional Jet,EDDT,EDDT,0.0
 35,Regional Jet,EDDT,RJAA,0.0
 36,Regional Jet,EDDT,EDDM,2.0
@@ -44,10 +44,10 @@
 42,Regional Jet,EDDT,EDDF,2.0
 43,Regional Jet,EDDT,KJFK,0.0
 44,Regional Jet,EDDT,SBGL,0.0
-45,Regional Jet,EDDT,LEMD,-0.0
+45,Regional Jet,EDDT,LEMD,0.0
 46,Regional Jet,EDDT,ZSPD,0.0
 47,Regional Jet,EDDT,OMDB,0.0
-48,Regional Jet,EDDT,LTFM,-0.0
+48,Regional Jet,EDDT,LTFM,0.0
 49,Regional Jet,EDDT,ZBAA,0.0
 50,Regional Jet,EDDT,VIDP,0.0
 51,Regional Jet,EDDT,EFRO,0.0
@@ -61,7 +61,7 @@
 59,Regional Jet,EDDT,EETN,1.0
 60,Regional Jet,EDDT,LKPR,2.0
 61,Regional Jet,EDDT,FACT,0.0
-62,Regional Jet,EDDT,ESSA,-0.0
+62,Regional Jet,EDDT,ESSA,0.0
 63,Regional Jet,EDDT,EGPH,1.0
 64,Regional Jet,EDDT,LFQQ,1.0
 65,Regional Jet,EDDT,LPPT,1.0
@@ -98,7 +98,7 @@
 96,Regional Jet,RJAA,EGPH,0.0
 97,Regional Jet,RJAA,LFQQ,0.0
 98,Regional Jet,RJAA,LPPT,0.0
-99,Regional Jet,EDDM,LIRF,0.0
+99,Regional Jet,EDDM,LIRF,2.0
 100,Regional Jet,EDDM,EDDT,2.0
 101,Regional Jet,EDDM,RJAA,0.0
 102,Regional Jet,EDDM,EDDM,0.0
@@ -110,10 +110,10 @@
 108,Regional Jet,EDDM,EDDF,2.0
 109,Regional Jet,EDDM,KJFK,0.0
 110,Regional Jet,EDDM,SBGL,0.0
-111,Regional Jet,EDDM,LEMD,-0.0
+111,Regional Jet,EDDM,LEMD,0.0
 112,Regional Jet,EDDM,ZSPD,0.0
 113,Regional Jet,EDDM,OMDB,0.0
-114,Regional Jet,EDDM,LTFM,-0.0
+114,Regional Jet,EDDM,LTFM,0.0
 115,Regional Jet,EDDM,ZBAA,0.0
 116,Regional Jet,EDDM,VIDP,0.0
 117,Regional Jet,EDDM,EFRO,0.0
@@ -131,7 +131,7 @@
 129,Regional Jet,EDDM,EGPH,1.0
 130,Regional Jet,EDDM,LFQQ,1.0
 131,Regional Jet,EDDM,LPPT,1.0
-132,Regional Jet,LFPG,LIRF,1.0
+132,Regional Jet,LFPG,LIRF,4.0
 133,Regional Jet,LFPG,EDDT,1.0
 134,Regional Jet,LFPG,RJAA,0.0
 135,Regional Jet,LFPG,EDDM,1.0
@@ -143,27 +143,27 @@
 141,Regional Jet,LFPG,EDDF,1.0
 142,Regional Jet,LFPG,KJFK,0.0
 143,Regional Jet,LFPG,SBGL,0.0
-144,Regional Jet,LFPG,LEMD,-0.0
+144,Regional Jet,LFPG,LEMD,0.0
 145,Regional Jet,LFPG,ZSPD,0.0
 146,Regional Jet,LFPG,OMDB,0.0
-147,Regional Jet,LFPG,LTFM,-0.0
+147,Regional Jet,LFPG,LTFM,0.0
 148,Regional Jet,LFPG,ZBAA,0.0
 149,Regional Jet,LFPG,VIDP,0.0
-150,Regional Jet,LFPG,EFRO,-0.0
+150,Regional Jet,LFPG,EFRO,0.0
 151,Regional Jet,LFPG,EHEH,1.0
-152,Regional Jet,LFPG,EFHK,-0.0
+152,Regional Jet,LFPG,EFHK,0.0
 153,Regional Jet,LFPG,LDZA,1.0
-154,Regional Jet,LFPG,EBBR,-0.0
-155,Regional Jet,LFPG,EIDW,-0.0
-156,Regional Jet,LFPG,LGAV,-0.0
+154,Regional Jet,LFPG,EBBR,0.0
+155,Regional Jet,LFPG,EIDW,0.0
+156,Regional Jet,LFPG,LGAV,0.0
 157,Regional Jet,LFPG,BIKF,1.0
 158,Regional Jet,LFPG,EETN,1.0
-159,Regional Jet,LFPG,LKPR,-0.0
+159,Regional Jet,LFPG,LKPR,0.0
 160,Regional Jet,LFPG,FACT,0.0
-161,Regional Jet,LFPG,ESSA,-0.0
+161,Regional Jet,LFPG,ESSA,0.0
 162,Regional Jet,LFPG,EGPH,1.0
 163,Regional Jet,LFPG,LFQQ,3.0
-164,Regional Jet,LFPG,LPPT,-0.0
+164,Regional Jet,LFPG,LPPT,0.0
 165,Regional Jet,SAEZ,LIRF,0.0
 166,Regional Jet,SAEZ,EDDT,0.0
 167,Regional Jet,SAEZ,RJAA,0.0
@@ -296,7 +296,7 @@
 294,Regional Jet,CYVR,EGPH,0.0
 295,Regional Jet,CYVR,LFQQ,0.0
 296,Regional Jet,CYVR,LPPT,0.0
-297,Regional Jet,EDDF,LIRF,-0.0
+297,Regional Jet,EDDF,LIRF,2.0
 298,Regional Jet,EDDF,EDDT,2.0
 299,Regional Jet,EDDF,RJAA,0.0
 300,Regional Jet,EDDF,EDDM,2.0
@@ -308,10 +308,10 @@
 306,Regional Jet,EDDF,EDDF,0.0
 307,Regional Jet,EDDF,KJFK,0.0
 308,Regional Jet,EDDF,SBGL,0.0
-309,Regional Jet,EDDF,LEMD,-0.0
+309,Regional Jet,EDDF,LEMD,0.0
 310,Regional Jet,EDDF,ZSPD,0.0
 311,Regional Jet,EDDF,OMDB,0.0
-312,Regional Jet,EDDF,LTFM,-0.0
+312,Regional Jet,EDDF,LTFM,0.0
 313,Regional Jet,EDDF,ZBAA,0.0
 314,Regional Jet,EDDF,VIDP,0.0
 315,Regional Jet,EDDF,EFRO,0.0
@@ -322,7 +322,7 @@
 320,Regional Jet,EDDF,EIDW,1.0
 321,Regional Jet,EDDF,LGAV,1.0
 322,Regional Jet,EDDF,BIKF,0.0
-323,Regional Jet,EDDF,EETN,-0.0
+323,Regional Jet,EDDF,EETN,0.0
 324,Regional Jet,EDDF,LKPR,1.0
 325,Regional Jet,EDDF,FACT,0.0
 326,Regional Jet,EDDF,ESSA,1.0
@@ -395,42 +395,42 @@
 393,Regional Jet,SBGL,EGPH,0.0
 394,Regional Jet,SBGL,LFQQ,0.0
 395,Regional Jet,SBGL,LPPT,0.0
-396,Regional Jet,LEMD,LIRF,-0.0
-397,Regional Jet,LEMD,EDDT,-0.0
+396,Regional Jet,LEMD,LIRF,2.0
+397,Regional Jet,LEMD,EDDT,0.0
 398,Regional Jet,LEMD,RJAA,0.0
-399,Regional Jet,LEMD,EDDM,-0.0
-400,Regional Jet,LEMD,LFPG,-0.0
+399,Regional Jet,LEMD,EDDM,0.0
+400,Regional Jet,LEMD,LFPG,0.0
 401,Regional Jet,LEMD,SAEZ,0.0
 402,Regional Jet,LEMD,CYYZ,0.0
 403,Regional Jet,LEMD,MMMX,0.0
 404,Regional Jet,LEMD,CYVR,0.0
-405,Regional Jet,LEMD,EDDF,-0.0
+405,Regional Jet,LEMD,EDDF,0.0
 406,Regional Jet,LEMD,KJFK,0.0
 407,Regional Jet,LEMD,SBGL,0.0
 408,Regional Jet,LEMD,LEMD,0.0
 409,Regional Jet,LEMD,ZSPD,0.0
 410,Regional Jet,LEMD,OMDB,0.0
-411,Regional Jet,LEMD,LTFM,-0.0
+411,Regional Jet,LEMD,LTFM,0.0
 412,Regional Jet,LEMD,ZBAA,0.0
 413,Regional Jet,LEMD,VIDP,0.0
 414,Regional Jet,LEMD,EFRO,0.0
 415,Regional Jet,LEMD,EHEH,1.0
 416,Regional Jet,LEMD,EFHK,1.0
 417,Regional Jet,LEMD,LDZA,1.0
-418,Regional Jet,LEMD,EBBR,-0.0
-419,Regional Jet,LEMD,EIDW,-0.0
+418,Regional Jet,LEMD,EBBR,0.0
+419,Regional Jet,LEMD,EIDW,0.0
 420,Regional Jet,LEMD,LGAV,1.0
-421,Regional Jet,LEMD,BIKF,-0.0
+421,Regional Jet,LEMD,BIKF,0.0
 422,Regional Jet,LEMD,EETN,1.0
 423,Regional Jet,LEMD,LKPR,1.0
 424,Regional Jet,LEMD,FACT,0.0
 425,Regional Jet,LEMD,ESSA,1.0
 426,Regional Jet,LEMD,EGPH,1.0
 427,Regional Jet,LEMD,LFQQ,1.0
-428,Regional Jet,LEMD,LPPT,-0.0
+428,Regional Jet,LEMD,LPPT,0.0
 429,Regional Jet,ZSPD,LIRF,0.0
 430,Regional Jet,ZSPD,EDDT,0.0
-431,Regional Jet,ZSPD,RJAA,3.0
+431,Regional Jet,ZSPD,RJAA,1.0
 432,Regional Jet,ZSPD,EDDM,0.0
 433,Regional Jet,ZSPD,LFPG,0.0
 434,Regional Jet,ZSPD,SAEZ,0.0
@@ -444,7 +444,7 @@
 442,Regional Jet,ZSPD,ZSPD,0.0
 443,Regional Jet,ZSPD,OMDB,0.0
 444,Regional Jet,ZSPD,LTFM,0.0
-445,Regional Jet,ZSPD,ZBAA,-0.0
+445,Regional Jet,ZSPD,ZBAA,0.0
 446,Regional Jet,ZSPD,VIDP,0.0
 447,Regional Jet,ZSPD,EFRO,0.0
 448,Regional Jet,ZSPD,EHEH,0.0
@@ -476,9 +476,9 @@
 474,Regional Jet,OMDB,LEMD,0.0
 475,Regional Jet,OMDB,ZSPD,0.0
 476,Regional Jet,OMDB,OMDB,0.0
-477,Regional Jet,OMDB,LTFM,-0.0
+477,Regional Jet,OMDB,LTFM,0.0
 478,Regional Jet,OMDB,ZBAA,0.0
-479,Regional Jet,OMDB,VIDP,-0.0
+479,Regional Jet,OMDB,VIDP,0.0
 480,Regional Jet,OMDB,EFRO,0.0
 481,Regional Jet,OMDB,EHEH,0.0
 482,Regional Jet,OMDB,EFHK,0.0
@@ -494,21 +494,21 @@
 492,Regional Jet,OMDB,EGPH,0.0
 493,Regional Jet,OMDB,LFQQ,0.0
 494,Regional Jet,OMDB,LPPT,0.0
-495,Regional Jet,LTFM,LIRF,0.0
-496,Regional Jet,LTFM,EDDT,-0.0
+495,Regional Jet,LTFM,LIRF,3.0
+496,Regional Jet,LTFM,EDDT,0.0
 497,Regional Jet,LTFM,RJAA,0.0
-498,Regional Jet,LTFM,EDDM,-0.0
-499,Regional Jet,LTFM,LFPG,-0.0
+498,Regional Jet,LTFM,EDDM,0.0
+499,Regional Jet,LTFM,LFPG,0.0
 500,Regional Jet,LTFM,SAEZ,0.0
 501,Regional Jet,LTFM,CYYZ,0.0
 502,Regional Jet,LTFM,MMMX,0.0
 503,Regional Jet,LTFM,CYVR,0.0
-504,Regional Jet,LTFM,EDDF,-0.0
+504,Regional Jet,LTFM,EDDF,0.0
 505,Regional Jet,LTFM,KJFK,0.0
 506,Regional Jet,LTFM,SBGL,0.0
-507,Regional Jet,LTFM,LEMD,-0.0
+507,Regional Jet,LTFM,LEMD,0.0
 508,Regional Jet,LTFM,ZSPD,0.0
-509,Regional Jet,LTFM,OMDB,-0.0
+509,Regional Jet,LTFM,OMDB,0.0
 510,Regional Jet,LTFM,LTFM,0.0
 511,Regional Jet,LTFM,ZBAA,0.0
 512,Regional Jet,LTFM,VIDP,0.0
@@ -516,17 +516,17 @@
 514,Regional Jet,LTFM,EHEH,1.0
 515,Regional Jet,LTFM,EFHK,1.0
 516,Regional Jet,LTFM,LDZA,1.0
-517,Regional Jet,LTFM,EBBR,-0.0
-518,Regional Jet,LTFM,EIDW,-0.0
+517,Regional Jet,LTFM,EBBR,0.0
+518,Regional Jet,LTFM,EIDW,0.0
 519,Regional Jet,LTFM,LGAV,1.0
 520,Regional Jet,LTFM,BIKF,0.0
 521,Regional Jet,LTFM,EETN,1.0
-522,Regional Jet,LTFM,LKPR,-0.0
+522,Regional Jet,LTFM,LKPR,0.0
 523,Regional Jet,LTFM,FACT,0.0
-524,Regional Jet,LTFM,ESSA,-0.0
+524,Regional Jet,LTFM,ESSA,0.0
 525,Regional Jet,LTFM,EGPH,1.0
 526,Regional Jet,LTFM,LFQQ,1.0
-527,Regional Jet,LTFM,LPPT,-0.0
+527,Regional Jet,LTFM,LPPT,0.0
 528,Regional Jet,ZBAA,LIRF,0.0
 529,Regional Jet,ZBAA,EDDT,0.0
 530,Regional Jet,ZBAA,RJAA,1.0
@@ -540,7 +540,7 @@
 538,Regional Jet,ZBAA,KJFK,0.0
 539,Regional Jet,ZBAA,SBGL,0.0
 540,Regional Jet,ZBAA,LEMD,0.0
-541,Regional Jet,ZBAA,ZSPD,-0.0
+541,Regional Jet,ZBAA,ZSPD,0.0
 542,Regional Jet,ZBAA,OMDB,0.0
 543,Regional Jet,ZBAA,LTFM,0.0
 544,Regional Jet,ZBAA,ZBAA,0.0
@@ -574,7 +574,7 @@
 572,Regional Jet,VIDP,SBGL,0.0
 573,Regional Jet,VIDP,LEMD,0.0
 574,Regional Jet,VIDP,ZSPD,0.0
-575,Regional Jet,VIDP,OMDB,-0.0
+575,Regional Jet,VIDP,OMDB,0.0
 576,Regional Jet,VIDP,LTFM,0.0
 577,Regional Jet,VIDP,ZBAA,0.0
 578,Regional Jet,VIDP,VIDP,0.0
@@ -593,11 +593,11 @@
 591,Regional Jet,VIDP,EGPH,0.0
 592,Regional Jet,VIDP,LFQQ,0.0
 593,Regional Jet,VIDP,LPPT,0.0
-594,Regional Jet,EFRO,LIRF,0.0
+594,Regional Jet,EFRO,LIRF,1.0
 595,Regional Jet,EFRO,EDDT,0.0
 596,Regional Jet,EFRO,RJAA,0.0
 597,Regional Jet,EFRO,EDDM,0.0
-598,Regional Jet,EFRO,LFPG,-0.0
+598,Regional Jet,EFRO,LFPG,0.0
 599,Regional Jet,EFRO,SAEZ,0.0
 600,Regional Jet,EFRO,CYYZ,0.0
 601,Regional Jet,EFRO,MMMX,0.0
@@ -649,16 +649,16 @@
 647,Regional Jet,EHEH,EFHK,0.0
 648,Regional Jet,EHEH,LDZA,0.0
 649,Regional Jet,EHEH,EBBR,1.0
-650,Regional Jet,EHEH,EIDW,1.0
+650,Regional Jet,EHEH,EIDW,0.0
 651,Regional Jet,EHEH,LGAV,0.0
 652,Regional Jet,EHEH,BIKF,0.0
 653,Regional Jet,EHEH,EETN,0.0
-654,Regional Jet,EHEH,LKPR,-0.0
+654,Regional Jet,EHEH,LKPR,0.0
 655,Regional Jet,EHEH,FACT,0.0
-656,Regional Jet,EHEH,ESSA,-0.0
+656,Regional Jet,EHEH,ESSA,0.0
 657,Regional Jet,EHEH,EGPH,0.0
 658,Regional Jet,EHEH,LFQQ,1.0
-659,Regional Jet,EHEH,LPPT,-0.0
+659,Regional Jet,EHEH,LPPT,0.0
 660,Regional Jet,EFHK,LIRF,1.0
 661,Regional Jet,EFHK,EDDT,1.0
 662,Regional Jet,EFHK,RJAA,0.0
@@ -674,13 +674,13 @@
 672,Regional Jet,EFHK,LEMD,1.0
 673,Regional Jet,EFHK,ZSPD,0.0
 674,Regional Jet,EFHK,OMDB,0.0
-675,Regional Jet,EFHK,LTFM,-0.0
+675,Regional Jet,EFHK,LTFM,0.0
 676,Regional Jet,EFHK,ZBAA,0.0
 677,Regional Jet,EFHK,VIDP,0.0
 678,Regional Jet,EFHK,EFRO,0.0
 679,Regional Jet,EFHK,EHEH,0.0
 680,Regional Jet,EFHK,EFHK,0.0
-681,Regional Jet,EFHK,LDZA,-0.0
+681,Regional Jet,EFHK,LDZA,0.0
 682,Regional Jet,EFHK,EBBR,1.0
 683,Regional Jet,EFHK,EIDW,1.0
 684,Regional Jet,EFHK,LGAV,1.0
@@ -689,7 +689,7 @@
 687,Regional Jet,EFHK,LKPR,1.0
 688,Regional Jet,EFHK,FACT,0.0
 689,Regional Jet,EFHK,ESSA,1.0
-690,Regional Jet,EFHK,EGPH,-0.0
+690,Regional Jet,EFHK,EGPH,0.0
 691,Regional Jet,EFHK,LFQQ,1.0
 692,Regional Jet,EFHK,LPPT,0.0
 693,Regional Jet,LDZA,LIRF,1.0
@@ -712,7 +712,7 @@
 710,Regional Jet,LDZA,VIDP,0.0
 711,Regional Jet,LDZA,EFRO,0.0
 712,Regional Jet,LDZA,EHEH,0.0
-713,Regional Jet,LDZA,EFHK,-0.0
+713,Regional Jet,LDZA,EFHK,0.0
 714,Regional Jet,LDZA,LDZA,0.0
 715,Regional Jet,LDZA,EBBR,1.0
 716,Regional Jet,LDZA,EIDW,1.0
@@ -723,9 +723,9 @@
 721,Regional Jet,LDZA,FACT,0.0
 722,Regional Jet,LDZA,ESSA,1.0
 723,Regional Jet,LDZA,EGPH,0.0
-724,Regional Jet,LDZA,LFQQ,1.0
-725,Regional Jet,LDZA,LPPT,-0.0
-726,Regional Jet,EBBR,LIRF,1.0
+724,Regional Jet,LDZA,LFQQ,0.0
+725,Regional Jet,LDZA,LPPT,0.0
+726,Regional Jet,EBBR,LIRF,2.0
 727,Regional Jet,EBBR,EDDT,1.0
 728,Regional Jet,EBBR,RJAA,0.0
 729,Regional Jet,EBBR,EDDM,1.0
@@ -740,7 +740,7 @@
 738,Regional Jet,EBBR,LEMD,1.0
 739,Regional Jet,EBBR,ZSPD,0.0
 740,Regional Jet,EBBR,OMDB,0.0
-741,Regional Jet,EBBR,LTFM,-0.0
+741,Regional Jet,EBBR,LTFM,0.0
 742,Regional Jet,EBBR,ZBAA,0.0
 743,Regional Jet,EBBR,VIDP,0.0
 744,Regional Jet,EBBR,EFRO,0.0
@@ -751,7 +751,7 @@
 749,Regional Jet,EBBR,EIDW,1.0
 750,Regional Jet,EBBR,LGAV,1.0
 751,Regional Jet,EBBR,BIKF,0.0
-752,Regional Jet,EBBR,EETN,-0.0
+752,Regional Jet,EBBR,EETN,0.0
 753,Regional Jet,EBBR,LKPR,1.0
 754,Regional Jet,EBBR,FACT,0.0
 755,Regional Jet,EBBR,ESSA,1.0
@@ -762,7 +762,7 @@
 760,Regional Jet,EIDW,EDDT,1.0
 761,Regional Jet,EIDW,RJAA,0.0
 762,Regional Jet,EIDW,EDDM,1.0
-763,Regional Jet,EIDW,LFPG,-0.0
+763,Regional Jet,EIDW,LFPG,0.0
 764,Regional Jet,EIDW,SAEZ,0.0
 765,Regional Jet,EIDW,CYYZ,0.0
 766,Regional Jet,EIDW,MMMX,0.0
@@ -777,21 +777,21 @@
 775,Regional Jet,EIDW,ZBAA,0.0
 776,Regional Jet,EIDW,VIDP,0.0
 777,Regional Jet,EIDW,EFRO,0.0
-778,Regional Jet,EIDW,EHEH,1.0
+778,Regional Jet,EIDW,EHEH,0.0
 779,Regional Jet,EIDW,EFHK,1.0
 780,Regional Jet,EIDW,LDZA,1.0
 781,Regional Jet,EIDW,EBBR,1.0
 782,Regional Jet,EIDW,EIDW,0.0
 783,Regional Jet,EIDW,LGAV,1.0
 784,Regional Jet,EIDW,BIKF,0.0
-785,Regional Jet,EIDW,EETN,-0.0
+785,Regional Jet,EIDW,EETN,0.0
 786,Regional Jet,EIDW,LKPR,1.0
 787,Regional Jet,EIDW,FACT,0.0
 788,Regional Jet,EIDW,ESSA,1.0
 789,Regional Jet,EIDW,EGPH,1.0
 790,Regional Jet,EIDW,LFQQ,1.0
 791,Regional Jet,EIDW,LPPT,1.0
-792,Regional Jet,LGAV,LIRF,-0.0
+792,Regional Jet,LGAV,LIRF,2.0
 793,Regional Jet,LGAV,EDDT,1.0
 794,Regional Jet,LGAV,RJAA,0.0
 795,Regional Jet,LGAV,EDDM,1.0
@@ -817,11 +817,11 @@
 815,Regional Jet,LGAV,EIDW,1.0
 816,Regional Jet,LGAV,LGAV,0.0
 817,Regional Jet,LGAV,BIKF,0.0
-818,Regional Jet,LGAV,EETN,-0.0
+818,Regional Jet,LGAV,EETN,0.0
 819,Regional Jet,LGAV,LKPR,1.0
 820,Regional Jet,LGAV,FACT,0.0
 821,Regional Jet,LGAV,ESSA,1.0
-822,Regional Jet,LGAV,EGPH,-0.0
+822,Regional Jet,LGAV,EGPH,0.0
 823,Regional Jet,LGAV,LFQQ,1.0
 824,Regional Jet,LGAV,LPPT,1.0
 825,Regional Jet,BIKF,LIRF,0.0
@@ -836,7 +836,7 @@
 834,Regional Jet,BIKF,EDDF,0.0
 835,Regional Jet,BIKF,KJFK,0.0
 836,Regional Jet,BIKF,SBGL,0.0
-837,Regional Jet,BIKF,LEMD,-0.0
+837,Regional Jet,BIKF,LEMD,0.0
 838,Regional Jet,BIKF,ZSPD,0.0
 839,Regional Jet,BIKF,OMDB,0.0
 840,Regional Jet,BIKF,LTFM,0.0
@@ -866,7 +866,7 @@
 864,Regional Jet,EETN,CYYZ,0.0
 865,Regional Jet,EETN,MMMX,0.0
 866,Regional Jet,EETN,CYVR,0.0
-867,Regional Jet,EETN,EDDF,-0.0
+867,Regional Jet,EETN,EDDF,0.0
 868,Regional Jet,EETN,KJFK,0.0
 869,Regional Jet,EETN,SBGL,0.0
 870,Regional Jet,EETN,LEMD,1.0
@@ -879,12 +879,12 @@
 877,Regional Jet,EETN,EHEH,0.0
 878,Regional Jet,EETN,EFHK,1.0
 879,Regional Jet,EETN,LDZA,0.0
-880,Regional Jet,EETN,EBBR,-0.0
-881,Regional Jet,EETN,EIDW,-0.0
-882,Regional Jet,EETN,LGAV,-0.0
+880,Regional Jet,EETN,EBBR,0.0
+881,Regional Jet,EETN,EIDW,0.0
+882,Regional Jet,EETN,LGAV,0.0
 883,Regional Jet,EETN,BIKF,0.0
 884,Regional Jet,EETN,EETN,0.0
-885,Regional Jet,EETN,LKPR,-0.0
+885,Regional Jet,EETN,LKPR,0.0
 886,Regional Jet,EETN,FACT,0.0
 887,Regional Jet,EETN,ESSA,1.0
 888,Regional Jet,EETN,EGPH,0.0
@@ -894,7 +894,7 @@
 892,Regional Jet,LKPR,EDDT,2.0
 893,Regional Jet,LKPR,RJAA,0.0
 894,Regional Jet,LKPR,EDDM,1.0
-895,Regional Jet,LKPR,LFPG,-0.0
+895,Regional Jet,LKPR,LFPG,0.0
 896,Regional Jet,LKPR,SAEZ,0.0
 897,Regional Jet,LKPR,CYYZ,0.0
 898,Regional Jet,LKPR,MMMX,0.0
@@ -909,18 +909,18 @@
 907,Regional Jet,LKPR,ZBAA,0.0
 908,Regional Jet,LKPR,VIDP,0.0
 909,Regional Jet,LKPR,EFRO,0.0
-910,Regional Jet,LKPR,EHEH,-0.0
+910,Regional Jet,LKPR,EHEH,0.0
 911,Regional Jet,LKPR,EFHK,1.0
 912,Regional Jet,LKPR,LDZA,1.0
 913,Regional Jet,LKPR,EBBR,1.0
 914,Regional Jet,LKPR,EIDW,1.0
 915,Regional Jet,LKPR,LGAV,1.0
 916,Regional Jet,LKPR,BIKF,0.0
-917,Regional Jet,LKPR,EETN,-0.0
+917,Regional Jet,LKPR,EETN,0.0
 918,Regional Jet,LKPR,LKPR,0.0
 919,Regional Jet,LKPR,FACT,0.0
 920,Regional Jet,LKPR,ESSA,1.0
-921,Regional Jet,LKPR,EGPH,-0.0
+921,Regional Jet,LKPR,EGPH,0.0
 922,Regional Jet,LKPR,LFQQ,1.0
 923,Regional Jet,LKPR,LPPT,1.0
 924,Regional Jet,FACT,LIRF,0.0
@@ -956,11 +956,11 @@
 954,Regional Jet,FACT,EGPH,0.0
 955,Regional Jet,FACT,LFQQ,0.0
 956,Regional Jet,FACT,LPPT,0.0
-957,Regional Jet,ESSA,LIRF,1.0
+957,Regional Jet,ESSA,LIRF,2.0
 958,Regional Jet,ESSA,EDDT,0.0
 959,Regional Jet,ESSA,RJAA,0.0
 960,Regional Jet,ESSA,EDDM,1.0
-961,Regional Jet,ESSA,LFPG,-0.0
+961,Regional Jet,ESSA,LFPG,0.0
 962,Regional Jet,ESSA,SAEZ,0.0
 963,Regional Jet,ESSA,CYYZ,0.0
 964,Regional Jet,ESSA,MMMX,0.0
@@ -971,11 +971,11 @@
 969,Regional Jet,ESSA,LEMD,1.0
 970,Regional Jet,ESSA,ZSPD,0.0
 971,Regional Jet,ESSA,OMDB,0.0
-972,Regional Jet,ESSA,LTFM,-0.0
+972,Regional Jet,ESSA,LTFM,0.0
 973,Regional Jet,ESSA,ZBAA,0.0
 974,Regional Jet,ESSA,VIDP,0.0
 975,Regional Jet,ESSA,EFRO,0.0
-976,Regional Jet,ESSA,EHEH,-0.0
+976,Regional Jet,ESSA,EHEH,0.0
 977,Regional Jet,ESSA,EFHK,1.0
 978,Regional Jet,ESSA,LDZA,1.0
 979,Regional Jet,ESSA,EBBR,1.0
@@ -1009,18 +1009,18 @@
 1007,Regional Jet,EGPH,VIDP,0.0
 1008,Regional Jet,EGPH,EFRO,0.0
 1009,Regional Jet,EGPH,EHEH,0.0
-1010,Regional Jet,EGPH,EFHK,-0.0
+1010,Regional Jet,EGPH,EFHK,0.0
 1011,Regional Jet,EGPH,LDZA,0.0
 1012,Regional Jet,EGPH,EBBR,1.0
 1013,Regional Jet,EGPH,EIDW,1.0
-1014,Regional Jet,EGPH,LGAV,-0.0
+1014,Regional Jet,EGPH,LGAV,0.0
 1015,Regional Jet,EGPH,BIKF,0.0
 1016,Regional Jet,EGPH,EETN,0.0
-1017,Regional Jet,EGPH,LKPR,-0.0
+1017,Regional Jet,EGPH,LKPR,0.0
 1018,Regional Jet,EGPH,FACT,0.0
 1019,Regional Jet,EGPH,ESSA,1.0
 1020,Regional Jet,EGPH,EGPH,0.0
-1021,Regional Jet,EGPH,LFQQ,0.0
+1021,Regional Jet,EGPH,LFQQ,1.0
 1022,Regional Jet,EGPH,LPPT,0.0
 1023,Regional Jet,LFQQ,LIRF,1.0
 1024,Regional Jet,LFQQ,EDDT,1.0
@@ -1037,13 +1037,13 @@
 1035,Regional Jet,LFQQ,LEMD,1.0
 1036,Regional Jet,LFQQ,ZSPD,0.0
 1037,Regional Jet,LFQQ,OMDB,0.0
-1038,Regional Jet,LFQQ,LTFM,-0.0
+1038,Regional Jet,LFQQ,LTFM,0.0
 1039,Regional Jet,LFQQ,ZBAA,0.0
 1040,Regional Jet,LFQQ,VIDP,0.0
 1041,Regional Jet,LFQQ,EFRO,0.0
 1042,Regional Jet,LFQQ,EHEH,1.0
 1043,Regional Jet,LFQQ,EFHK,1.0
-1044,Regional Jet,LFQQ,LDZA,1.0
+1044,Regional Jet,LFQQ,LDZA,0.0
 1045,Regional Jet,LFQQ,EBBR,1.0
 1046,Regional Jet,LFQQ,EIDW,1.0
 1047,Regional Jet,LFQQ,LGAV,1.0
@@ -1052,14 +1052,14 @@
 1050,Regional Jet,LFQQ,LKPR,1.0
 1051,Regional Jet,LFQQ,FACT,0.0
 1052,Regional Jet,LFQQ,ESSA,1.0
-1053,Regional Jet,LFQQ,EGPH,0.0
+1053,Regional Jet,LFQQ,EGPH,1.0
 1054,Regional Jet,LFQQ,LFQQ,0.0
 1055,Regional Jet,LFQQ,LPPT,1.0
 1056,Regional Jet,LPPT,LIRF,1.0
 1057,Regional Jet,LPPT,EDDT,1.0
 1058,Regional Jet,LPPT,RJAA,0.0
 1059,Regional Jet,LPPT,EDDM,1.0
-1060,Regional Jet,LPPT,LFPG,-0.0
+1060,Regional Jet,LPPT,LFPG,0.0
 1061,Regional Jet,LPPT,SAEZ,0.0
 1062,Regional Jet,LPPT,CYYZ,0.0
 1063,Regional Jet,LPPT,MMMX,0.0
@@ -1074,9 +1074,9 @@
 1072,Regional Jet,LPPT,ZBAA,0.0
 1073,Regional Jet,LPPT,VIDP,0.0
 1074,Regional Jet,LPPT,EFRO,0.0
-1075,Regional Jet,LPPT,EHEH,-0.0
+1075,Regional Jet,LPPT,EHEH,0.0
 1076,Regional Jet,LPPT,EFHK,0.0
-1077,Regional Jet,LPPT,LDZA,-0.0
+1077,Regional Jet,LPPT,LDZA,0.0
 1078,Regional Jet,LPPT,EBBR,1.0
 1079,Regional Jet,LPPT,EIDW,1.0
 1080,Regional Jet,LPPT,LGAV,1.0
@@ -1089,48 +1089,48 @@
 1087,Regional Jet,LPPT,LFQQ,1.0
 1088,Regional Jet,LPPT,LPPT,0.0
 1089,Single Aisle Twin Engine Jet,LIRF,LIRF,0.0
-1090,Single Aisle Twin Engine Jet,LIRF,EDDT,1.0
+1090,Single Aisle Twin Engine Jet,LIRF,EDDT,0.0
 1091,Single Aisle Twin Engine Jet,LIRF,RJAA,0.0
-1092,Single Aisle Twin Engine Jet,LIRF,EDDM,1.0
-1093,Single Aisle Twin Engine Jet,LIRF,LFPG,1.0
+1092,Single Aisle Twin Engine Jet,LIRF,EDDM,0.0
+1093,Single Aisle Twin Engine Jet,LIRF,LFPG,0.0
 1094,Single Aisle Twin Engine Jet,LIRF,SAEZ,0.0
 1095,Single Aisle Twin Engine Jet,LIRF,CYYZ,0.0
 1096,Single Aisle Twin Engine Jet,LIRF,MMMX,0.0
 1097,Single Aisle Twin Engine Jet,LIRF,CYVR,0.0
-1098,Single Aisle Twin Engine Jet,LIRF,EDDF,-0.0
+1098,Single Aisle Twin Engine Jet,LIRF,EDDF,0.0
 1099,Single Aisle Twin Engine Jet,LIRF,KJFK,0.0
 1100,Single Aisle Twin Engine Jet,LIRF,SBGL,0.0
-1101,Single Aisle Twin Engine Jet,LIRF,LEMD,1.0
+1101,Single Aisle Twin Engine Jet,LIRF,LEMD,0.0
 1102,Single Aisle Twin Engine Jet,LIRF,ZSPD,0.0
 1103,Single Aisle Twin Engine Jet,LIRF,OMDB,1.0
-1104,Single Aisle Twin Engine Jet,LIRF,LTFM,1.0
+1104,Single Aisle Twin Engine Jet,LIRF,LTFM,0.0
 1105,Single Aisle Twin Engine Jet,LIRF,ZBAA,0.0
 1106,Single Aisle Twin Engine Jet,LIRF,VIDP,1.0
 1107,Single Aisle Twin Engine Jet,LIRF,EFRO,0.0
-1108,Single Aisle Twin Engine Jet,LIRF,EHEH,-0.0
-1109,Single Aisle Twin Engine Jet,LIRF,EFHK,-0.0
-1110,Single Aisle Twin Engine Jet,LIRF,LDZA,-0.0
-1111,Single Aisle Twin Engine Jet,LIRF,EBBR,-0.0
-1112,Single Aisle Twin Engine Jet,LIRF,EIDW,-0.0
-1113,Single Aisle Twin Engine Jet,LIRF,LGAV,1.0
-1114,Single Aisle Twin Engine Jet,LIRF,BIKF,-0.0
-1115,Single Aisle Twin Engine Jet,LIRF,EETN,-0.0
-1116,Single Aisle Twin Engine Jet,LIRF,LKPR,-0.0
+1108,Single Aisle Twin Engine Jet,LIRF,EHEH,0.0
+1109,Single Aisle Twin Engine Jet,LIRF,EFHK,0.0
+1110,Single Aisle Twin Engine Jet,LIRF,LDZA,0.0
+1111,Single Aisle Twin Engine Jet,LIRF,EBBR,0.0
+1112,Single Aisle Twin Engine Jet,LIRF,EIDW,1.0
+1113,Single Aisle Twin Engine Jet,LIRF,LGAV,0.0
+1114,Single Aisle Twin Engine Jet,LIRF,BIKF,1.0
+1115,Single Aisle Twin Engine Jet,LIRF,EETN,0.0
+1116,Single Aisle Twin Engine Jet,LIRF,LKPR,0.0
 1117,Single Aisle Twin Engine Jet,LIRF,FACT,0.0
-1118,Single Aisle Twin Engine Jet,LIRF,ESSA,-0.0
-1119,Single Aisle Twin Engine Jet,LIRF,EGPH,-0.0
-1120,Single Aisle Twin Engine Jet,LIRF,LFQQ,-0.0
-1121,Single Aisle Twin Engine Jet,LIRF,LPPT,-0.0
-1122,Single Aisle Twin Engine Jet,EDDT,LIRF,1.0
+1118,Single Aisle Twin Engine Jet,LIRF,ESSA,0.0
+1119,Single Aisle Twin Engine Jet,LIRF,EGPH,0.0
+1120,Single Aisle Twin Engine Jet,LIRF,LFQQ,0.0
+1121,Single Aisle Twin Engine Jet,LIRF,LPPT,0.0
+1122,Single Aisle Twin Engine Jet,EDDT,LIRF,0.0
 1123,Single Aisle Twin Engine Jet,EDDT,EDDT,0.0
 1124,Single Aisle Twin Engine Jet,EDDT,RJAA,0.0
-1125,Single Aisle Twin Engine Jet,EDDT,EDDM,-0.0
+1125,Single Aisle Twin Engine Jet,EDDT,EDDM,0.0
 1126,Single Aisle Twin Engine Jet,EDDT,LFPG,2.0
 1127,Single Aisle Twin Engine Jet,EDDT,SAEZ,0.0
 1128,Single Aisle Twin Engine Jet,EDDT,CYYZ,0.0
 1129,Single Aisle Twin Engine Jet,EDDT,MMMX,0.0
 1130,Single Aisle Twin Engine Jet,EDDT,CYVR,0.0
-1131,Single Aisle Twin Engine Jet,EDDT,EDDF,-0.0
+1131,Single Aisle Twin Engine Jet,EDDT,EDDF,0.0
 1132,Single Aisle Twin Engine Jet,EDDT,KJFK,0.0
 1133,Single Aisle Twin Engine Jet,EDDT,SBGL,0.0
 1134,Single Aisle Twin Engine Jet,EDDT,LEMD,1.0
@@ -1140,20 +1140,20 @@
 1138,Single Aisle Twin Engine Jet,EDDT,ZBAA,0.0
 1139,Single Aisle Twin Engine Jet,EDDT,VIDP,1.0
 1140,Single Aisle Twin Engine Jet,EDDT,EFRO,0.0
-1141,Single Aisle Twin Engine Jet,EDDT,EHEH,-0.0
-1142,Single Aisle Twin Engine Jet,EDDT,EFHK,-0.0
-1143,Single Aisle Twin Engine Jet,EDDT,LDZA,-0.0
-1144,Single Aisle Twin Engine Jet,EDDT,EBBR,-0.0
-1145,Single Aisle Twin Engine Jet,EDDT,EIDW,-0.0
-1146,Single Aisle Twin Engine Jet,EDDT,LGAV,-0.0
+1141,Single Aisle Twin Engine Jet,EDDT,EHEH,0.0
+1142,Single Aisle Twin Engine Jet,EDDT,EFHK,0.0
+1143,Single Aisle Twin Engine Jet,EDDT,LDZA,0.0
+1144,Single Aisle Twin Engine Jet,EDDT,EBBR,0.0
+1145,Single Aisle Twin Engine Jet,EDDT,EIDW,0.0
+1146,Single Aisle Twin Engine Jet,EDDT,LGAV,0.0
 1147,Single Aisle Twin Engine Jet,EDDT,BIKF,0.0
-1148,Single Aisle Twin Engine Jet,EDDT,EETN,-0.0
+1148,Single Aisle Twin Engine Jet,EDDT,EETN,0.0
 1149,Single Aisle Twin Engine Jet,EDDT,LKPR,0.0
 1150,Single Aisle Twin Engine Jet,EDDT,FACT,0.0
 1151,Single Aisle Twin Engine Jet,EDDT,ESSA,1.0
-1152,Single Aisle Twin Engine Jet,EDDT,EGPH,-0.0
-1153,Single Aisle Twin Engine Jet,EDDT,LFQQ,-0.0
-1154,Single Aisle Twin Engine Jet,EDDT,LPPT,-0.0
+1152,Single Aisle Twin Engine Jet,EDDT,EGPH,0.0
+1153,Single Aisle Twin Engine Jet,EDDT,LFQQ,0.0
+1154,Single Aisle Twin Engine Jet,EDDT,LPPT,0.0
 1155,Single Aisle Twin Engine Jet,RJAA,LIRF,0.0
 1156,Single Aisle Twin Engine Jet,RJAA,EDDT,0.0
 1157,Single Aisle Twin Engine Jet,RJAA,RJAA,0.0
@@ -1170,7 +1170,7 @@
 1168,Single Aisle Twin Engine Jet,RJAA,ZSPD,2.0
 1169,Single Aisle Twin Engine Jet,RJAA,OMDB,0.0
 1170,Single Aisle Twin Engine Jet,RJAA,LTFM,0.0
-1171,Single Aisle Twin Engine Jet,RJAA,ZBAA,1.0
+1171,Single Aisle Twin Engine Jet,RJAA,ZBAA,3.0
 1172,Single Aisle Twin Engine Jet,RJAA,VIDP,3.0
 1173,Single Aisle Twin Engine Jet,RJAA,EFRO,0.0
 1174,Single Aisle Twin Engine Jet,RJAA,EHEH,0.0
@@ -1187,8 +1187,8 @@
 1185,Single Aisle Twin Engine Jet,RJAA,EGPH,0.0
 1186,Single Aisle Twin Engine Jet,RJAA,LFQQ,0.0
 1187,Single Aisle Twin Engine Jet,RJAA,LPPT,0.0
-1188,Single Aisle Twin Engine Jet,EDDM,LIRF,1.0
-1189,Single Aisle Twin Engine Jet,EDDM,EDDT,-0.0
+1188,Single Aisle Twin Engine Jet,EDDM,LIRF,0.0
+1189,Single Aisle Twin Engine Jet,EDDM,EDDT,0.0
 1190,Single Aisle Twin Engine Jet,EDDM,RJAA,0.0
 1191,Single Aisle Twin Engine Jet,EDDM,EDDM,0.0
 1192,Single Aisle Twin Engine Jet,EDDM,LFPG,1.0
@@ -1196,7 +1196,7 @@
 1194,Single Aisle Twin Engine Jet,EDDM,CYYZ,0.0
 1195,Single Aisle Twin Engine Jet,EDDM,MMMX,0.0
 1196,Single Aisle Twin Engine Jet,EDDM,CYVR,0.0
-1197,Single Aisle Twin Engine Jet,EDDM,EDDF,-0.0
+1197,Single Aisle Twin Engine Jet,EDDM,EDDF,0.0
 1198,Single Aisle Twin Engine Jet,EDDM,KJFK,0.0
 1199,Single Aisle Twin Engine Jet,EDDM,SBGL,0.0
 1200,Single Aisle Twin Engine Jet,EDDM,LEMD,1.0
@@ -1206,21 +1206,21 @@
 1204,Single Aisle Twin Engine Jet,EDDM,ZBAA,0.0
 1205,Single Aisle Twin Engine Jet,EDDM,VIDP,1.0
 1206,Single Aisle Twin Engine Jet,EDDM,EFRO,0.0
-1207,Single Aisle Twin Engine Jet,EDDM,EHEH,-0.0
-1208,Single Aisle Twin Engine Jet,EDDM,EFHK,-0.0
-1209,Single Aisle Twin Engine Jet,EDDM,LDZA,-0.0
-1210,Single Aisle Twin Engine Jet,EDDM,EBBR,-0.0
-1211,Single Aisle Twin Engine Jet,EDDM,EIDW,-0.0
-1212,Single Aisle Twin Engine Jet,EDDM,LGAV,-0.0
+1207,Single Aisle Twin Engine Jet,EDDM,EHEH,0.0
+1208,Single Aisle Twin Engine Jet,EDDM,EFHK,0.0
+1209,Single Aisle Twin Engine Jet,EDDM,LDZA,0.0
+1210,Single Aisle Twin Engine Jet,EDDM,EBBR,0.0
+1211,Single Aisle Twin Engine Jet,EDDM,EIDW,0.0
+1212,Single Aisle Twin Engine Jet,EDDM,LGAV,0.0
 1213,Single Aisle Twin Engine Jet,EDDM,BIKF,0.0
-1214,Single Aisle Twin Engine Jet,EDDM,EETN,-0.0
-1215,Single Aisle Twin Engine Jet,EDDM,LKPR,-0.0
+1214,Single Aisle Twin Engine Jet,EDDM,EETN,0.0
+1215,Single Aisle Twin Engine Jet,EDDM,LKPR,0.0
 1216,Single Aisle Twin Engine Jet,EDDM,FACT,0.0
-1217,Single Aisle Twin Engine Jet,EDDM,ESSA,-0.0
-1218,Single Aisle Twin Engine Jet,EDDM,EGPH,-0.0
-1219,Single Aisle Twin Engine Jet,EDDM,LFQQ,-0.0
-1220,Single Aisle Twin Engine Jet,EDDM,LPPT,-0.0
-1221,Single Aisle Twin Engine Jet,LFPG,LIRF,1.0
+1217,Single Aisle Twin Engine Jet,EDDM,ESSA,0.0
+1218,Single Aisle Twin Engine Jet,EDDM,EGPH,0.0
+1219,Single Aisle Twin Engine Jet,EDDM,LFQQ,0.0
+1220,Single Aisle Twin Engine Jet,EDDM,LPPT,0.0
+1221,Single Aisle Twin Engine Jet,LFPG,LIRF,0.0
 1222,Single Aisle Twin Engine Jet,LFPG,EDDT,1.0
 1223,Single Aisle Twin Engine Jet,LFPG,RJAA,0.0
 1224,Single Aisle Twin Engine Jet,LFPG,EDDM,1.0
@@ -1230,7 +1230,7 @@
 1228,Single Aisle Twin Engine Jet,LFPG,MMMX,0.0
 1229,Single Aisle Twin Engine Jet,LFPG,CYVR,0.0
 1230,Single Aisle Twin Engine Jet,LFPG,EDDF,1.0
-1231,Single Aisle Twin Engine Jet,LFPG,KJFK,-0.0
+1231,Single Aisle Twin Engine Jet,LFPG,KJFK,0.0
 1232,Single Aisle Twin Engine Jet,LFPG,SBGL,0.0
 1233,Single Aisle Twin Engine Jet,LFPG,LEMD,2.0
 1234,Single Aisle Twin Engine Jet,LFPG,ZSPD,0.0
@@ -1238,19 +1238,19 @@
 1236,Single Aisle Twin Engine Jet,LFPG,LTFM,2.0
 1237,Single Aisle Twin Engine Jet,LFPG,ZBAA,0.0
 1238,Single Aisle Twin Engine Jet,LFPG,VIDP,0.0
-1239,Single Aisle Twin Engine Jet,LFPG,EFRO,-0.0
-1240,Single Aisle Twin Engine Jet,LFPG,EHEH,-0.0
+1239,Single Aisle Twin Engine Jet,LFPG,EFRO,0.0
+1240,Single Aisle Twin Engine Jet,LFPG,EHEH,0.0
 1241,Single Aisle Twin Engine Jet,LFPG,EFHK,1.0
-1242,Single Aisle Twin Engine Jet,LFPG,LDZA,-0.0
+1242,Single Aisle Twin Engine Jet,LFPG,LDZA,0.0
 1243,Single Aisle Twin Engine Jet,LFPG,EBBR,2.0
 1244,Single Aisle Twin Engine Jet,LFPG,EIDW,1.0
 1245,Single Aisle Twin Engine Jet,LFPG,LGAV,1.0
-1246,Single Aisle Twin Engine Jet,LFPG,BIKF,-0.0
-1247,Single Aisle Twin Engine Jet,LFPG,EETN,-0.0
+1246,Single Aisle Twin Engine Jet,LFPG,BIKF,0.0
+1247,Single Aisle Twin Engine Jet,LFPG,EETN,0.0
 1248,Single Aisle Twin Engine Jet,LFPG,LKPR,1.0
 1249,Single Aisle Twin Engine Jet,LFPG,FACT,0.0
 1250,Single Aisle Twin Engine Jet,LFPG,ESSA,1.0
-1251,Single Aisle Twin Engine Jet,LFPG,EGPH,-0.0
+1251,Single Aisle Twin Engine Jet,LFPG,EGPH,0.0
 1252,Single Aisle Twin Engine Jet,LFPG,LFQQ,0.0
 1253,Single Aisle Twin Engine Jet,LFPG,LPPT,1.0
 1254,Single Aisle Twin Engine Jet,SAEZ,LIRF,0.0
@@ -1385,10 +1385,10 @@
 1383,Single Aisle Twin Engine Jet,CYVR,EGPH,0.0
 1384,Single Aisle Twin Engine Jet,CYVR,LFQQ,0.0
 1385,Single Aisle Twin Engine Jet,CYVR,LPPT,0.0
-1386,Single Aisle Twin Engine Jet,EDDF,LIRF,1.0
-1387,Single Aisle Twin Engine Jet,EDDF,EDDT,-0.0
+1386,Single Aisle Twin Engine Jet,EDDF,LIRF,0.0
+1387,Single Aisle Twin Engine Jet,EDDF,EDDT,0.0
 1388,Single Aisle Twin Engine Jet,EDDF,RJAA,0.0
-1389,Single Aisle Twin Engine Jet,EDDF,EDDM,-0.0
+1389,Single Aisle Twin Engine Jet,EDDF,EDDM,0.0
 1390,Single Aisle Twin Engine Jet,EDDF,LFPG,1.0
 1391,Single Aisle Twin Engine Jet,EDDF,SAEZ,0.0
 1392,Single Aisle Twin Engine Jet,EDDF,CYYZ,0.0
@@ -1404,28 +1404,28 @@
 1402,Single Aisle Twin Engine Jet,EDDF,ZBAA,0.0
 1403,Single Aisle Twin Engine Jet,EDDF,VIDP,1.0
 1404,Single Aisle Twin Engine Jet,EDDF,EFRO,0.0
-1405,Single Aisle Twin Engine Jet,EDDF,EHEH,-0.0
-1406,Single Aisle Twin Engine Jet,EDDF,EFHK,-0.0
-1407,Single Aisle Twin Engine Jet,EDDF,LDZA,-0.0
-1408,Single Aisle Twin Engine Jet,EDDF,EBBR,-0.0
-1409,Single Aisle Twin Engine Jet,EDDF,EIDW,-0.0
-1410,Single Aisle Twin Engine Jet,EDDF,LGAV,-0.0
+1405,Single Aisle Twin Engine Jet,EDDF,EHEH,0.0
+1406,Single Aisle Twin Engine Jet,EDDF,EFHK,0.0
+1407,Single Aisle Twin Engine Jet,EDDF,LDZA,0.0
+1408,Single Aisle Twin Engine Jet,EDDF,EBBR,0.0
+1409,Single Aisle Twin Engine Jet,EDDF,EIDW,0.0
+1410,Single Aisle Twin Engine Jet,EDDF,LGAV,0.0
 1411,Single Aisle Twin Engine Jet,EDDF,BIKF,0.0
-1412,Single Aisle Twin Engine Jet,EDDF,EETN,-0.0
-1413,Single Aisle Twin Engine Jet,EDDF,LKPR,-0.0
+1412,Single Aisle Twin Engine Jet,EDDF,EETN,0.0
+1413,Single Aisle Twin Engine Jet,EDDF,LKPR,0.0
 1414,Single Aisle Twin Engine Jet,EDDF,FACT,0.0
-1415,Single Aisle Twin Engine Jet,EDDF,ESSA,-0.0
-1416,Single Aisle Twin Engine Jet,EDDF,EGPH,-0.0
-1417,Single Aisle Twin Engine Jet,EDDF,LFQQ,-0.0
-1418,Single Aisle Twin Engine Jet,EDDF,LPPT,-0.0
+1415,Single Aisle Twin Engine Jet,EDDF,ESSA,0.0
+1416,Single Aisle Twin Engine Jet,EDDF,EGPH,0.0
+1417,Single Aisle Twin Engine Jet,EDDF,LFQQ,0.0
+1418,Single Aisle Twin Engine Jet,EDDF,LPPT,0.0
 1419,Single Aisle Twin Engine Jet,KJFK,LIRF,0.0
 1420,Single Aisle Twin Engine Jet,KJFK,EDDT,0.0
 1421,Single Aisle Twin Engine Jet,KJFK,RJAA,0.0
 1422,Single Aisle Twin Engine Jet,KJFK,EDDM,0.0
-1423,Single Aisle Twin Engine Jet,KJFK,LFPG,-0.0
+1423,Single Aisle Twin Engine Jet,KJFK,LFPG,0.0
 1424,Single Aisle Twin Engine Jet,KJFK,SAEZ,0.0
 1425,Single Aisle Twin Engine Jet,KJFK,CYYZ,0.0
-1426,Single Aisle Twin Engine Jet,KJFK,MMMX,-0.0
+1426,Single Aisle Twin Engine Jet,KJFK,MMMX,0.0
 1427,Single Aisle Twin Engine Jet,KJFK,CYVR,1.0
 1428,Single Aisle Twin Engine Jet,KJFK,EDDF,1.0
 1429,Single Aisle Twin Engine Jet,KJFK,KJFK,0.0
@@ -1437,13 +1437,13 @@
 1435,Single Aisle Twin Engine Jet,KJFK,ZBAA,0.0
 1436,Single Aisle Twin Engine Jet,KJFK,VIDP,0.0
 1437,Single Aisle Twin Engine Jet,KJFK,EFRO,0.0
-1438,Single Aisle Twin Engine Jet,KJFK,EHEH,-0.0
+1438,Single Aisle Twin Engine Jet,KJFK,EHEH,0.0
 1439,Single Aisle Twin Engine Jet,KJFK,EFHK,0.0
 1440,Single Aisle Twin Engine Jet,KJFK,LDZA,0.0
 1441,Single Aisle Twin Engine Jet,KJFK,EBBR,1.0
 1442,Single Aisle Twin Engine Jet,KJFK,EIDW,1.0
 1443,Single Aisle Twin Engine Jet,KJFK,LGAV,0.0
-1444,Single Aisle Twin Engine Jet,KJFK,BIKF,-0.0
+1444,Single Aisle Twin Engine Jet,KJFK,BIKF,0.0
 1445,Single Aisle Twin Engine Jet,KJFK,EETN,0.0
 1446,Single Aisle Twin Engine Jet,KJFK,LKPR,0.0
 1447,Single Aisle Twin Engine Jet,KJFK,FACT,0.0
@@ -1484,7 +1484,7 @@
 1482,Single Aisle Twin Engine Jet,SBGL,EGPH,0.0
 1483,Single Aisle Twin Engine Jet,SBGL,LFQQ,0.0
 1484,Single Aisle Twin Engine Jet,SBGL,LPPT,0.0
-1485,Single Aisle Twin Engine Jet,LEMD,LIRF,1.0
+1485,Single Aisle Twin Engine Jet,LEMD,LIRF,0.0
 1486,Single Aisle Twin Engine Jet,LEMD,EDDT,1.0
 1487,Single Aisle Twin Engine Jet,LEMD,RJAA,0.0
 1488,Single Aisle Twin Engine Jet,LEMD,EDDM,1.0
@@ -1503,23 +1503,23 @@
 1501,Single Aisle Twin Engine Jet,LEMD,ZBAA,0.0
 1502,Single Aisle Twin Engine Jet,LEMD,VIDP,0.0
 1503,Single Aisle Twin Engine Jet,LEMD,EFRO,0.0
-1504,Single Aisle Twin Engine Jet,LEMD,EHEH,-0.0
-1505,Single Aisle Twin Engine Jet,LEMD,EFHK,-0.0
-1506,Single Aisle Twin Engine Jet,LEMD,LDZA,-0.0
+1504,Single Aisle Twin Engine Jet,LEMD,EHEH,0.0
+1505,Single Aisle Twin Engine Jet,LEMD,EFHK,0.0
+1506,Single Aisle Twin Engine Jet,LEMD,LDZA,0.0
 1507,Single Aisle Twin Engine Jet,LEMD,EBBR,1.0
 1508,Single Aisle Twin Engine Jet,LEMD,EIDW,1.0
-1509,Single Aisle Twin Engine Jet,LEMD,LGAV,-0.0
-1510,Single Aisle Twin Engine Jet,LEMD,BIKF,-0.0
-1511,Single Aisle Twin Engine Jet,LEMD,EETN,-0.0
-1512,Single Aisle Twin Engine Jet,LEMD,LKPR,-0.0
+1509,Single Aisle Twin Engine Jet,LEMD,LGAV,0.0
+1510,Single Aisle Twin Engine Jet,LEMD,BIKF,0.0
+1511,Single Aisle Twin Engine Jet,LEMD,EETN,0.0
+1512,Single Aisle Twin Engine Jet,LEMD,LKPR,0.0
 1513,Single Aisle Twin Engine Jet,LEMD,FACT,0.0
-1514,Single Aisle Twin Engine Jet,LEMD,ESSA,-0.0
-1515,Single Aisle Twin Engine Jet,LEMD,EGPH,-0.0
-1516,Single Aisle Twin Engine Jet,LEMD,LFQQ,-0.0
+1514,Single Aisle Twin Engine Jet,LEMD,ESSA,0.0
+1515,Single Aisle Twin Engine Jet,LEMD,EGPH,0.0
+1516,Single Aisle Twin Engine Jet,LEMD,LFQQ,0.0
 1517,Single Aisle Twin Engine Jet,LEMD,LPPT,1.0
 1518,Single Aisle Twin Engine Jet,ZSPD,LIRF,0.0
 1519,Single Aisle Twin Engine Jet,ZSPD,EDDT,0.0
-1520,Single Aisle Twin Engine Jet,ZSPD,RJAA,0.0
+1520,Single Aisle Twin Engine Jet,ZSPD,RJAA,3.0
 1521,Single Aisle Twin Engine Jet,ZSPD,EDDM,0.0
 1522,Single Aisle Twin Engine Jet,ZSPD,LFPG,0.0
 1523,Single Aisle Twin Engine Jet,ZSPD,SAEZ,0.0
@@ -1534,7 +1534,7 @@
 1532,Single Aisle Twin Engine Jet,ZSPD,OMDB,0.0
 1533,Single Aisle Twin Engine Jet,ZSPD,LTFM,0.0
 1534,Single Aisle Twin Engine Jet,ZSPD,ZBAA,1.0
-1535,Single Aisle Twin Engine Jet,ZSPD,VIDP,-0.0
+1535,Single Aisle Twin Engine Jet,ZSPD,VIDP,0.0
 1536,Single Aisle Twin Engine Jet,ZSPD,EFRO,0.0
 1537,Single Aisle Twin Engine Jet,ZSPD,EHEH,0.0
 1538,Single Aisle Twin Engine Jet,ZSPD,EFHK,0.0
@@ -1570,11 +1570,11 @@
 1568,Single Aisle Twin Engine Jet,OMDB,VIDP,1.0
 1569,Single Aisle Twin Engine Jet,OMDB,EFRO,0.0
 1570,Single Aisle Twin Engine Jet,OMDB,EHEH,0.0
-1571,Single Aisle Twin Engine Jet,OMDB,EFHK,-0.0
+1571,Single Aisle Twin Engine Jet,OMDB,EFHK,0.0
 1572,Single Aisle Twin Engine Jet,OMDB,LDZA,0.0
-1573,Single Aisle Twin Engine Jet,OMDB,EBBR,-0.0
-1574,Single Aisle Twin Engine Jet,OMDB,EIDW,-0.0
-1575,Single Aisle Twin Engine Jet,OMDB,LGAV,-0.0
+1573,Single Aisle Twin Engine Jet,OMDB,EBBR,0.0
+1574,Single Aisle Twin Engine Jet,OMDB,EIDW,0.0
+1575,Single Aisle Twin Engine Jet,OMDB,LGAV,0.0
 1576,Single Aisle Twin Engine Jet,OMDB,BIKF,0.0
 1577,Single Aisle Twin Engine Jet,OMDB,EETN,0.0
 1578,Single Aisle Twin Engine Jet,OMDB,LKPR,0.0
@@ -1583,7 +1583,7 @@
 1581,Single Aisle Twin Engine Jet,OMDB,EGPH,0.0
 1582,Single Aisle Twin Engine Jet,OMDB,LFQQ,0.0
 1583,Single Aisle Twin Engine Jet,OMDB,LPPT,0.0
-1584,Single Aisle Twin Engine Jet,LTFM,LIRF,1.0
+1584,Single Aisle Twin Engine Jet,LTFM,LIRF,0.0
 1585,Single Aisle Twin Engine Jet,LTFM,EDDT,1.0
 1586,Single Aisle Twin Engine Jet,LTFM,RJAA,0.0
 1587,Single Aisle Twin Engine Jet,LTFM,EDDM,1.0
@@ -1602,23 +1602,23 @@
 1600,Single Aisle Twin Engine Jet,LTFM,ZBAA,0.0
 1601,Single Aisle Twin Engine Jet,LTFM,VIDP,2.0
 1602,Single Aisle Twin Engine Jet,LTFM,EFRO,0.0
-1603,Single Aisle Twin Engine Jet,LTFM,EHEH,-0.0
-1604,Single Aisle Twin Engine Jet,LTFM,EFHK,-0.0
-1605,Single Aisle Twin Engine Jet,LTFM,LDZA,-0.0
+1603,Single Aisle Twin Engine Jet,LTFM,EHEH,0.0
+1604,Single Aisle Twin Engine Jet,LTFM,EFHK,0.0
+1605,Single Aisle Twin Engine Jet,LTFM,LDZA,0.0
 1606,Single Aisle Twin Engine Jet,LTFM,EBBR,1.0
 1607,Single Aisle Twin Engine Jet,LTFM,EIDW,1.0
 1608,Single Aisle Twin Engine Jet,LTFM,LGAV,1.0
 1609,Single Aisle Twin Engine Jet,LTFM,BIKF,0.0
-1610,Single Aisle Twin Engine Jet,LTFM,EETN,-0.0
+1610,Single Aisle Twin Engine Jet,LTFM,EETN,0.0
 1611,Single Aisle Twin Engine Jet,LTFM,LKPR,1.0
 1612,Single Aisle Twin Engine Jet,LTFM,FACT,0.0
 1613,Single Aisle Twin Engine Jet,LTFM,ESSA,1.0
-1614,Single Aisle Twin Engine Jet,LTFM,EGPH,-0.0
-1615,Single Aisle Twin Engine Jet,LTFM,LFQQ,-0.0
+1614,Single Aisle Twin Engine Jet,LTFM,EGPH,0.0
+1615,Single Aisle Twin Engine Jet,LTFM,LFQQ,0.0
 1616,Single Aisle Twin Engine Jet,LTFM,LPPT,1.0
 1617,Single Aisle Twin Engine Jet,ZBAA,LIRF,0.0
 1618,Single Aisle Twin Engine Jet,ZBAA,EDDT,0.0
-1619,Single Aisle Twin Engine Jet,ZBAA,RJAA,1.0
+1619,Single Aisle Twin Engine Jet,ZBAA,RJAA,3.0
 1620,Single Aisle Twin Engine Jet,ZBAA,EDDM,0.0
 1621,Single Aisle Twin Engine Jet,ZBAA,LFPG,0.0
 1622,Single Aisle Twin Engine Jet,ZBAA,SAEZ,0.0
@@ -1649,7 +1649,7 @@
 1647,Single Aisle Twin Engine Jet,ZBAA,EGPH,0.0
 1648,Single Aisle Twin Engine Jet,ZBAA,LFQQ,0.0
 1649,Single Aisle Twin Engine Jet,ZBAA,LPPT,0.0
-1650,Single Aisle Twin Engine Jet,VIDP,LIRF,1.0
+1650,Single Aisle Twin Engine Jet,VIDP,LIRF,0.0
 1651,Single Aisle Twin Engine Jet,VIDP,EDDT,1.0
 1652,Single Aisle Twin Engine Jet,VIDP,RJAA,3.0
 1653,Single Aisle Twin Engine Jet,VIDP,EDDM,1.0
@@ -1662,7 +1662,7 @@
 1660,Single Aisle Twin Engine Jet,VIDP,KJFK,0.0
 1661,Single Aisle Twin Engine Jet,VIDP,SBGL,0.0
 1662,Single Aisle Twin Engine Jet,VIDP,LEMD,0.0
-1663,Single Aisle Twin Engine Jet,VIDP,ZSPD,-0.0
+1663,Single Aisle Twin Engine Jet,VIDP,ZSPD,0.0
 1664,Single Aisle Twin Engine Jet,VIDP,OMDB,1.0
 1665,Single Aisle Twin Engine Jet,VIDP,LTFM,2.0
 1666,Single Aisle Twin Engine Jet,VIDP,ZBAA,0.0
@@ -1670,12 +1670,12 @@
 1668,Single Aisle Twin Engine Jet,VIDP,EFRO,0.0
 1669,Single Aisle Twin Engine Jet,VIDP,EHEH,0.0
 1670,Single Aisle Twin Engine Jet,VIDP,EFHK,1.0
-1671,Single Aisle Twin Engine Jet,VIDP,LDZA,-0.0
+1671,Single Aisle Twin Engine Jet,VIDP,LDZA,0.0
 1672,Single Aisle Twin Engine Jet,VIDP,EBBR,0.0
 1673,Single Aisle Twin Engine Jet,VIDP,EIDW,0.0
 1674,Single Aisle Twin Engine Jet,VIDP,LGAV,1.0
 1675,Single Aisle Twin Engine Jet,VIDP,BIKF,0.0
-1676,Single Aisle Twin Engine Jet,VIDP,EETN,-0.0
+1676,Single Aisle Twin Engine Jet,VIDP,EETN,0.0
 1677,Single Aisle Twin Engine Jet,VIDP,LKPR,1.0
 1678,Single Aisle Twin Engine Jet,VIDP,FACT,0.0
 1679,Single Aisle Twin Engine Jet,VIDP,ESSA,1.0
@@ -1686,7 +1686,7 @@
 1684,Single Aisle Twin Engine Jet,EFRO,EDDT,0.0
 1685,Single Aisle Twin Engine Jet,EFRO,RJAA,0.0
 1686,Single Aisle Twin Engine Jet,EFRO,EDDM,0.0
-1687,Single Aisle Twin Engine Jet,EFRO,LFPG,-0.0
+1687,Single Aisle Twin Engine Jet,EFRO,LFPG,0.0
 1688,Single Aisle Twin Engine Jet,EFRO,SAEZ,0.0
 1689,Single Aisle Twin Engine Jet,EFRO,CYYZ,0.0
 1690,Single Aisle Twin Engine Jet,EFRO,MMMX,0.0
@@ -1715,217 +1715,217 @@
 1713,Single Aisle Twin Engine Jet,EFRO,EGPH,0.0
 1714,Single Aisle Twin Engine Jet,EFRO,LFQQ,0.0
 1715,Single Aisle Twin Engine Jet,EFRO,LPPT,0.0
-1716,Single Aisle Twin Engine Jet,EHEH,LIRF,-0.0
-1717,Single Aisle Twin Engine Jet,EHEH,EDDT,-0.0
+1716,Single Aisle Twin Engine Jet,EHEH,LIRF,0.0
+1717,Single Aisle Twin Engine Jet,EHEH,EDDT,0.0
 1718,Single Aisle Twin Engine Jet,EHEH,RJAA,0.0
-1719,Single Aisle Twin Engine Jet,EHEH,EDDM,-0.0
-1720,Single Aisle Twin Engine Jet,EHEH,LFPG,-0.0
+1719,Single Aisle Twin Engine Jet,EHEH,EDDM,0.0
+1720,Single Aisle Twin Engine Jet,EHEH,LFPG,0.0
 1721,Single Aisle Twin Engine Jet,EHEH,SAEZ,0.0
 1722,Single Aisle Twin Engine Jet,EHEH,CYYZ,0.0
 1723,Single Aisle Twin Engine Jet,EHEH,MMMX,0.0
 1724,Single Aisle Twin Engine Jet,EHEH,CYVR,0.0
-1725,Single Aisle Twin Engine Jet,EHEH,EDDF,-0.0
-1726,Single Aisle Twin Engine Jet,EHEH,KJFK,-0.0
+1725,Single Aisle Twin Engine Jet,EHEH,EDDF,0.0
+1726,Single Aisle Twin Engine Jet,EHEH,KJFK,0.0
 1727,Single Aisle Twin Engine Jet,EHEH,SBGL,0.0
-1728,Single Aisle Twin Engine Jet,EHEH,LEMD,-0.0
+1728,Single Aisle Twin Engine Jet,EHEH,LEMD,0.0
 1729,Single Aisle Twin Engine Jet,EHEH,ZSPD,0.0
 1730,Single Aisle Twin Engine Jet,EHEH,OMDB,0.0
-1731,Single Aisle Twin Engine Jet,EHEH,LTFM,-0.0
+1731,Single Aisle Twin Engine Jet,EHEH,LTFM,0.0
 1732,Single Aisle Twin Engine Jet,EHEH,ZBAA,0.0
 1733,Single Aisle Twin Engine Jet,EHEH,VIDP,0.0
 1734,Single Aisle Twin Engine Jet,EHEH,EFRO,0.0
 1735,Single Aisle Twin Engine Jet,EHEH,EHEH,0.0
 1736,Single Aisle Twin Engine Jet,EHEH,EFHK,0.0
 1737,Single Aisle Twin Engine Jet,EHEH,LDZA,0.0
-1738,Single Aisle Twin Engine Jet,EHEH,EBBR,-0.0
-1739,Single Aisle Twin Engine Jet,EHEH,EIDW,-0.0
+1738,Single Aisle Twin Engine Jet,EHEH,EBBR,0.0
+1739,Single Aisle Twin Engine Jet,EHEH,EIDW,0.0
 1740,Single Aisle Twin Engine Jet,EHEH,LGAV,0.0
 1741,Single Aisle Twin Engine Jet,EHEH,BIKF,0.0
 1742,Single Aisle Twin Engine Jet,EHEH,EETN,0.0
-1743,Single Aisle Twin Engine Jet,EHEH,LKPR,-0.0
+1743,Single Aisle Twin Engine Jet,EHEH,LKPR,0.0
 1744,Single Aisle Twin Engine Jet,EHEH,FACT,0.0
-1745,Single Aisle Twin Engine Jet,EHEH,ESSA,-0.0
+1745,Single Aisle Twin Engine Jet,EHEH,ESSA,0.0
 1746,Single Aisle Twin Engine Jet,EHEH,EGPH,0.0
-1747,Single Aisle Twin Engine Jet,EHEH,LFQQ,-0.0
-1748,Single Aisle Twin Engine Jet,EHEH,LPPT,-0.0
-1749,Single Aisle Twin Engine Jet,EFHK,LIRF,-0.0
-1750,Single Aisle Twin Engine Jet,EFHK,EDDT,-0.0
+1747,Single Aisle Twin Engine Jet,EHEH,LFQQ,0.0
+1748,Single Aisle Twin Engine Jet,EHEH,LPPT,0.0
+1749,Single Aisle Twin Engine Jet,EFHK,LIRF,0.0
+1750,Single Aisle Twin Engine Jet,EFHK,EDDT,0.0
 1751,Single Aisle Twin Engine Jet,EFHK,RJAA,0.0
-1752,Single Aisle Twin Engine Jet,EFHK,EDDM,-0.0
-1753,Single Aisle Twin Engine Jet,EFHK,LFPG,-0.0
+1752,Single Aisle Twin Engine Jet,EFHK,EDDM,0.0
+1753,Single Aisle Twin Engine Jet,EFHK,LFPG,0.0
 1754,Single Aisle Twin Engine Jet,EFHK,SAEZ,0.0
 1755,Single Aisle Twin Engine Jet,EFHK,CYYZ,0.0
 1756,Single Aisle Twin Engine Jet,EFHK,MMMX,0.0
 1757,Single Aisle Twin Engine Jet,EFHK,CYVR,0.0
-1758,Single Aisle Twin Engine Jet,EFHK,EDDF,-0.0
+1758,Single Aisle Twin Engine Jet,EFHK,EDDF,0.0
 1759,Single Aisle Twin Engine Jet,EFHK,KJFK,0.0
 1760,Single Aisle Twin Engine Jet,EFHK,SBGL,0.0
-1761,Single Aisle Twin Engine Jet,EFHK,LEMD,-0.0
+1761,Single Aisle Twin Engine Jet,EFHK,LEMD,0.0
 1762,Single Aisle Twin Engine Jet,EFHK,ZSPD,0.0
-1763,Single Aisle Twin Engine Jet,EFHK,OMDB,-0.0
+1763,Single Aisle Twin Engine Jet,EFHK,OMDB,0.0
 1764,Single Aisle Twin Engine Jet,EFHK,LTFM,1.0
 1765,Single Aisle Twin Engine Jet,EFHK,ZBAA,0.0
 1766,Single Aisle Twin Engine Jet,EFHK,VIDP,1.0
 1767,Single Aisle Twin Engine Jet,EFHK,EFRO,0.0
 1768,Single Aisle Twin Engine Jet,EFHK,EHEH,0.0
 1769,Single Aisle Twin Engine Jet,EFHK,EFHK,0.0
-1770,Single Aisle Twin Engine Jet,EFHK,LDZA,-0.0
-1771,Single Aisle Twin Engine Jet,EFHK,EBBR,-0.0
-1772,Single Aisle Twin Engine Jet,EFHK,EIDW,-0.0
-1773,Single Aisle Twin Engine Jet,EFHK,LGAV,-0.0
+1770,Single Aisle Twin Engine Jet,EFHK,LDZA,0.0
+1771,Single Aisle Twin Engine Jet,EFHK,EBBR,0.0
+1772,Single Aisle Twin Engine Jet,EFHK,EIDW,0.0
+1773,Single Aisle Twin Engine Jet,EFHK,LGAV,0.0
 1774,Single Aisle Twin Engine Jet,EFHK,BIKF,0.0
-1775,Single Aisle Twin Engine Jet,EFHK,EETN,-0.0
-1776,Single Aisle Twin Engine Jet,EFHK,LKPR,-0.0
+1775,Single Aisle Twin Engine Jet,EFHK,EETN,0.0
+1776,Single Aisle Twin Engine Jet,EFHK,LKPR,0.0
 1777,Single Aisle Twin Engine Jet,EFHK,FACT,0.0
-1778,Single Aisle Twin Engine Jet,EFHK,ESSA,-0.0
-1779,Single Aisle Twin Engine Jet,EFHK,EGPH,-0.0
-1780,Single Aisle Twin Engine Jet,EFHK,LFQQ,-0.0
+1778,Single Aisle Twin Engine Jet,EFHK,ESSA,0.0
+1779,Single Aisle Twin Engine Jet,EFHK,EGPH,0.0
+1780,Single Aisle Twin Engine Jet,EFHK,LFQQ,0.0
 1781,Single Aisle Twin Engine Jet,EFHK,LPPT,0.0
-1782,Single Aisle Twin Engine Jet,LDZA,LIRF,-0.0
-1783,Single Aisle Twin Engine Jet,LDZA,EDDT,-0.0
+1782,Single Aisle Twin Engine Jet,LDZA,LIRF,0.0
+1783,Single Aisle Twin Engine Jet,LDZA,EDDT,0.0
 1784,Single Aisle Twin Engine Jet,LDZA,RJAA,0.0
-1785,Single Aisle Twin Engine Jet,LDZA,EDDM,-0.0
-1786,Single Aisle Twin Engine Jet,LDZA,LFPG,-0.0
+1785,Single Aisle Twin Engine Jet,LDZA,EDDM,0.0
+1786,Single Aisle Twin Engine Jet,LDZA,LFPG,0.0
 1787,Single Aisle Twin Engine Jet,LDZA,SAEZ,0.0
 1788,Single Aisle Twin Engine Jet,LDZA,CYYZ,0.0
 1789,Single Aisle Twin Engine Jet,LDZA,MMMX,0.0
 1790,Single Aisle Twin Engine Jet,LDZA,CYVR,0.0
-1791,Single Aisle Twin Engine Jet,LDZA,EDDF,-0.0
+1791,Single Aisle Twin Engine Jet,LDZA,EDDF,0.0
 1792,Single Aisle Twin Engine Jet,LDZA,KJFK,0.0
 1793,Single Aisle Twin Engine Jet,LDZA,SBGL,0.0
-1794,Single Aisle Twin Engine Jet,LDZA,LEMD,-0.0
+1794,Single Aisle Twin Engine Jet,LDZA,LEMD,0.0
 1795,Single Aisle Twin Engine Jet,LDZA,ZSPD,0.0
 1796,Single Aisle Twin Engine Jet,LDZA,OMDB,0.0
-1797,Single Aisle Twin Engine Jet,LDZA,LTFM,-0.0
+1797,Single Aisle Twin Engine Jet,LDZA,LTFM,0.0
 1798,Single Aisle Twin Engine Jet,LDZA,ZBAA,0.0
-1799,Single Aisle Twin Engine Jet,LDZA,VIDP,-0.0
+1799,Single Aisle Twin Engine Jet,LDZA,VIDP,0.0
 1800,Single Aisle Twin Engine Jet,LDZA,EFRO,0.0
 1801,Single Aisle Twin Engine Jet,LDZA,EHEH,0.0
-1802,Single Aisle Twin Engine Jet,LDZA,EFHK,-0.0
+1802,Single Aisle Twin Engine Jet,LDZA,EFHK,0.0
 1803,Single Aisle Twin Engine Jet,LDZA,LDZA,0.0
-1804,Single Aisle Twin Engine Jet,LDZA,EBBR,-0.0
-1805,Single Aisle Twin Engine Jet,LDZA,EIDW,-0.0
-1806,Single Aisle Twin Engine Jet,LDZA,LGAV,-0.0
+1804,Single Aisle Twin Engine Jet,LDZA,EBBR,0.0
+1805,Single Aisle Twin Engine Jet,LDZA,EIDW,0.0
+1806,Single Aisle Twin Engine Jet,LDZA,LGAV,0.0
 1807,Single Aisle Twin Engine Jet,LDZA,BIKF,0.0
 1808,Single Aisle Twin Engine Jet,LDZA,EETN,0.0
-1809,Single Aisle Twin Engine Jet,LDZA,LKPR,-0.0
+1809,Single Aisle Twin Engine Jet,LDZA,LKPR,0.0
 1810,Single Aisle Twin Engine Jet,LDZA,FACT,0.0
-1811,Single Aisle Twin Engine Jet,LDZA,ESSA,-0.0
+1811,Single Aisle Twin Engine Jet,LDZA,ESSA,0.0
 1812,Single Aisle Twin Engine Jet,LDZA,EGPH,0.0
-1813,Single Aisle Twin Engine Jet,LDZA,LFQQ,-0.0
-1814,Single Aisle Twin Engine Jet,LDZA,LPPT,-0.0
-1815,Single Aisle Twin Engine Jet,EBBR,LIRF,-0.0
-1816,Single Aisle Twin Engine Jet,EBBR,EDDT,-0.0
+1813,Single Aisle Twin Engine Jet,LDZA,LFQQ,0.0
+1814,Single Aisle Twin Engine Jet,LDZA,LPPT,0.0
+1815,Single Aisle Twin Engine Jet,EBBR,LIRF,0.0
+1816,Single Aisle Twin Engine Jet,EBBR,EDDT,0.0
 1817,Single Aisle Twin Engine Jet,EBBR,RJAA,0.0
-1818,Single Aisle Twin Engine Jet,EBBR,EDDM,-0.0
+1818,Single Aisle Twin Engine Jet,EBBR,EDDM,0.0
 1819,Single Aisle Twin Engine Jet,EBBR,LFPG,1.0
 1820,Single Aisle Twin Engine Jet,EBBR,SAEZ,0.0
 1821,Single Aisle Twin Engine Jet,EBBR,CYYZ,0.0
 1822,Single Aisle Twin Engine Jet,EBBR,MMMX,0.0
 1823,Single Aisle Twin Engine Jet,EBBR,CYVR,0.0
-1824,Single Aisle Twin Engine Jet,EBBR,EDDF,-0.0
+1824,Single Aisle Twin Engine Jet,EBBR,EDDF,0.0
 1825,Single Aisle Twin Engine Jet,EBBR,KJFK,1.0
 1826,Single Aisle Twin Engine Jet,EBBR,SBGL,0.0
-1827,Single Aisle Twin Engine Jet,EBBR,LEMD,-0.0
+1827,Single Aisle Twin Engine Jet,EBBR,LEMD,0.0
 1828,Single Aisle Twin Engine Jet,EBBR,ZSPD,0.0
-1829,Single Aisle Twin Engine Jet,EBBR,OMDB,-0.0
+1829,Single Aisle Twin Engine Jet,EBBR,OMDB,0.0
 1830,Single Aisle Twin Engine Jet,EBBR,LTFM,1.0
 1831,Single Aisle Twin Engine Jet,EBBR,ZBAA,0.0
 1832,Single Aisle Twin Engine Jet,EBBR,VIDP,0.0
 1833,Single Aisle Twin Engine Jet,EBBR,EFRO,0.0
-1834,Single Aisle Twin Engine Jet,EBBR,EHEH,-0.0
-1835,Single Aisle Twin Engine Jet,EBBR,EFHK,-0.0
-1836,Single Aisle Twin Engine Jet,EBBR,LDZA,-0.0
+1834,Single Aisle Twin Engine Jet,EBBR,EHEH,0.0
+1835,Single Aisle Twin Engine Jet,EBBR,EFHK,0.0
+1836,Single Aisle Twin Engine Jet,EBBR,LDZA,0.0
 1837,Single Aisle Twin Engine Jet,EBBR,EBBR,0.0
-1838,Single Aisle Twin Engine Jet,EBBR,EIDW,-0.0
-1839,Single Aisle Twin Engine Jet,EBBR,LGAV,-0.0
+1838,Single Aisle Twin Engine Jet,EBBR,EIDW,0.0
+1839,Single Aisle Twin Engine Jet,EBBR,LGAV,0.0
 1840,Single Aisle Twin Engine Jet,EBBR,BIKF,0.0
-1841,Single Aisle Twin Engine Jet,EBBR,EETN,-0.0
-1842,Single Aisle Twin Engine Jet,EBBR,LKPR,-0.0
+1841,Single Aisle Twin Engine Jet,EBBR,EETN,0.0
+1842,Single Aisle Twin Engine Jet,EBBR,LKPR,0.0
 1843,Single Aisle Twin Engine Jet,EBBR,FACT,0.0
-1844,Single Aisle Twin Engine Jet,EBBR,ESSA,-0.0
-1845,Single Aisle Twin Engine Jet,EBBR,EGPH,-0.0
-1846,Single Aisle Twin Engine Jet,EBBR,LFQQ,-0.0
-1847,Single Aisle Twin Engine Jet,EBBR,LPPT,-0.0
-1848,Single Aisle Twin Engine Jet,EIDW,LIRF,-0.0
-1849,Single Aisle Twin Engine Jet,EIDW,EDDT,-0.0
+1844,Single Aisle Twin Engine Jet,EBBR,ESSA,0.0
+1845,Single Aisle Twin Engine Jet,EBBR,EGPH,0.0
+1846,Single Aisle Twin Engine Jet,EBBR,LFQQ,0.0
+1847,Single Aisle Twin Engine Jet,EBBR,LPPT,0.0
+1848,Single Aisle Twin Engine Jet,EIDW,LIRF,0.0
+1849,Single Aisle Twin Engine Jet,EIDW,EDDT,0.0
 1850,Single Aisle Twin Engine Jet,EIDW,RJAA,0.0
-1851,Single Aisle Twin Engine Jet,EIDW,EDDM,-0.0
+1851,Single Aisle Twin Engine Jet,EIDW,EDDM,0.0
 1852,Single Aisle Twin Engine Jet,EIDW,LFPG,1.0
 1853,Single Aisle Twin Engine Jet,EIDW,SAEZ,0.0
 1854,Single Aisle Twin Engine Jet,EIDW,CYYZ,0.0
 1855,Single Aisle Twin Engine Jet,EIDW,MMMX,0.0
 1856,Single Aisle Twin Engine Jet,EIDW,CYVR,0.0
-1857,Single Aisle Twin Engine Jet,EIDW,EDDF,-0.0
+1857,Single Aisle Twin Engine Jet,EIDW,EDDF,0.0
 1858,Single Aisle Twin Engine Jet,EIDW,KJFK,1.0
 1859,Single Aisle Twin Engine Jet,EIDW,SBGL,0.0
-1860,Single Aisle Twin Engine Jet,EIDW,LEMD,-0.0
+1860,Single Aisle Twin Engine Jet,EIDW,LEMD,0.0
 1861,Single Aisle Twin Engine Jet,EIDW,ZSPD,0.0
-1862,Single Aisle Twin Engine Jet,EIDW,OMDB,-0.0
-1863,Single Aisle Twin Engine Jet,EIDW,LTFM,-0.0
+1862,Single Aisle Twin Engine Jet,EIDW,OMDB,0.0
+1863,Single Aisle Twin Engine Jet,EIDW,LTFM,0.0
 1864,Single Aisle Twin Engine Jet,EIDW,ZBAA,0.0
 1865,Single Aisle Twin Engine Jet,EIDW,VIDP,0.0
 1866,Single Aisle Twin Engine Jet,EIDW,EFRO,0.0
-1867,Single Aisle Twin Engine Jet,EIDW,EHEH,-0.0
-1868,Single Aisle Twin Engine Jet,EIDW,EFHK,-0.0
-1869,Single Aisle Twin Engine Jet,EIDW,LDZA,-0.0
-1870,Single Aisle Twin Engine Jet,EIDW,EBBR,-0.0
+1867,Single Aisle Twin Engine Jet,EIDW,EHEH,0.0
+1868,Single Aisle Twin Engine Jet,EIDW,EFHK,0.0
+1869,Single Aisle Twin Engine Jet,EIDW,LDZA,0.0
+1870,Single Aisle Twin Engine Jet,EIDW,EBBR,0.0
 1871,Single Aisle Twin Engine Jet,EIDW,EIDW,0.0
-1872,Single Aisle Twin Engine Jet,EIDW,LGAV,-0.0
+1872,Single Aisle Twin Engine Jet,EIDW,LGAV,0.0
 1873,Single Aisle Twin Engine Jet,EIDW,BIKF,0.0
-1874,Single Aisle Twin Engine Jet,EIDW,EETN,-0.0
-1875,Single Aisle Twin Engine Jet,EIDW,LKPR,-0.0
+1874,Single Aisle Twin Engine Jet,EIDW,EETN,0.0
+1875,Single Aisle Twin Engine Jet,EIDW,LKPR,0.0
 1876,Single Aisle Twin Engine Jet,EIDW,FACT,0.0
-1877,Single Aisle Twin Engine Jet,EIDW,ESSA,-0.0
-1878,Single Aisle Twin Engine Jet,EIDW,EGPH,-0.0
-1879,Single Aisle Twin Engine Jet,EIDW,LFQQ,-0.0
-1880,Single Aisle Twin Engine Jet,EIDW,LPPT,-0.0
-1881,Single Aisle Twin Engine Jet,LGAV,LIRF,1.0
-1882,Single Aisle Twin Engine Jet,LGAV,EDDT,-0.0
+1877,Single Aisle Twin Engine Jet,EIDW,ESSA,0.0
+1878,Single Aisle Twin Engine Jet,EIDW,EGPH,0.0
+1879,Single Aisle Twin Engine Jet,EIDW,LFQQ,0.0
+1880,Single Aisle Twin Engine Jet,EIDW,LPPT,0.0
+1881,Single Aisle Twin Engine Jet,LGAV,LIRF,0.0
+1882,Single Aisle Twin Engine Jet,LGAV,EDDT,0.0
 1883,Single Aisle Twin Engine Jet,LGAV,RJAA,0.0
-1884,Single Aisle Twin Engine Jet,LGAV,EDDM,-0.0
+1884,Single Aisle Twin Engine Jet,LGAV,EDDM,0.0
 1885,Single Aisle Twin Engine Jet,LGAV,LFPG,1.0
 1886,Single Aisle Twin Engine Jet,LGAV,SAEZ,0.0
 1887,Single Aisle Twin Engine Jet,LGAV,CYYZ,0.0
 1888,Single Aisle Twin Engine Jet,LGAV,MMMX,0.0
 1889,Single Aisle Twin Engine Jet,LGAV,CYVR,0.0
-1890,Single Aisle Twin Engine Jet,LGAV,EDDF,-0.0
+1890,Single Aisle Twin Engine Jet,LGAV,EDDF,0.0
 1891,Single Aisle Twin Engine Jet,LGAV,KJFK,0.0
 1892,Single Aisle Twin Engine Jet,LGAV,SBGL,0.0
-1893,Single Aisle Twin Engine Jet,LGAV,LEMD,-0.0
+1893,Single Aisle Twin Engine Jet,LGAV,LEMD,0.0
 1894,Single Aisle Twin Engine Jet,LGAV,ZSPD,0.0
-1895,Single Aisle Twin Engine Jet,LGAV,OMDB,-0.0
+1895,Single Aisle Twin Engine Jet,LGAV,OMDB,0.0
 1896,Single Aisle Twin Engine Jet,LGAV,LTFM,1.0
 1897,Single Aisle Twin Engine Jet,LGAV,ZBAA,0.0
 1898,Single Aisle Twin Engine Jet,LGAV,VIDP,1.0
 1899,Single Aisle Twin Engine Jet,LGAV,EFRO,0.0
 1900,Single Aisle Twin Engine Jet,LGAV,EHEH,0.0
-1901,Single Aisle Twin Engine Jet,LGAV,EFHK,-0.0
-1902,Single Aisle Twin Engine Jet,LGAV,LDZA,-0.0
-1903,Single Aisle Twin Engine Jet,LGAV,EBBR,-0.0
-1904,Single Aisle Twin Engine Jet,LGAV,EIDW,-0.0
+1901,Single Aisle Twin Engine Jet,LGAV,EFHK,0.0
+1902,Single Aisle Twin Engine Jet,LGAV,LDZA,0.0
+1903,Single Aisle Twin Engine Jet,LGAV,EBBR,0.0
+1904,Single Aisle Twin Engine Jet,LGAV,EIDW,0.0
 1905,Single Aisle Twin Engine Jet,LGAV,LGAV,0.0
 1906,Single Aisle Twin Engine Jet,LGAV,BIKF,0.0
-1907,Single Aisle Twin Engine Jet,LGAV,EETN,-0.0
-1908,Single Aisle Twin Engine Jet,LGAV,LKPR,-0.0
+1907,Single Aisle Twin Engine Jet,LGAV,EETN,0.0
+1908,Single Aisle Twin Engine Jet,LGAV,LKPR,0.0
 1909,Single Aisle Twin Engine Jet,LGAV,FACT,0.0
-1910,Single Aisle Twin Engine Jet,LGAV,ESSA,-0.0
-1911,Single Aisle Twin Engine Jet,LGAV,EGPH,-0.0
-1912,Single Aisle Twin Engine Jet,LGAV,LFQQ,-0.0
-1913,Single Aisle Twin Engine Jet,LGAV,LPPT,-0.0
-1914,Single Aisle Twin Engine Jet,BIKF,LIRF,-0.0
+1910,Single Aisle Twin Engine Jet,LGAV,ESSA,0.0
+1911,Single Aisle Twin Engine Jet,LGAV,EGPH,0.0
+1912,Single Aisle Twin Engine Jet,LGAV,LFQQ,0.0
+1913,Single Aisle Twin Engine Jet,LGAV,LPPT,0.0
+1914,Single Aisle Twin Engine Jet,BIKF,LIRF,1.0
 1915,Single Aisle Twin Engine Jet,BIKF,EDDT,0.0
 1916,Single Aisle Twin Engine Jet,BIKF,RJAA,0.0
 1917,Single Aisle Twin Engine Jet,BIKF,EDDM,0.0
-1918,Single Aisle Twin Engine Jet,BIKF,LFPG,-0.0
+1918,Single Aisle Twin Engine Jet,BIKF,LFPG,0.0
 1919,Single Aisle Twin Engine Jet,BIKF,SAEZ,0.0
 1920,Single Aisle Twin Engine Jet,BIKF,CYYZ,0.0
 1921,Single Aisle Twin Engine Jet,BIKF,MMMX,0.0
 1922,Single Aisle Twin Engine Jet,BIKF,CYVR,0.0
 1923,Single Aisle Twin Engine Jet,BIKF,EDDF,0.0
-1924,Single Aisle Twin Engine Jet,BIKF,KJFK,-0.0
+1924,Single Aisle Twin Engine Jet,BIKF,KJFK,0.0
 1925,Single Aisle Twin Engine Jet,BIKF,SBGL,0.0
-1926,Single Aisle Twin Engine Jet,BIKF,LEMD,-0.0
+1926,Single Aisle Twin Engine Jet,BIKF,LEMD,0.0
 1927,Single Aisle Twin Engine Jet,BIKF,ZSPD,0.0
 1928,Single Aisle Twin Engine Jet,BIKF,OMDB,0.0
 1929,Single Aisle Twin Engine Jet,BIKF,LTFM,0.0
@@ -1946,72 +1946,72 @@
 1944,Single Aisle Twin Engine Jet,BIKF,EGPH,0.0
 1945,Single Aisle Twin Engine Jet,BIKF,LFQQ,0.0
 1946,Single Aisle Twin Engine Jet,BIKF,LPPT,0.0
-1947,Single Aisle Twin Engine Jet,EETN,LIRF,-0.0
-1948,Single Aisle Twin Engine Jet,EETN,EDDT,-0.0
+1947,Single Aisle Twin Engine Jet,EETN,LIRF,0.0
+1948,Single Aisle Twin Engine Jet,EETN,EDDT,0.0
 1949,Single Aisle Twin Engine Jet,EETN,RJAA,0.0
-1950,Single Aisle Twin Engine Jet,EETN,EDDM,-0.0
-1951,Single Aisle Twin Engine Jet,EETN,LFPG,-0.0
+1950,Single Aisle Twin Engine Jet,EETN,EDDM,0.0
+1951,Single Aisle Twin Engine Jet,EETN,LFPG,0.0
 1952,Single Aisle Twin Engine Jet,EETN,SAEZ,0.0
 1953,Single Aisle Twin Engine Jet,EETN,CYYZ,0.0
 1954,Single Aisle Twin Engine Jet,EETN,MMMX,0.0
 1955,Single Aisle Twin Engine Jet,EETN,CYVR,0.0
-1956,Single Aisle Twin Engine Jet,EETN,EDDF,-0.0
+1956,Single Aisle Twin Engine Jet,EETN,EDDF,0.0
 1957,Single Aisle Twin Engine Jet,EETN,KJFK,0.0
 1958,Single Aisle Twin Engine Jet,EETN,SBGL,0.0
-1959,Single Aisle Twin Engine Jet,EETN,LEMD,-0.0
+1959,Single Aisle Twin Engine Jet,EETN,LEMD,0.0
 1960,Single Aisle Twin Engine Jet,EETN,ZSPD,0.0
 1961,Single Aisle Twin Engine Jet,EETN,OMDB,0.0
-1962,Single Aisle Twin Engine Jet,EETN,LTFM,-0.0
+1962,Single Aisle Twin Engine Jet,EETN,LTFM,0.0
 1963,Single Aisle Twin Engine Jet,EETN,ZBAA,0.0
-1964,Single Aisle Twin Engine Jet,EETN,VIDP,-0.0
+1964,Single Aisle Twin Engine Jet,EETN,VIDP,0.0
 1965,Single Aisle Twin Engine Jet,EETN,EFRO,0.0
 1966,Single Aisle Twin Engine Jet,EETN,EHEH,0.0
-1967,Single Aisle Twin Engine Jet,EETN,EFHK,-0.0
+1967,Single Aisle Twin Engine Jet,EETN,EFHK,0.0
 1968,Single Aisle Twin Engine Jet,EETN,LDZA,0.0
-1969,Single Aisle Twin Engine Jet,EETN,EBBR,-0.0
-1970,Single Aisle Twin Engine Jet,EETN,EIDW,-0.0
-1971,Single Aisle Twin Engine Jet,EETN,LGAV,-0.0
+1969,Single Aisle Twin Engine Jet,EETN,EBBR,0.0
+1970,Single Aisle Twin Engine Jet,EETN,EIDW,0.0
+1971,Single Aisle Twin Engine Jet,EETN,LGAV,0.0
 1972,Single Aisle Twin Engine Jet,EETN,BIKF,0.0
 1973,Single Aisle Twin Engine Jet,EETN,EETN,0.0
-1974,Single Aisle Twin Engine Jet,EETN,LKPR,-0.0
+1974,Single Aisle Twin Engine Jet,EETN,LKPR,0.0
 1975,Single Aisle Twin Engine Jet,EETN,FACT,0.0
-1976,Single Aisle Twin Engine Jet,EETN,ESSA,-0.0
+1976,Single Aisle Twin Engine Jet,EETN,ESSA,0.0
 1977,Single Aisle Twin Engine Jet,EETN,EGPH,0.0
 1978,Single Aisle Twin Engine Jet,EETN,LFQQ,0.0
 1979,Single Aisle Twin Engine Jet,EETN,LPPT,0.0
-1980,Single Aisle Twin Engine Jet,LKPR,LIRF,-0.0
-1981,Single Aisle Twin Engine Jet,LKPR,EDDT,-0.0
+1980,Single Aisle Twin Engine Jet,LKPR,LIRF,0.0
+1981,Single Aisle Twin Engine Jet,LKPR,EDDT,0.0
 1982,Single Aisle Twin Engine Jet,LKPR,RJAA,0.0
-1983,Single Aisle Twin Engine Jet,LKPR,EDDM,-0.0
+1983,Single Aisle Twin Engine Jet,LKPR,EDDM,0.0
 1984,Single Aisle Twin Engine Jet,LKPR,LFPG,1.0
 1985,Single Aisle Twin Engine Jet,LKPR,SAEZ,0.0
 1986,Single Aisle Twin Engine Jet,LKPR,CYYZ,0.0
 1987,Single Aisle Twin Engine Jet,LKPR,MMMX,0.0
 1988,Single Aisle Twin Engine Jet,LKPR,CYVR,0.0
-1989,Single Aisle Twin Engine Jet,LKPR,EDDF,-0.0
+1989,Single Aisle Twin Engine Jet,LKPR,EDDF,0.0
 1990,Single Aisle Twin Engine Jet,LKPR,KJFK,0.0
 1991,Single Aisle Twin Engine Jet,LKPR,SBGL,0.0
-1992,Single Aisle Twin Engine Jet,LKPR,LEMD,-0.0
+1992,Single Aisle Twin Engine Jet,LKPR,LEMD,0.0
 1993,Single Aisle Twin Engine Jet,LKPR,ZSPD,0.0
 1994,Single Aisle Twin Engine Jet,LKPR,OMDB,0.0
-1995,Single Aisle Twin Engine Jet,LKPR,LTFM,-0.0
+1995,Single Aisle Twin Engine Jet,LKPR,LTFM,0.0
 1996,Single Aisle Twin Engine Jet,LKPR,ZBAA,0.0
 1997,Single Aisle Twin Engine Jet,LKPR,VIDP,1.0
 1998,Single Aisle Twin Engine Jet,LKPR,EFRO,0.0
-1999,Single Aisle Twin Engine Jet,LKPR,EHEH,-0.0
-2000,Single Aisle Twin Engine Jet,LKPR,EFHK,-0.0
-2001,Single Aisle Twin Engine Jet,LKPR,LDZA,-0.0
-2002,Single Aisle Twin Engine Jet,LKPR,EBBR,-0.0
-2003,Single Aisle Twin Engine Jet,LKPR,EIDW,-0.0
-2004,Single Aisle Twin Engine Jet,LKPR,LGAV,-0.0
+1999,Single Aisle Twin Engine Jet,LKPR,EHEH,0.0
+2000,Single Aisle Twin Engine Jet,LKPR,EFHK,0.0
+2001,Single Aisle Twin Engine Jet,LKPR,LDZA,0.0
+2002,Single Aisle Twin Engine Jet,LKPR,EBBR,0.0
+2003,Single Aisle Twin Engine Jet,LKPR,EIDW,0.0
+2004,Single Aisle Twin Engine Jet,LKPR,LGAV,0.0
 2005,Single Aisle Twin Engine Jet,LKPR,BIKF,0.0
-2006,Single Aisle Twin Engine Jet,LKPR,EETN,-0.0
+2006,Single Aisle Twin Engine Jet,LKPR,EETN,0.0
 2007,Single Aisle Twin Engine Jet,LKPR,LKPR,0.0
 2008,Single Aisle Twin Engine Jet,LKPR,FACT,0.0
-2009,Single Aisle Twin Engine Jet,LKPR,ESSA,-0.0
-2010,Single Aisle Twin Engine Jet,LKPR,EGPH,-0.0
-2011,Single Aisle Twin Engine Jet,LKPR,LFQQ,-0.0
-2012,Single Aisle Twin Engine Jet,LKPR,LPPT,-0.0
+2009,Single Aisle Twin Engine Jet,LKPR,ESSA,0.0
+2010,Single Aisle Twin Engine Jet,LKPR,EGPH,0.0
+2011,Single Aisle Twin Engine Jet,LKPR,LFQQ,0.0
+2012,Single Aisle Twin Engine Jet,LKPR,LPPT,0.0
 2013,Single Aisle Twin Engine Jet,FACT,LIRF,0.0
 2014,Single Aisle Twin Engine Jet,FACT,EDDT,0.0
 2015,Single Aisle Twin Engine Jet,FACT,RJAA,0.0
@@ -2045,204 +2045,204 @@
 2043,Single Aisle Twin Engine Jet,FACT,EGPH,0.0
 2044,Single Aisle Twin Engine Jet,FACT,LFQQ,0.0
 2045,Single Aisle Twin Engine Jet,FACT,LPPT,0.0
-2046,Single Aisle Twin Engine Jet,ESSA,LIRF,-0.0
+2046,Single Aisle Twin Engine Jet,ESSA,LIRF,0.0
 2047,Single Aisle Twin Engine Jet,ESSA,EDDT,1.0
 2048,Single Aisle Twin Engine Jet,ESSA,RJAA,0.0
-2049,Single Aisle Twin Engine Jet,ESSA,EDDM,-0.0
+2049,Single Aisle Twin Engine Jet,ESSA,EDDM,0.0
 2050,Single Aisle Twin Engine Jet,ESSA,LFPG,1.0
 2051,Single Aisle Twin Engine Jet,ESSA,SAEZ,0.0
 2052,Single Aisle Twin Engine Jet,ESSA,CYYZ,0.0
 2053,Single Aisle Twin Engine Jet,ESSA,MMMX,0.0
 2054,Single Aisle Twin Engine Jet,ESSA,CYVR,0.0
-2055,Single Aisle Twin Engine Jet,ESSA,EDDF,-0.0
+2055,Single Aisle Twin Engine Jet,ESSA,EDDF,0.0
 2056,Single Aisle Twin Engine Jet,ESSA,KJFK,0.0
 2057,Single Aisle Twin Engine Jet,ESSA,SBGL,0.0
-2058,Single Aisle Twin Engine Jet,ESSA,LEMD,-0.0
+2058,Single Aisle Twin Engine Jet,ESSA,LEMD,0.0
 2059,Single Aisle Twin Engine Jet,ESSA,ZSPD,0.0
 2060,Single Aisle Twin Engine Jet,ESSA,OMDB,1.0
 2061,Single Aisle Twin Engine Jet,ESSA,LTFM,1.0
 2062,Single Aisle Twin Engine Jet,ESSA,ZBAA,0.0
 2063,Single Aisle Twin Engine Jet,ESSA,VIDP,1.0
 2064,Single Aisle Twin Engine Jet,ESSA,EFRO,0.0
-2065,Single Aisle Twin Engine Jet,ESSA,EHEH,-0.0
-2066,Single Aisle Twin Engine Jet,ESSA,EFHK,-0.0
-2067,Single Aisle Twin Engine Jet,ESSA,LDZA,-0.0
-2068,Single Aisle Twin Engine Jet,ESSA,EBBR,-0.0
-2069,Single Aisle Twin Engine Jet,ESSA,EIDW,-0.0
-2070,Single Aisle Twin Engine Jet,ESSA,LGAV,-0.0
+2065,Single Aisle Twin Engine Jet,ESSA,EHEH,0.0
+2066,Single Aisle Twin Engine Jet,ESSA,EFHK,0.0
+2067,Single Aisle Twin Engine Jet,ESSA,LDZA,0.0
+2068,Single Aisle Twin Engine Jet,ESSA,EBBR,0.0
+2069,Single Aisle Twin Engine Jet,ESSA,EIDW,0.0
+2070,Single Aisle Twin Engine Jet,ESSA,LGAV,0.0
 2071,Single Aisle Twin Engine Jet,ESSA,BIKF,0.0
-2072,Single Aisle Twin Engine Jet,ESSA,EETN,-0.0
-2073,Single Aisle Twin Engine Jet,ESSA,LKPR,-0.0
+2072,Single Aisle Twin Engine Jet,ESSA,EETN,0.0
+2073,Single Aisle Twin Engine Jet,ESSA,LKPR,0.0
 2074,Single Aisle Twin Engine Jet,ESSA,FACT,0.0
 2075,Single Aisle Twin Engine Jet,ESSA,ESSA,0.0
-2076,Single Aisle Twin Engine Jet,ESSA,EGPH,-0.0
-2077,Single Aisle Twin Engine Jet,ESSA,LFQQ,-0.0
-2078,Single Aisle Twin Engine Jet,ESSA,LPPT,-0.0
-2079,Single Aisle Twin Engine Jet,EGPH,LIRF,-0.0
-2080,Single Aisle Twin Engine Jet,EGPH,EDDT,-0.0
+2076,Single Aisle Twin Engine Jet,ESSA,EGPH,0.0
+2077,Single Aisle Twin Engine Jet,ESSA,LFQQ,0.0
+2078,Single Aisle Twin Engine Jet,ESSA,LPPT,0.0
+2079,Single Aisle Twin Engine Jet,EGPH,LIRF,0.0
+2080,Single Aisle Twin Engine Jet,EGPH,EDDT,0.0
 2081,Single Aisle Twin Engine Jet,EGPH,RJAA,0.0
-2082,Single Aisle Twin Engine Jet,EGPH,EDDM,-0.0
-2083,Single Aisle Twin Engine Jet,EGPH,LFPG,-0.0
+2082,Single Aisle Twin Engine Jet,EGPH,EDDM,0.0
+2083,Single Aisle Twin Engine Jet,EGPH,LFPG,0.0
 2084,Single Aisle Twin Engine Jet,EGPH,SAEZ,0.0
 2085,Single Aisle Twin Engine Jet,EGPH,CYYZ,0.0
 2086,Single Aisle Twin Engine Jet,EGPH,MMMX,0.0
 2087,Single Aisle Twin Engine Jet,EGPH,CYVR,0.0
-2088,Single Aisle Twin Engine Jet,EGPH,EDDF,-0.0
+2088,Single Aisle Twin Engine Jet,EGPH,EDDF,0.0
 2089,Single Aisle Twin Engine Jet,EGPH,KJFK,1.0
 2090,Single Aisle Twin Engine Jet,EGPH,SBGL,0.0
-2091,Single Aisle Twin Engine Jet,EGPH,LEMD,-0.0
+2091,Single Aisle Twin Engine Jet,EGPH,LEMD,0.0
 2092,Single Aisle Twin Engine Jet,EGPH,ZSPD,0.0
 2093,Single Aisle Twin Engine Jet,EGPH,OMDB,0.0
-2094,Single Aisle Twin Engine Jet,EGPH,LTFM,-0.0
+2094,Single Aisle Twin Engine Jet,EGPH,LTFM,0.0
 2095,Single Aisle Twin Engine Jet,EGPH,ZBAA,0.0
 2096,Single Aisle Twin Engine Jet,EGPH,VIDP,0.0
 2097,Single Aisle Twin Engine Jet,EGPH,EFRO,0.0
 2098,Single Aisle Twin Engine Jet,EGPH,EHEH,0.0
-2099,Single Aisle Twin Engine Jet,EGPH,EFHK,-0.0
+2099,Single Aisle Twin Engine Jet,EGPH,EFHK,0.0
 2100,Single Aisle Twin Engine Jet,EGPH,LDZA,0.0
-2101,Single Aisle Twin Engine Jet,EGPH,EBBR,-0.0
-2102,Single Aisle Twin Engine Jet,EGPH,EIDW,-0.0
-2103,Single Aisle Twin Engine Jet,EGPH,LGAV,-0.0
+2101,Single Aisle Twin Engine Jet,EGPH,EBBR,0.0
+2102,Single Aisle Twin Engine Jet,EGPH,EIDW,0.0
+2103,Single Aisle Twin Engine Jet,EGPH,LGAV,0.0
 2104,Single Aisle Twin Engine Jet,EGPH,BIKF,0.0
 2105,Single Aisle Twin Engine Jet,EGPH,EETN,0.0
-2106,Single Aisle Twin Engine Jet,EGPH,LKPR,-0.0
+2106,Single Aisle Twin Engine Jet,EGPH,LKPR,0.0
 2107,Single Aisle Twin Engine Jet,EGPH,FACT,0.0
-2108,Single Aisle Twin Engine Jet,EGPH,ESSA,-0.0
+2108,Single Aisle Twin Engine Jet,EGPH,ESSA,0.0
 2109,Single Aisle Twin Engine Jet,EGPH,EGPH,0.0
-2110,Single Aisle Twin Engine Jet,EGPH,LFQQ,-0.0
+2110,Single Aisle Twin Engine Jet,EGPH,LFQQ,0.0
 2111,Single Aisle Twin Engine Jet,EGPH,LPPT,0.0
-2112,Single Aisle Twin Engine Jet,LFQQ,LIRF,-0.0
-2113,Single Aisle Twin Engine Jet,LFQQ,EDDT,-0.0
+2112,Single Aisle Twin Engine Jet,LFQQ,LIRF,0.0
+2113,Single Aisle Twin Engine Jet,LFQQ,EDDT,0.0
 2114,Single Aisle Twin Engine Jet,LFQQ,RJAA,0.0
-2115,Single Aisle Twin Engine Jet,LFQQ,EDDM,-0.0
+2115,Single Aisle Twin Engine Jet,LFQQ,EDDM,0.0
 2116,Single Aisle Twin Engine Jet,LFQQ,LFPG,0.0
 2117,Single Aisle Twin Engine Jet,LFQQ,SAEZ,0.0
 2118,Single Aisle Twin Engine Jet,LFQQ,CYYZ,0.0
 2119,Single Aisle Twin Engine Jet,LFQQ,MMMX,0.0
 2120,Single Aisle Twin Engine Jet,LFQQ,CYVR,0.0
-2121,Single Aisle Twin Engine Jet,LFQQ,EDDF,-0.0
+2121,Single Aisle Twin Engine Jet,LFQQ,EDDF,0.0
 2122,Single Aisle Twin Engine Jet,LFQQ,KJFK,1.0
 2123,Single Aisle Twin Engine Jet,LFQQ,SBGL,0.0
-2124,Single Aisle Twin Engine Jet,LFQQ,LEMD,-0.0
+2124,Single Aisle Twin Engine Jet,LFQQ,LEMD,0.0
 2125,Single Aisle Twin Engine Jet,LFQQ,ZSPD,0.0
 2126,Single Aisle Twin Engine Jet,LFQQ,OMDB,0.0
 2127,Single Aisle Twin Engine Jet,LFQQ,LTFM,1.0
 2128,Single Aisle Twin Engine Jet,LFQQ,ZBAA,0.0
 2129,Single Aisle Twin Engine Jet,LFQQ,VIDP,0.0
 2130,Single Aisle Twin Engine Jet,LFQQ,EFRO,0.0
-2131,Single Aisle Twin Engine Jet,LFQQ,EHEH,-0.0
-2132,Single Aisle Twin Engine Jet,LFQQ,EFHK,-0.0
-2133,Single Aisle Twin Engine Jet,LFQQ,LDZA,-0.0
-2134,Single Aisle Twin Engine Jet,LFQQ,EBBR,-0.0
-2135,Single Aisle Twin Engine Jet,LFQQ,EIDW,-0.0
-2136,Single Aisle Twin Engine Jet,LFQQ,LGAV,-0.0
+2131,Single Aisle Twin Engine Jet,LFQQ,EHEH,0.0
+2132,Single Aisle Twin Engine Jet,LFQQ,EFHK,0.0
+2133,Single Aisle Twin Engine Jet,LFQQ,LDZA,0.0
+2134,Single Aisle Twin Engine Jet,LFQQ,EBBR,0.0
+2135,Single Aisle Twin Engine Jet,LFQQ,EIDW,0.0
+2136,Single Aisle Twin Engine Jet,LFQQ,LGAV,0.0
 2137,Single Aisle Twin Engine Jet,LFQQ,BIKF,0.0
 2138,Single Aisle Twin Engine Jet,LFQQ,EETN,0.0
-2139,Single Aisle Twin Engine Jet,LFQQ,LKPR,-0.0
+2139,Single Aisle Twin Engine Jet,LFQQ,LKPR,0.0
 2140,Single Aisle Twin Engine Jet,LFQQ,FACT,0.0
-2141,Single Aisle Twin Engine Jet,LFQQ,ESSA,-0.0
-2142,Single Aisle Twin Engine Jet,LFQQ,EGPH,-0.0
+2141,Single Aisle Twin Engine Jet,LFQQ,ESSA,0.0
+2142,Single Aisle Twin Engine Jet,LFQQ,EGPH,0.0
 2143,Single Aisle Twin Engine Jet,LFQQ,LFQQ,0.0
-2144,Single Aisle Twin Engine Jet,LFQQ,LPPT,-0.0
-2145,Single Aisle Twin Engine Jet,LPPT,LIRF,-0.0
-2146,Single Aisle Twin Engine Jet,LPPT,EDDT,-0.0
+2144,Single Aisle Twin Engine Jet,LFQQ,LPPT,0.0
+2145,Single Aisle Twin Engine Jet,LPPT,LIRF,0.0
+2146,Single Aisle Twin Engine Jet,LPPT,EDDT,0.0
 2147,Single Aisle Twin Engine Jet,LPPT,RJAA,0.0
-2148,Single Aisle Twin Engine Jet,LPPT,EDDM,-0.0
+2148,Single Aisle Twin Engine Jet,LPPT,EDDM,0.0
 2149,Single Aisle Twin Engine Jet,LPPT,LFPG,1.0
 2150,Single Aisle Twin Engine Jet,LPPT,SAEZ,0.0
 2151,Single Aisle Twin Engine Jet,LPPT,CYYZ,0.0
 2152,Single Aisle Twin Engine Jet,LPPT,MMMX,0.0
 2153,Single Aisle Twin Engine Jet,LPPT,CYVR,0.0
-2154,Single Aisle Twin Engine Jet,LPPT,EDDF,-0.0
+2154,Single Aisle Twin Engine Jet,LPPT,EDDF,0.0
 2155,Single Aisle Twin Engine Jet,LPPT,KJFK,1.0
 2156,Single Aisle Twin Engine Jet,LPPT,SBGL,0.0
 2157,Single Aisle Twin Engine Jet,LPPT,LEMD,1.0
 2158,Single Aisle Twin Engine Jet,LPPT,ZSPD,0.0
 2159,Single Aisle Twin Engine Jet,LPPT,OMDB,0.0
-2160,Single Aisle Twin Engine Jet,LPPT,LTFM,-0.0
+2160,Single Aisle Twin Engine Jet,LPPT,LTFM,0.0
 2161,Single Aisle Twin Engine Jet,LPPT,ZBAA,0.0
 2162,Single Aisle Twin Engine Jet,LPPT,VIDP,0.0
 2163,Single Aisle Twin Engine Jet,LPPT,EFRO,0.0
-2164,Single Aisle Twin Engine Jet,LPPT,EHEH,-0.0
+2164,Single Aisle Twin Engine Jet,LPPT,EHEH,0.0
 2165,Single Aisle Twin Engine Jet,LPPT,EFHK,0.0
-2166,Single Aisle Twin Engine Jet,LPPT,LDZA,-0.0
-2167,Single Aisle Twin Engine Jet,LPPT,EBBR,-0.0
-2168,Single Aisle Twin Engine Jet,LPPT,EIDW,-0.0
-2169,Single Aisle Twin Engine Jet,LPPT,LGAV,-0.0
+2166,Single Aisle Twin Engine Jet,LPPT,LDZA,0.0
+2167,Single Aisle Twin Engine Jet,LPPT,EBBR,0.0
+2168,Single Aisle Twin Engine Jet,LPPT,EIDW,0.0
+2169,Single Aisle Twin Engine Jet,LPPT,LGAV,0.0
 2170,Single Aisle Twin Engine Jet,LPPT,BIKF,0.0
 2171,Single Aisle Twin Engine Jet,LPPT,EETN,0.0
-2172,Single Aisle Twin Engine Jet,LPPT,LKPR,-0.0
+2172,Single Aisle Twin Engine Jet,LPPT,LKPR,0.0
 2173,Single Aisle Twin Engine Jet,LPPT,FACT,0.0
-2174,Single Aisle Twin Engine Jet,LPPT,ESSA,-0.0
+2174,Single Aisle Twin Engine Jet,LPPT,ESSA,0.0
 2175,Single Aisle Twin Engine Jet,LPPT,EGPH,0.0
-2176,Single Aisle Twin Engine Jet,LPPT,LFQQ,-0.0
+2176,Single Aisle Twin Engine Jet,LPPT,LFQQ,0.0
 2177,Single Aisle Twin Engine Jet,LPPT,LPPT,0.0
 2178,Twin aisle twin engine jet,LIRF,LIRF,0.0
-2179,Twin aisle twin engine jet,LIRF,EDDT,-0.0
+2179,Twin aisle twin engine jet,LIRF,EDDT,0.0
 2180,Twin aisle twin engine jet,LIRF,RJAA,1.0
-2181,Twin aisle twin engine jet,LIRF,EDDM,-0.0
-2182,Twin aisle twin engine jet,LIRF,LFPG,-0.0
-2183,Twin aisle twin engine jet,LIRF,SAEZ,-0.0
+2181,Twin aisle twin engine jet,LIRF,EDDM,0.0
+2182,Twin aisle twin engine jet,LIRF,LFPG,0.0
+2183,Twin aisle twin engine jet,LIRF,SAEZ,1.0
 2184,Twin aisle twin engine jet,LIRF,CYYZ,0.0
 2185,Twin aisle twin engine jet,LIRF,MMMX,1.0
-2186,Twin aisle twin engine jet,LIRF,CYVR,0.0
-2187,Twin aisle twin engine jet,LIRF,EDDF,-0.0
+2186,Twin aisle twin engine jet,LIRF,CYVR,1.0
+2187,Twin aisle twin engine jet,LIRF,EDDF,0.0
 2188,Twin aisle twin engine jet,LIRF,KJFK,1.0
 2189,Twin aisle twin engine jet,LIRF,SBGL,1.0
-2190,Twin aisle twin engine jet,LIRF,LEMD,-0.0
+2190,Twin aisle twin engine jet,LIRF,LEMD,0.0
 2191,Twin aisle twin engine jet,LIRF,ZSPD,1.0
-2192,Twin aisle twin engine jet,LIRF,OMDB,-0.0
-2193,Twin aisle twin engine jet,LIRF,LTFM,-0.0
+2192,Twin aisle twin engine jet,LIRF,OMDB,0.0
+2193,Twin aisle twin engine jet,LIRF,LTFM,0.0
 2194,Twin aisle twin engine jet,LIRF,ZBAA,1.0
-2195,Twin aisle twin engine jet,LIRF,VIDP,-0.0
+2195,Twin aisle twin engine jet,LIRF,VIDP,0.0
 2196,Twin aisle twin engine jet,LIRF,EFRO,0.0
-2197,Twin aisle twin engine jet,LIRF,EHEH,-0.0
-2198,Twin aisle twin engine jet,LIRF,EFHK,-0.0
-2199,Twin aisle twin engine jet,LIRF,LDZA,-0.0
-2200,Twin aisle twin engine jet,LIRF,EBBR,-0.0
-2201,Twin aisle twin engine jet,LIRF,EIDW,-0.0
-2202,Twin aisle twin engine jet,LIRF,LGAV,-0.0
-2203,Twin aisle twin engine jet,LIRF,BIKF,-0.0
-2204,Twin aisle twin engine jet,LIRF,EETN,-0.0
-2205,Twin aisle twin engine jet,LIRF,LKPR,-0.0
-2206,Twin aisle twin engine jet,LIRF,FACT,0.0
-2207,Twin aisle twin engine jet,LIRF,ESSA,-0.0
-2208,Twin aisle twin engine jet,LIRF,EGPH,-0.0
-2209,Twin aisle twin engine jet,LIRF,LFQQ,-0.0
-2210,Twin aisle twin engine jet,LIRF,LPPT,-0.0
-2211,Twin aisle twin engine jet,EDDT,LIRF,-0.0
+2197,Twin aisle twin engine jet,LIRF,EHEH,0.0
+2198,Twin aisle twin engine jet,LIRF,EFHK,0.0
+2199,Twin aisle twin engine jet,LIRF,LDZA,0.0
+2200,Twin aisle twin engine jet,LIRF,EBBR,0.0
+2201,Twin aisle twin engine jet,LIRF,EIDW,0.0
+2202,Twin aisle twin engine jet,LIRF,LGAV,0.0
+2203,Twin aisle twin engine jet,LIRF,BIKF,0.0
+2204,Twin aisle twin engine jet,LIRF,EETN,0.0
+2205,Twin aisle twin engine jet,LIRF,LKPR,0.0
+2206,Twin aisle twin engine jet,LIRF,FACT,1.0
+2207,Twin aisle twin engine jet,LIRF,ESSA,0.0
+2208,Twin aisle twin engine jet,LIRF,EGPH,0.0
+2209,Twin aisle twin engine jet,LIRF,LFQQ,0.0
+2210,Twin aisle twin engine jet,LIRF,LPPT,0.0
+2211,Twin aisle twin engine jet,EDDT,LIRF,0.0
 2212,Twin aisle twin engine jet,EDDT,EDDT,0.0
 2213,Twin aisle twin engine jet,EDDT,RJAA,1.0
-2214,Twin aisle twin engine jet,EDDT,EDDM,-0.0
-2215,Twin aisle twin engine jet,EDDT,LFPG,-0.0
+2214,Twin aisle twin engine jet,EDDT,EDDM,0.0
+2215,Twin aisle twin engine jet,EDDT,LFPG,0.0
 2216,Twin aisle twin engine jet,EDDT,SAEZ,0.0
 2217,Twin aisle twin engine jet,EDDT,CYYZ,0.0
-2218,Twin aisle twin engine jet,EDDT,MMMX,-0.0
+2218,Twin aisle twin engine jet,EDDT,MMMX,0.0
 2219,Twin aisle twin engine jet,EDDT,CYVR,0.0
-2220,Twin aisle twin engine jet,EDDT,EDDF,-0.0
+2220,Twin aisle twin engine jet,EDDT,EDDF,0.0
 2221,Twin aisle twin engine jet,EDDT,KJFK,1.0
-2222,Twin aisle twin engine jet,EDDT,SBGL,-0.0
-2223,Twin aisle twin engine jet,EDDT,LEMD,-0.0
+2222,Twin aisle twin engine jet,EDDT,SBGL,0.0
+2223,Twin aisle twin engine jet,EDDT,LEMD,0.0
 2224,Twin aisle twin engine jet,EDDT,ZSPD,1.0
-2225,Twin aisle twin engine jet,EDDT,OMDB,-0.0
-2226,Twin aisle twin engine jet,EDDT,LTFM,-0.0
+2225,Twin aisle twin engine jet,EDDT,OMDB,0.0
+2226,Twin aisle twin engine jet,EDDT,LTFM,0.0
 2227,Twin aisle twin engine jet,EDDT,ZBAA,1.0
-2228,Twin aisle twin engine jet,EDDT,VIDP,-0.0
+2228,Twin aisle twin engine jet,EDDT,VIDP,0.0
 2229,Twin aisle twin engine jet,EDDT,EFRO,0.0
-2230,Twin aisle twin engine jet,EDDT,EHEH,-0.0
-2231,Twin aisle twin engine jet,EDDT,EFHK,-0.0
-2232,Twin aisle twin engine jet,EDDT,LDZA,-0.0
-2233,Twin aisle twin engine jet,EDDT,EBBR,-0.0
-2234,Twin aisle twin engine jet,EDDT,EIDW,-0.0
-2235,Twin aisle twin engine jet,EDDT,LGAV,-0.0
+2230,Twin aisle twin engine jet,EDDT,EHEH,0.0
+2231,Twin aisle twin engine jet,EDDT,EFHK,0.0
+2232,Twin aisle twin engine jet,EDDT,LDZA,0.0
+2233,Twin aisle twin engine jet,EDDT,EBBR,0.0
+2234,Twin aisle twin engine jet,EDDT,EIDW,0.0
+2235,Twin aisle twin engine jet,EDDT,LGAV,0.0
 2236,Twin aisle twin engine jet,EDDT,BIKF,0.0
-2237,Twin aisle twin engine jet,EDDT,EETN,-0.0
-2238,Twin aisle twin engine jet,EDDT,LKPR,-0.0
+2237,Twin aisle twin engine jet,EDDT,EETN,0.0
+2238,Twin aisle twin engine jet,EDDT,LKPR,0.0
 2239,Twin aisle twin engine jet,EDDT,FACT,0.0
-2240,Twin aisle twin engine jet,EDDT,ESSA,-0.0
-2241,Twin aisle twin engine jet,EDDT,EGPH,-0.0
-2242,Twin aisle twin engine jet,EDDT,LFQQ,-0.0
-2243,Twin aisle twin engine jet,EDDT,LPPT,-0.0
+2240,Twin aisle twin engine jet,EDDT,ESSA,0.0
+2241,Twin aisle twin engine jet,EDDT,EGPH,0.0
+2242,Twin aisle twin engine jet,EDDT,LFQQ,0.0
+2243,Twin aisle twin engine jet,EDDT,LPPT,0.0
 2244,Twin aisle twin engine jet,RJAA,LIRF,1.0
 2245,Twin aisle twin engine jet,RJAA,EDDT,1.0
 2246,Twin aisle twin engine jet,RJAA,RJAA,0.0
@@ -2259,7 +2259,7 @@
 2257,Twin aisle twin engine jet,RJAA,ZSPD,1.0
 2258,Twin aisle twin engine jet,RJAA,OMDB,1.0
 2259,Twin aisle twin engine jet,RJAA,LTFM,1.0
-2260,Twin aisle twin engine jet,RJAA,ZBAA,1.0
+2260,Twin aisle twin engine jet,RJAA,ZBAA,0.0
 2261,Twin aisle twin engine jet,RJAA,VIDP,0.0
 2262,Twin aisle twin engine jet,RJAA,EFRO,0.0
 2263,Twin aisle twin engine jet,RJAA,EHEH,0.0
@@ -2274,75 +2274,75 @@
 2272,Twin aisle twin engine jet,RJAA,FACT,0.0
 2273,Twin aisle twin engine jet,RJAA,ESSA,1.0
 2274,Twin aisle twin engine jet,RJAA,EGPH,0.0
-2275,Twin aisle twin engine jet,RJAA,LFQQ,-0.0
+2275,Twin aisle twin engine jet,RJAA,LFQQ,0.0
 2276,Twin aisle twin engine jet,RJAA,LPPT,1.0
-2277,Twin aisle twin engine jet,EDDM,LIRF,-0.0
-2278,Twin aisle twin engine jet,EDDM,EDDT,-0.0
+2277,Twin aisle twin engine jet,EDDM,LIRF,0.0
+2278,Twin aisle twin engine jet,EDDM,EDDT,0.0
 2279,Twin aisle twin engine jet,EDDM,RJAA,1.0
 2280,Twin aisle twin engine jet,EDDM,EDDM,0.0
-2281,Twin aisle twin engine jet,EDDM,LFPG,-0.0
+2281,Twin aisle twin engine jet,EDDM,LFPG,0.0
 2282,Twin aisle twin engine jet,EDDM,SAEZ,0.0
 2283,Twin aisle twin engine jet,EDDM,CYYZ,0.0
-2284,Twin aisle twin engine jet,EDDM,MMMX,-0.0
+2284,Twin aisle twin engine jet,EDDM,MMMX,0.0
 2285,Twin aisle twin engine jet,EDDM,CYVR,0.0
-2286,Twin aisle twin engine jet,EDDM,EDDF,-0.0
+2286,Twin aisle twin engine jet,EDDM,EDDF,0.0
 2287,Twin aisle twin engine jet,EDDM,KJFK,1.0
 2288,Twin aisle twin engine jet,EDDM,SBGL,0.0
-2289,Twin aisle twin engine jet,EDDM,LEMD,-0.0
-2290,Twin aisle twin engine jet,EDDM,ZSPD,-0.0
-2291,Twin aisle twin engine jet,EDDM,OMDB,-0.0
-2292,Twin aisle twin engine jet,EDDM,LTFM,-0.0
+2289,Twin aisle twin engine jet,EDDM,LEMD,0.0
+2290,Twin aisle twin engine jet,EDDM,ZSPD,0.0
+2291,Twin aisle twin engine jet,EDDM,OMDB,0.0
+2292,Twin aisle twin engine jet,EDDM,LTFM,0.0
 2293,Twin aisle twin engine jet,EDDM,ZBAA,1.0
-2294,Twin aisle twin engine jet,EDDM,VIDP,-0.0
+2294,Twin aisle twin engine jet,EDDM,VIDP,0.0
 2295,Twin aisle twin engine jet,EDDM,EFRO,0.0
-2296,Twin aisle twin engine jet,EDDM,EHEH,-0.0
-2297,Twin aisle twin engine jet,EDDM,EFHK,-0.0
-2298,Twin aisle twin engine jet,EDDM,LDZA,-0.0
-2299,Twin aisle twin engine jet,EDDM,EBBR,-0.0
-2300,Twin aisle twin engine jet,EDDM,EIDW,-0.0
-2301,Twin aisle twin engine jet,EDDM,LGAV,-0.0
+2296,Twin aisle twin engine jet,EDDM,EHEH,0.0
+2297,Twin aisle twin engine jet,EDDM,EFHK,0.0
+2298,Twin aisle twin engine jet,EDDM,LDZA,0.0
+2299,Twin aisle twin engine jet,EDDM,EBBR,0.0
+2300,Twin aisle twin engine jet,EDDM,EIDW,0.0
+2301,Twin aisle twin engine jet,EDDM,LGAV,0.0
 2302,Twin aisle twin engine jet,EDDM,BIKF,0.0
-2303,Twin aisle twin engine jet,EDDM,EETN,-0.0
-2304,Twin aisle twin engine jet,EDDM,LKPR,-0.0
+2303,Twin aisle twin engine jet,EDDM,EETN,0.0
+2304,Twin aisle twin engine jet,EDDM,LKPR,0.0
 2305,Twin aisle twin engine jet,EDDM,FACT,0.0
-2306,Twin aisle twin engine jet,EDDM,ESSA,-0.0
-2307,Twin aisle twin engine jet,EDDM,EGPH,-0.0
-2308,Twin aisle twin engine jet,EDDM,LFQQ,-0.0
-2309,Twin aisle twin engine jet,EDDM,LPPT,-0.0
+2306,Twin aisle twin engine jet,EDDM,ESSA,0.0
+2307,Twin aisle twin engine jet,EDDM,EGPH,0.0
+2308,Twin aisle twin engine jet,EDDM,LFQQ,0.0
+2309,Twin aisle twin engine jet,EDDM,LPPT,0.0
 2310,Twin aisle twin engine jet,LFPG,LIRF,0.0
-2311,Twin aisle twin engine jet,LFPG,EDDT,-0.0
+2311,Twin aisle twin engine jet,LFPG,EDDT,0.0
 2312,Twin aisle twin engine jet,LFPG,RJAA,1.0
-2313,Twin aisle twin engine jet,LFPG,EDDM,-0.0
+2313,Twin aisle twin engine jet,LFPG,EDDM,0.0
 2314,Twin aisle twin engine jet,LFPG,LFPG,0.0
 2315,Twin aisle twin engine jet,LFPG,SAEZ,1.0
 2316,Twin aisle twin engine jet,LFPG,CYYZ,0.0
 2317,Twin aisle twin engine jet,LFPG,MMMX,1.0
-2318,Twin aisle twin engine jet,LFPG,CYVR,-0.0
-2319,Twin aisle twin engine jet,LFPG,EDDF,-0.0
+2318,Twin aisle twin engine jet,LFPG,CYVR,0.0
+2319,Twin aisle twin engine jet,LFPG,EDDF,0.0
 2320,Twin aisle twin engine jet,LFPG,KJFK,1.0
 2321,Twin aisle twin engine jet,LFPG,SBGL,1.0
-2322,Twin aisle twin engine jet,LFPG,LEMD,-0.0
+2322,Twin aisle twin engine jet,LFPG,LEMD,0.0
 2323,Twin aisle twin engine jet,LFPG,ZSPD,1.0
-2324,Twin aisle twin engine jet,LFPG,OMDB,-0.0
-2325,Twin aisle twin engine jet,LFPG,LTFM,-0.0
+2324,Twin aisle twin engine jet,LFPG,OMDB,0.0
+2325,Twin aisle twin engine jet,LFPG,LTFM,0.0
 2326,Twin aisle twin engine jet,LFPG,ZBAA,1.0
 2327,Twin aisle twin engine jet,LFPG,VIDP,1.0
-2328,Twin aisle twin engine jet,LFPG,EFRO,-0.0
-2329,Twin aisle twin engine jet,LFPG,EHEH,-0.0
-2330,Twin aisle twin engine jet,LFPG,EFHK,-0.0
-2331,Twin aisle twin engine jet,LFPG,LDZA,-0.0
-2332,Twin aisle twin engine jet,LFPG,EBBR,-0.0
-2333,Twin aisle twin engine jet,LFPG,EIDW,-0.0
-2334,Twin aisle twin engine jet,LFPG,LGAV,-0.0
-2335,Twin aisle twin engine jet,LFPG,BIKF,-0.0
-2336,Twin aisle twin engine jet,LFPG,EETN,-0.0
-2337,Twin aisle twin engine jet,LFPG,LKPR,-0.0
-2338,Twin aisle twin engine jet,LFPG,FACT,-0.0
-2339,Twin aisle twin engine jet,LFPG,ESSA,-0.0
-2340,Twin aisle twin engine jet,LFPG,EGPH,-0.0
-2341,Twin aisle twin engine jet,LFPG,LFQQ,-0.0
-2342,Twin aisle twin engine jet,LFPG,LPPT,-0.0
-2343,Twin aisle twin engine jet,SAEZ,LIRF,0.0
+2328,Twin aisle twin engine jet,LFPG,EFRO,0.0
+2329,Twin aisle twin engine jet,LFPG,EHEH,0.0
+2330,Twin aisle twin engine jet,LFPG,EFHK,0.0
+2331,Twin aisle twin engine jet,LFPG,LDZA,0.0
+2332,Twin aisle twin engine jet,LFPG,EBBR,0.0
+2333,Twin aisle twin engine jet,LFPG,EIDW,0.0
+2334,Twin aisle twin engine jet,LFPG,LGAV,0.0
+2335,Twin aisle twin engine jet,LFPG,BIKF,0.0
+2336,Twin aisle twin engine jet,LFPG,EETN,0.0
+2337,Twin aisle twin engine jet,LFPG,LKPR,0.0
+2338,Twin aisle twin engine jet,LFPG,FACT,0.0
+2339,Twin aisle twin engine jet,LFPG,ESSA,0.0
+2340,Twin aisle twin engine jet,LFPG,EGPH,0.0
+2341,Twin aisle twin engine jet,LFPG,LFQQ,0.0
+2342,Twin aisle twin engine jet,LFPG,LPPT,0.0
+2343,Twin aisle twin engine jet,SAEZ,LIRF,1.0
 2344,Twin aisle twin engine jet,SAEZ,EDDT,0.0
 2345,Twin aisle twin engine jet,SAEZ,RJAA,0.0
 2346,Twin aisle twin engine jet,SAEZ,EDDM,0.0
@@ -2353,8 +2353,8 @@
 2351,Twin aisle twin engine jet,SAEZ,CYVR,0.0
 2352,Twin aisle twin engine jet,SAEZ,EDDF,0.0
 2353,Twin aisle twin engine jet,SAEZ,KJFK,1.0
-2354,Twin aisle twin engine jet,SAEZ,SBGL,-0.0
-2355,Twin aisle twin engine jet,SAEZ,LEMD,-0.0
+2354,Twin aisle twin engine jet,SAEZ,SBGL,0.0
+2355,Twin aisle twin engine jet,SAEZ,LEMD,0.0
 2356,Twin aisle twin engine jet,SAEZ,ZSPD,0.0
 2357,Twin aisle twin engine jet,SAEZ,OMDB,0.0
 2358,Twin aisle twin engine jet,SAEZ,LTFM,0.0
@@ -2416,8 +2416,8 @@
 2414,Twin aisle twin engine jet,MMMX,SAEZ,1.0
 2415,Twin aisle twin engine jet,MMMX,CYYZ,0.0
 2416,Twin aisle twin engine jet,MMMX,MMMX,0.0
-2417,Twin aisle twin engine jet,MMMX,CYVR,-0.0
-2418,Twin aisle twin engine jet,MMMX,EDDF,-0.0
+2417,Twin aisle twin engine jet,MMMX,CYVR,0.0
+2418,Twin aisle twin engine jet,MMMX,EDDF,0.0
 2419,Twin aisle twin engine jet,MMMX,KJFK,1.0
 2420,Twin aisle twin engine jet,MMMX,SBGL,1.0
 2421,Twin aisle twin engine jet,MMMX,LEMD,1.0
@@ -2430,35 +2430,35 @@
 2428,Twin aisle twin engine jet,MMMX,EHEH,0.0
 2429,Twin aisle twin engine jet,MMMX,EFHK,0.0
 2430,Twin aisle twin engine jet,MMMX,LDZA,0.0
-2431,Twin aisle twin engine jet,MMMX,EBBR,-0.0
-2432,Twin aisle twin engine jet,MMMX,EIDW,-0.0
+2431,Twin aisle twin engine jet,MMMX,EBBR,0.0
+2432,Twin aisle twin engine jet,MMMX,EIDW,0.0
 2433,Twin aisle twin engine jet,MMMX,LGAV,0.0
 2434,Twin aisle twin engine jet,MMMX,BIKF,0.0
 2435,Twin aisle twin engine jet,MMMX,EETN,0.0
 2436,Twin aisle twin engine jet,MMMX,LKPR,0.0
 2437,Twin aisle twin engine jet,MMMX,FACT,0.0
-2438,Twin aisle twin engine jet,MMMX,ESSA,-0.0
+2438,Twin aisle twin engine jet,MMMX,ESSA,0.0
 2439,Twin aisle twin engine jet,MMMX,EGPH,0.0
 2440,Twin aisle twin engine jet,MMMX,LFQQ,0.0
 2441,Twin aisle twin engine jet,MMMX,LPPT,0.0
-2442,Twin aisle twin engine jet,CYVR,LIRF,0.0
+2442,Twin aisle twin engine jet,CYVR,LIRF,1.0
 2443,Twin aisle twin engine jet,CYVR,EDDT,0.0
 2444,Twin aisle twin engine jet,CYVR,RJAA,1.0
 2445,Twin aisle twin engine jet,CYVR,EDDM,0.0
 2446,Twin aisle twin engine jet,CYVR,LFPG,0.0
 2447,Twin aisle twin engine jet,CYVR,SAEZ,0.0
 2448,Twin aisle twin engine jet,CYVR,CYYZ,0.0
-2449,Twin aisle twin engine jet,CYVR,MMMX,-0.0
+2449,Twin aisle twin engine jet,CYVR,MMMX,0.0
 2450,Twin aisle twin engine jet,CYVR,CYVR,0.0
 2451,Twin aisle twin engine jet,CYVR,EDDF,0.0
-2452,Twin aisle twin engine jet,CYVR,KJFK,-0.0
+2452,Twin aisle twin engine jet,CYVR,KJFK,0.0
 2453,Twin aisle twin engine jet,CYVR,SBGL,0.0
 2454,Twin aisle twin engine jet,CYVR,LEMD,0.0
-2455,Twin aisle twin engine jet,CYVR,ZSPD,-0.0
+2455,Twin aisle twin engine jet,CYVR,ZSPD,0.0
 2456,Twin aisle twin engine jet,CYVR,OMDB,0.0
 2457,Twin aisle twin engine jet,CYVR,LTFM,0.0
-2458,Twin aisle twin engine jet,CYVR,ZBAA,-0.0
-2459,Twin aisle twin engine jet,CYVR,VIDP,-0.0
+2458,Twin aisle twin engine jet,CYVR,ZBAA,0.0
+2459,Twin aisle twin engine jet,CYVR,VIDP,0.0
 2460,Twin aisle twin engine jet,CYVR,EFRO,0.0
 2461,Twin aisle twin engine jet,CYVR,EHEH,0.0
 2462,Twin aisle twin engine jet,CYVR,EFHK,0.0
@@ -2474,39 +2474,39 @@
 2472,Twin aisle twin engine jet,CYVR,EGPH,0.0
 2473,Twin aisle twin engine jet,CYVR,LFQQ,0.0
 2474,Twin aisle twin engine jet,CYVR,LPPT,0.0
-2475,Twin aisle twin engine jet,EDDF,LIRF,-0.0
-2476,Twin aisle twin engine jet,EDDF,EDDT,-0.0
+2475,Twin aisle twin engine jet,EDDF,LIRF,0.0
+2476,Twin aisle twin engine jet,EDDF,EDDT,0.0
 2477,Twin aisle twin engine jet,EDDF,RJAA,1.0
-2478,Twin aisle twin engine jet,EDDF,EDDM,-0.0
-2479,Twin aisle twin engine jet,EDDF,LFPG,-0.0
+2478,Twin aisle twin engine jet,EDDF,EDDM,0.0
+2479,Twin aisle twin engine jet,EDDF,LFPG,0.0
 2480,Twin aisle twin engine jet,EDDF,SAEZ,0.0
 2481,Twin aisle twin engine jet,EDDF,CYYZ,0.0
 2482,Twin aisle twin engine jet,EDDF,MMMX,0.0
 2483,Twin aisle twin engine jet,EDDF,CYVR,0.0
 2484,Twin aisle twin engine jet,EDDF,EDDF,0.0
-2485,Twin aisle twin engine jet,EDDF,KJFK,-0.0
+2485,Twin aisle twin engine jet,EDDF,KJFK,0.0
 2486,Twin aisle twin engine jet,EDDF,SBGL,0.0
-2487,Twin aisle twin engine jet,EDDF,LEMD,-0.0
-2488,Twin aisle twin engine jet,EDDF,ZSPD,-0.0
-2489,Twin aisle twin engine jet,EDDF,OMDB,-0.0
-2490,Twin aisle twin engine jet,EDDF,LTFM,-0.0
-2491,Twin aisle twin engine jet,EDDF,ZBAA,-0.0
-2492,Twin aisle twin engine jet,EDDF,VIDP,-0.0
+2487,Twin aisle twin engine jet,EDDF,LEMD,0.0
+2488,Twin aisle twin engine jet,EDDF,ZSPD,0.0
+2489,Twin aisle twin engine jet,EDDF,OMDB,0.0
+2490,Twin aisle twin engine jet,EDDF,LTFM,0.0
+2491,Twin aisle twin engine jet,EDDF,ZBAA,0.0
+2492,Twin aisle twin engine jet,EDDF,VIDP,0.0
 2493,Twin aisle twin engine jet,EDDF,EFRO,0.0
-2494,Twin aisle twin engine jet,EDDF,EHEH,-0.0
-2495,Twin aisle twin engine jet,EDDF,EFHK,-0.0
-2496,Twin aisle twin engine jet,EDDF,LDZA,-0.0
-2497,Twin aisle twin engine jet,EDDF,EBBR,-0.0
-2498,Twin aisle twin engine jet,EDDF,EIDW,-0.0
-2499,Twin aisle twin engine jet,EDDF,LGAV,-0.0
+2494,Twin aisle twin engine jet,EDDF,EHEH,0.0
+2495,Twin aisle twin engine jet,EDDF,EFHK,0.0
+2496,Twin aisle twin engine jet,EDDF,LDZA,0.0
+2497,Twin aisle twin engine jet,EDDF,EBBR,0.0
+2498,Twin aisle twin engine jet,EDDF,EIDW,0.0
+2499,Twin aisle twin engine jet,EDDF,LGAV,0.0
 2500,Twin aisle twin engine jet,EDDF,BIKF,0.0
-2501,Twin aisle twin engine jet,EDDF,EETN,-0.0
-2502,Twin aisle twin engine jet,EDDF,LKPR,-0.0
+2501,Twin aisle twin engine jet,EDDF,EETN,0.0
+2502,Twin aisle twin engine jet,EDDF,LKPR,0.0
 2503,Twin aisle twin engine jet,EDDF,FACT,0.0
-2504,Twin aisle twin engine jet,EDDF,ESSA,-0.0
-2505,Twin aisle twin engine jet,EDDF,EGPH,-0.0
-2506,Twin aisle twin engine jet,EDDF,LFQQ,-0.0
-2507,Twin aisle twin engine jet,EDDF,LPPT,-0.0
+2504,Twin aisle twin engine jet,EDDF,ESSA,0.0
+2505,Twin aisle twin engine jet,EDDF,EGPH,0.0
+2506,Twin aisle twin engine jet,EDDF,LFQQ,0.0
+2507,Twin aisle twin engine jet,EDDF,LPPT,0.0
 2508,Twin aisle twin engine jet,KJFK,LIRF,1.0
 2509,Twin aisle twin engine jet,KJFK,EDDT,1.0
 2510,Twin aisle twin engine jet,KJFK,RJAA,1.0
@@ -2515,44 +2515,44 @@
 2513,Twin aisle twin engine jet,KJFK,SAEZ,1.0
 2514,Twin aisle twin engine jet,KJFK,CYYZ,0.0
 2515,Twin aisle twin engine jet,KJFK,MMMX,1.0
-2516,Twin aisle twin engine jet,KJFK,CYVR,-0.0
-2517,Twin aisle twin engine jet,KJFK,EDDF,-0.0
+2516,Twin aisle twin engine jet,KJFK,CYVR,0.0
+2517,Twin aisle twin engine jet,KJFK,EDDF,0.0
 2518,Twin aisle twin engine jet,KJFK,KJFK,0.0
 2519,Twin aisle twin engine jet,KJFK,SBGL,1.0
-2520,Twin aisle twin engine jet,KJFK,LEMD,-0.0
+2520,Twin aisle twin engine jet,KJFK,LEMD,0.0
 2521,Twin aisle twin engine jet,KJFK,ZSPD,1.0
-2522,Twin aisle twin engine jet,KJFK,OMDB,-0.0
+2522,Twin aisle twin engine jet,KJFK,OMDB,0.0
 2523,Twin aisle twin engine jet,KJFK,LTFM,1.0
 2524,Twin aisle twin engine jet,KJFK,ZBAA,1.0
 2525,Twin aisle twin engine jet,KJFK,VIDP,1.0
 2526,Twin aisle twin engine jet,KJFK,EFRO,0.0
-2527,Twin aisle twin engine jet,KJFK,EHEH,-0.0
-2528,Twin aisle twin engine jet,KJFK,EFHK,-0.0
+2527,Twin aisle twin engine jet,KJFK,EHEH,0.0
+2528,Twin aisle twin engine jet,KJFK,EFHK,0.0
 2529,Twin aisle twin engine jet,KJFK,LDZA,0.0
-2530,Twin aisle twin engine jet,KJFK,EBBR,-0.0
-2531,Twin aisle twin engine jet,KJFK,EIDW,-0.0
+2530,Twin aisle twin engine jet,KJFK,EBBR,0.0
+2531,Twin aisle twin engine jet,KJFK,EIDW,0.0
 2532,Twin aisle twin engine jet,KJFK,LGAV,1.0
-2533,Twin aisle twin engine jet,KJFK,BIKF,-0.0
+2533,Twin aisle twin engine jet,KJFK,BIKF,0.0
 2534,Twin aisle twin engine jet,KJFK,EETN,0.0
-2535,Twin aisle twin engine jet,KJFK,LKPR,-0.0
+2535,Twin aisle twin engine jet,KJFK,LKPR,0.0
 2536,Twin aisle twin engine jet,KJFK,FACT,0.0
 2537,Twin aisle twin engine jet,KJFK,ESSA,1.0
-2538,Twin aisle twin engine jet,KJFK,EGPH,-0.0
-2539,Twin aisle twin engine jet,KJFK,LFQQ,-0.0
-2540,Twin aisle twin engine jet,KJFK,LPPT,-0.0
+2538,Twin aisle twin engine jet,KJFK,EGPH,0.0
+2539,Twin aisle twin engine jet,KJFK,LFQQ,0.0
+2540,Twin aisle twin engine jet,KJFK,LPPT,0.0
 2541,Twin aisle twin engine jet,SBGL,LIRF,1.0
 2542,Twin aisle twin engine jet,SBGL,EDDT,0.0
 2543,Twin aisle twin engine jet,SBGL,RJAA,0.0
 2544,Twin aisle twin engine jet,SBGL,EDDM,0.0
 2545,Twin aisle twin engine jet,SBGL,LFPG,1.0
-2546,Twin aisle twin engine jet,SBGL,SAEZ,-0.0
+2546,Twin aisle twin engine jet,SBGL,SAEZ,0.0
 2547,Twin aisle twin engine jet,SBGL,CYYZ,0.0
 2548,Twin aisle twin engine jet,SBGL,MMMX,1.0
 2549,Twin aisle twin engine jet,SBGL,CYVR,0.0
 2550,Twin aisle twin engine jet,SBGL,EDDF,0.0
 2551,Twin aisle twin engine jet,SBGL,KJFK,1.0
 2552,Twin aisle twin engine jet,SBGL,SBGL,0.0
-2553,Twin aisle twin engine jet,SBGL,LEMD,-0.0
+2553,Twin aisle twin engine jet,SBGL,LEMD,0.0
 2554,Twin aisle twin engine jet,SBGL,ZSPD,0.0
 2555,Twin aisle twin engine jet,SBGL,OMDB,0.0
 2556,Twin aisle twin engine jet,SBGL,LTFM,1.0
@@ -2568,47 +2568,47 @@
 2566,Twin aisle twin engine jet,SBGL,BIKF,0.0
 2567,Twin aisle twin engine jet,SBGL,EETN,0.0
 2568,Twin aisle twin engine jet,SBGL,LKPR,0.0
-2569,Twin aisle twin engine jet,SBGL,FACT,-0.0
+2569,Twin aisle twin engine jet,SBGL,FACT,0.0
 2570,Twin aisle twin engine jet,SBGL,ESSA,0.0
 2571,Twin aisle twin engine jet,SBGL,EGPH,0.0
 2572,Twin aisle twin engine jet,SBGL,LFQQ,0.0
 2573,Twin aisle twin engine jet,SBGL,LPPT,0.0
-2574,Twin aisle twin engine jet,LEMD,LIRF,-0.0
-2575,Twin aisle twin engine jet,LEMD,EDDT,-0.0
+2574,Twin aisle twin engine jet,LEMD,LIRF,0.0
+2575,Twin aisle twin engine jet,LEMD,EDDT,0.0
 2576,Twin aisle twin engine jet,LEMD,RJAA,1.0
-2577,Twin aisle twin engine jet,LEMD,EDDM,-0.0
-2578,Twin aisle twin engine jet,LEMD,LFPG,-0.0
+2577,Twin aisle twin engine jet,LEMD,EDDM,0.0
+2578,Twin aisle twin engine jet,LEMD,LFPG,0.0
 2579,Twin aisle twin engine jet,LEMD,SAEZ,0.0
 2580,Twin aisle twin engine jet,LEMD,CYYZ,0.0
 2581,Twin aisle twin engine jet,LEMD,MMMX,1.0
 2582,Twin aisle twin engine jet,LEMD,CYVR,0.0
-2583,Twin aisle twin engine jet,LEMD,EDDF,-0.0
-2584,Twin aisle twin engine jet,LEMD,KJFK,-0.0
+2583,Twin aisle twin engine jet,LEMD,EDDF,0.0
+2584,Twin aisle twin engine jet,LEMD,KJFK,0.0
 2585,Twin aisle twin engine jet,LEMD,SBGL,0.0
 2586,Twin aisle twin engine jet,LEMD,LEMD,0.0
 2587,Twin aisle twin engine jet,LEMD,ZSPD,1.0
-2588,Twin aisle twin engine jet,LEMD,OMDB,-0.0
-2589,Twin aisle twin engine jet,LEMD,LTFM,-0.0
+2588,Twin aisle twin engine jet,LEMD,OMDB,0.0
+2589,Twin aisle twin engine jet,LEMD,LTFM,0.0
 2590,Twin aisle twin engine jet,LEMD,ZBAA,1.0
 2591,Twin aisle twin engine jet,LEMD,VIDP,1.0
 2592,Twin aisle twin engine jet,LEMD,EFRO,0.0
-2593,Twin aisle twin engine jet,LEMD,EHEH,-0.0
-2594,Twin aisle twin engine jet,LEMD,EFHK,-0.0
-2595,Twin aisle twin engine jet,LEMD,LDZA,-0.0
-2596,Twin aisle twin engine jet,LEMD,EBBR,-0.0
-2597,Twin aisle twin engine jet,LEMD,EIDW,-0.0
-2598,Twin aisle twin engine jet,LEMD,LGAV,-0.0
-2599,Twin aisle twin engine jet,LEMD,BIKF,-0.0
-2600,Twin aisle twin engine jet,LEMD,EETN,-0.0
-2601,Twin aisle twin engine jet,LEMD,LKPR,-0.0
+2593,Twin aisle twin engine jet,LEMD,EHEH,0.0
+2594,Twin aisle twin engine jet,LEMD,EFHK,0.0
+2595,Twin aisle twin engine jet,LEMD,LDZA,0.0
+2596,Twin aisle twin engine jet,LEMD,EBBR,0.0
+2597,Twin aisle twin engine jet,LEMD,EIDW,0.0
+2598,Twin aisle twin engine jet,LEMD,LGAV,0.0
+2599,Twin aisle twin engine jet,LEMD,BIKF,0.0
+2600,Twin aisle twin engine jet,LEMD,EETN,0.0
+2601,Twin aisle twin engine jet,LEMD,LKPR,0.0
 2602,Twin aisle twin engine jet,LEMD,FACT,0.0
-2603,Twin aisle twin engine jet,LEMD,ESSA,-0.0
-2604,Twin aisle twin engine jet,LEMD,EGPH,-0.0
-2605,Twin aisle twin engine jet,LEMD,LFQQ,-0.0
-2606,Twin aisle twin engine jet,LEMD,LPPT,-0.0
+2603,Twin aisle twin engine jet,LEMD,ESSA,0.0
+2604,Twin aisle twin engine jet,LEMD,EGPH,0.0
+2605,Twin aisle twin engine jet,LEMD,LFQQ,0.0
+2606,Twin aisle twin engine jet,LEMD,LPPT,0.0
 2607,Twin aisle twin engine jet,ZSPD,LIRF,1.0
 2608,Twin aisle twin engine jet,ZSPD,EDDT,1.0
-2609,Twin aisle twin engine jet,ZSPD,RJAA,1.0
+2609,Twin aisle twin engine jet,ZSPD,RJAA,0.0
 2610,Twin aisle twin engine jet,ZSPD,EDDM,0.0
 2611,Twin aisle twin engine jet,ZSPD,LFPG,1.0
 2612,Twin aisle twin engine jet,ZSPD,SAEZ,0.0
@@ -2626,88 +2626,88 @@
 2624,Twin aisle twin engine jet,ZSPD,VIDP,1.0
 2625,Twin aisle twin engine jet,ZSPD,EFRO,0.0
 2626,Twin aisle twin engine jet,ZSPD,EHEH,0.0
-2627,Twin aisle twin engine jet,ZSPD,EFHK,-0.0
+2627,Twin aisle twin engine jet,ZSPD,EFHK,0.0
 2628,Twin aisle twin engine jet,ZSPD,LDZA,0.0
-2629,Twin aisle twin engine jet,ZSPD,EBBR,-0.0
-2630,Twin aisle twin engine jet,ZSPD,EIDW,-0.0
-2631,Twin aisle twin engine jet,ZSPD,LGAV,-0.0
+2629,Twin aisle twin engine jet,ZSPD,EBBR,0.0
+2630,Twin aisle twin engine jet,ZSPD,EIDW,0.0
+2631,Twin aisle twin engine jet,ZSPD,LGAV,0.0
 2632,Twin aisle twin engine jet,ZSPD,BIKF,0.0
 2633,Twin aisle twin engine jet,ZSPD,EETN,0.0
 2634,Twin aisle twin engine jet,ZSPD,LKPR,0.0
 2635,Twin aisle twin engine jet,ZSPD,FACT,0.0
-2636,Twin aisle twin engine jet,ZSPD,ESSA,-0.0
+2636,Twin aisle twin engine jet,ZSPD,ESSA,0.0
 2637,Twin aisle twin engine jet,ZSPD,EGPH,0.0
 2638,Twin aisle twin engine jet,ZSPD,LFQQ,0.0
-2639,Twin aisle twin engine jet,ZSPD,LPPT,-0.0
-2640,Twin aisle twin engine jet,OMDB,LIRF,-0.0
-2641,Twin aisle twin engine jet,OMDB,EDDT,-0.0
+2639,Twin aisle twin engine jet,ZSPD,LPPT,0.0
+2640,Twin aisle twin engine jet,OMDB,LIRF,0.0
+2641,Twin aisle twin engine jet,OMDB,EDDT,0.0
 2642,Twin aisle twin engine jet,OMDB,RJAA,1.0
-2643,Twin aisle twin engine jet,OMDB,EDDM,-0.0
-2644,Twin aisle twin engine jet,OMDB,LFPG,-0.0
+2643,Twin aisle twin engine jet,OMDB,EDDM,0.0
+2644,Twin aisle twin engine jet,OMDB,LFPG,0.0
 2645,Twin aisle twin engine jet,OMDB,SAEZ,0.0
 2646,Twin aisle twin engine jet,OMDB,CYYZ,0.0
 2647,Twin aisle twin engine jet,OMDB,MMMX,0.0
 2648,Twin aisle twin engine jet,OMDB,CYVR,0.0
-2649,Twin aisle twin engine jet,OMDB,EDDF,-0.0
+2649,Twin aisle twin engine jet,OMDB,EDDF,0.0
 2650,Twin aisle twin engine jet,OMDB,KJFK,0.0
 2651,Twin aisle twin engine jet,OMDB,SBGL,0.0
-2652,Twin aisle twin engine jet,OMDB,LEMD,-0.0
+2652,Twin aisle twin engine jet,OMDB,LEMD,0.0
 2653,Twin aisle twin engine jet,OMDB,ZSPD,1.0
 2654,Twin aisle twin engine jet,OMDB,OMDB,0.0
-2655,Twin aisle twin engine jet,OMDB,LTFM,-0.0
-2656,Twin aisle twin engine jet,OMDB,ZBAA,-0.0
-2657,Twin aisle twin engine jet,OMDB,VIDP,-0.0
+2655,Twin aisle twin engine jet,OMDB,LTFM,0.0
+2656,Twin aisle twin engine jet,OMDB,ZBAA,0.0
+2657,Twin aisle twin engine jet,OMDB,VIDP,0.0
 2658,Twin aisle twin engine jet,OMDB,EFRO,0.0
 2659,Twin aisle twin engine jet,OMDB,EHEH,0.0
-2660,Twin aisle twin engine jet,OMDB,EFHK,-0.0
+2660,Twin aisle twin engine jet,OMDB,EFHK,0.0
 2661,Twin aisle twin engine jet,OMDB,LDZA,0.0
-2662,Twin aisle twin engine jet,OMDB,EBBR,-0.0
-2663,Twin aisle twin engine jet,OMDB,EIDW,-0.0
-2664,Twin aisle twin engine jet,OMDB,LGAV,-0.0
+2662,Twin aisle twin engine jet,OMDB,EBBR,0.0
+2663,Twin aisle twin engine jet,OMDB,EIDW,0.0
+2664,Twin aisle twin engine jet,OMDB,LGAV,0.0
 2665,Twin aisle twin engine jet,OMDB,BIKF,0.0
 2666,Twin aisle twin engine jet,OMDB,EETN,0.0
 2667,Twin aisle twin engine jet,OMDB,LKPR,0.0
 2668,Twin aisle twin engine jet,OMDB,FACT,0.0
-2669,Twin aisle twin engine jet,OMDB,ESSA,-0.0
+2669,Twin aisle twin engine jet,OMDB,ESSA,0.0
 2670,Twin aisle twin engine jet,OMDB,EGPH,0.0
 2671,Twin aisle twin engine jet,OMDB,LFQQ,0.0
 2672,Twin aisle twin engine jet,OMDB,LPPT,0.0
-2673,Twin aisle twin engine jet,LTFM,LIRF,-0.0
-2674,Twin aisle twin engine jet,LTFM,EDDT,-0.0
+2673,Twin aisle twin engine jet,LTFM,LIRF,0.0
+2674,Twin aisle twin engine jet,LTFM,EDDT,0.0
 2675,Twin aisle twin engine jet,LTFM,RJAA,1.0
-2676,Twin aisle twin engine jet,LTFM,EDDM,-0.0
-2677,Twin aisle twin engine jet,LTFM,LFPG,-0.0
+2676,Twin aisle twin engine jet,LTFM,EDDM,0.0
+2677,Twin aisle twin engine jet,LTFM,LFPG,0.0
 2678,Twin aisle twin engine jet,LTFM,SAEZ,0.0
 2679,Twin aisle twin engine jet,LTFM,CYYZ,0.0
 2680,Twin aisle twin engine jet,LTFM,MMMX,1.0
 2681,Twin aisle twin engine jet,LTFM,CYVR,0.0
-2682,Twin aisle twin engine jet,LTFM,EDDF,-0.0
+2682,Twin aisle twin engine jet,LTFM,EDDF,0.0
 2683,Twin aisle twin engine jet,LTFM,KJFK,1.0
 2684,Twin aisle twin engine jet,LTFM,SBGL,1.0
-2685,Twin aisle twin engine jet,LTFM,LEMD,-0.0
+2685,Twin aisle twin engine jet,LTFM,LEMD,0.0
 2686,Twin aisle twin engine jet,LTFM,ZSPD,1.0
-2687,Twin aisle twin engine jet,LTFM,OMDB,-0.0
+2687,Twin aisle twin engine jet,LTFM,OMDB,0.0
 2688,Twin aisle twin engine jet,LTFM,LTFM,0.0
 2689,Twin aisle twin engine jet,LTFM,ZBAA,1.0
 2690,Twin aisle twin engine jet,LTFM,VIDP,0.0
 2691,Twin aisle twin engine jet,LTFM,EFRO,0.0
-2692,Twin aisle twin engine jet,LTFM,EHEH,-0.0
-2693,Twin aisle twin engine jet,LTFM,EFHK,-0.0
-2694,Twin aisle twin engine jet,LTFM,LDZA,-0.0
-2695,Twin aisle twin engine jet,LTFM,EBBR,-0.0
-2696,Twin aisle twin engine jet,LTFM,EIDW,-0.0
-2697,Twin aisle twin engine jet,LTFM,LGAV,-0.0
+2692,Twin aisle twin engine jet,LTFM,EHEH,0.0
+2693,Twin aisle twin engine jet,LTFM,EFHK,0.0
+2694,Twin aisle twin engine jet,LTFM,LDZA,0.0
+2695,Twin aisle twin engine jet,LTFM,EBBR,0.0
+2696,Twin aisle twin engine jet,LTFM,EIDW,0.0
+2697,Twin aisle twin engine jet,LTFM,LGAV,0.0
 2698,Twin aisle twin engine jet,LTFM,BIKF,0.0
-2699,Twin aisle twin engine jet,LTFM,EETN,-0.0
-2700,Twin aisle twin engine jet,LTFM,LKPR,-0.0
+2699,Twin aisle twin engine jet,LTFM,EETN,0.0
+2700,Twin aisle twin engine jet,LTFM,LKPR,0.0
 2701,Twin aisle twin engine jet,LTFM,FACT,0.0
-2702,Twin aisle twin engine jet,LTFM,ESSA,-0.0
-2703,Twin aisle twin engine jet,LTFM,EGPH,-0.0
-2704,Twin aisle twin engine jet,LTFM,LFQQ,-0.0
-2705,Twin aisle twin engine jet,LTFM,LPPT,-0.0
+2702,Twin aisle twin engine jet,LTFM,ESSA,0.0
+2703,Twin aisle twin engine jet,LTFM,EGPH,0.0
+2704,Twin aisle twin engine jet,LTFM,LFQQ,0.0
+2705,Twin aisle twin engine jet,LTFM,LPPT,0.0
 2706,Twin aisle twin engine jet,ZBAA,LIRF,1.0
 2707,Twin aisle twin engine jet,ZBAA,EDDT,1.0
-2708,Twin aisle twin engine jet,ZBAA,RJAA,1.0
+2708,Twin aisle twin engine jet,ZBAA,RJAA,0.0
 2709,Twin aisle twin engine jet,ZBAA,EDDM,1.0
 2710,Twin aisle twin engine jet,ZBAA,LFPG,1.0
 2711,Twin aisle twin engine jet,ZBAA,SAEZ,0.0
@@ -2719,7 +2719,7 @@
 2717,Twin aisle twin engine jet,ZBAA,SBGL,0.0
 2718,Twin aisle twin engine jet,ZBAA,LEMD,1.0
 2719,Twin aisle twin engine jet,ZBAA,ZSPD,1.0
-2720,Twin aisle twin engine jet,ZBAA,OMDB,-0.0
+2720,Twin aisle twin engine jet,ZBAA,OMDB,0.0
 2721,Twin aisle twin engine jet,ZBAA,LTFM,1.0
 2722,Twin aisle twin engine jet,ZBAA,ZBAA,0.0
 2723,Twin aisle twin engine jet,ZBAA,VIDP,1.0
@@ -2727,55 +2727,55 @@
 2725,Twin aisle twin engine jet,ZBAA,EHEH,0.0
 2726,Twin aisle twin engine jet,ZBAA,EFHK,0.0
 2727,Twin aisle twin engine jet,ZBAA,LDZA,0.0
-2728,Twin aisle twin engine jet,ZBAA,EBBR,-0.0
-2729,Twin aisle twin engine jet,ZBAA,EIDW,-0.0
-2730,Twin aisle twin engine jet,ZBAA,LGAV,-0.0
+2728,Twin aisle twin engine jet,ZBAA,EBBR,0.0
+2729,Twin aisle twin engine jet,ZBAA,EIDW,0.0
+2730,Twin aisle twin engine jet,ZBAA,LGAV,0.0
 2731,Twin aisle twin engine jet,ZBAA,BIKF,0.0
 2732,Twin aisle twin engine jet,ZBAA,EETN,0.0
 2733,Twin aisle twin engine jet,ZBAA,LKPR,0.0
 2734,Twin aisle twin engine jet,ZBAA,FACT,0.0
-2735,Twin aisle twin engine jet,ZBAA,ESSA,-0.0
+2735,Twin aisle twin engine jet,ZBAA,ESSA,0.0
 2736,Twin aisle twin engine jet,ZBAA,EGPH,0.0
 2737,Twin aisle twin engine jet,ZBAA,LFQQ,0.0
 2738,Twin aisle twin engine jet,ZBAA,LPPT,0.0
-2739,Twin aisle twin engine jet,VIDP,LIRF,-0.0
-2740,Twin aisle twin engine jet,VIDP,EDDT,-0.0
+2739,Twin aisle twin engine jet,VIDP,LIRF,1.0
+2740,Twin aisle twin engine jet,VIDP,EDDT,0.0
 2741,Twin aisle twin engine jet,VIDP,RJAA,0.0
-2742,Twin aisle twin engine jet,VIDP,EDDM,-0.0
+2742,Twin aisle twin engine jet,VIDP,EDDM,0.0
 2743,Twin aisle twin engine jet,VIDP,LFPG,1.0
 2744,Twin aisle twin engine jet,VIDP,SAEZ,0.0
 2745,Twin aisle twin engine jet,VIDP,CYYZ,0.0
 2746,Twin aisle twin engine jet,VIDP,MMMX,0.0
 2747,Twin aisle twin engine jet,VIDP,CYVR,0.0
-2748,Twin aisle twin engine jet,VIDP,EDDF,-0.0
+2748,Twin aisle twin engine jet,VIDP,EDDF,0.0
 2749,Twin aisle twin engine jet,VIDP,KJFK,1.0
 2750,Twin aisle twin engine jet,VIDP,SBGL,0.0
 2751,Twin aisle twin engine jet,VIDP,LEMD,1.0
 2752,Twin aisle twin engine jet,VIDP,ZSPD,1.0
-2753,Twin aisle twin engine jet,VIDP,OMDB,-0.0
+2753,Twin aisle twin engine jet,VIDP,OMDB,0.0
 2754,Twin aisle twin engine jet,VIDP,LTFM,0.0
 2755,Twin aisle twin engine jet,VIDP,ZBAA,1.0
 2756,Twin aisle twin engine jet,VIDP,VIDP,0.0
 2757,Twin aisle twin engine jet,VIDP,EFRO,0.0
 2758,Twin aisle twin engine jet,VIDP,EHEH,0.0
-2759,Twin aisle twin engine jet,VIDP,EFHK,-0.0
-2760,Twin aisle twin engine jet,VIDP,LDZA,-0.0
-2761,Twin aisle twin engine jet,VIDP,EBBR,-0.0
+2759,Twin aisle twin engine jet,VIDP,EFHK,0.0
+2760,Twin aisle twin engine jet,VIDP,LDZA,0.0
+2761,Twin aisle twin engine jet,VIDP,EBBR,0.0
 2762,Twin aisle twin engine jet,VIDP,EIDW,1.0
-2763,Twin aisle twin engine jet,VIDP,LGAV,-0.0
+2763,Twin aisle twin engine jet,VIDP,LGAV,0.0
 2764,Twin aisle twin engine jet,VIDP,BIKF,0.0
-2765,Twin aisle twin engine jet,VIDP,EETN,-0.0
-2766,Twin aisle twin engine jet,VIDP,LKPR,-0.0
-2767,Twin aisle twin engine jet,VIDP,FACT,-0.0
-2768,Twin aisle twin engine jet,VIDP,ESSA,-0.0
+2765,Twin aisle twin engine jet,VIDP,EETN,0.0
+2766,Twin aisle twin engine jet,VIDP,LKPR,0.0
+2767,Twin aisle twin engine jet,VIDP,FACT,0.0
+2768,Twin aisle twin engine jet,VIDP,ESSA,0.0
 2769,Twin aisle twin engine jet,VIDP,EGPH,0.0
 2770,Twin aisle twin engine jet,VIDP,LFQQ,0.0
-2771,Twin aisle twin engine jet,VIDP,LPPT,-0.0
+2771,Twin aisle twin engine jet,VIDP,LPPT,0.0
 2772,Twin aisle twin engine jet,EFRO,LIRF,0.0
 2773,Twin aisle twin engine jet,EFRO,EDDT,0.0
 2774,Twin aisle twin engine jet,EFRO,RJAA,0.0
 2775,Twin aisle twin engine jet,EFRO,EDDM,0.0
-2776,Twin aisle twin engine jet,EFRO,LFPG,-0.0
+2776,Twin aisle twin engine jet,EFRO,LFPG,0.0
 2777,Twin aisle twin engine jet,EFRO,SAEZ,0.0
 2778,Twin aisle twin engine jet,EFRO,CYYZ,0.0
 2779,Twin aisle twin engine jet,EFRO,MMMX,0.0
@@ -2804,204 +2804,204 @@
 2802,Twin aisle twin engine jet,EFRO,EGPH,0.0
 2803,Twin aisle twin engine jet,EFRO,LFQQ,0.0
 2804,Twin aisle twin engine jet,EFRO,LPPT,0.0
-2805,Twin aisle twin engine jet,EHEH,LIRF,-0.0
-2806,Twin aisle twin engine jet,EHEH,EDDT,-0.0
+2805,Twin aisle twin engine jet,EHEH,LIRF,0.0
+2806,Twin aisle twin engine jet,EHEH,EDDT,0.0
 2807,Twin aisle twin engine jet,EHEH,RJAA,0.0
-2808,Twin aisle twin engine jet,EHEH,EDDM,-0.0
-2809,Twin aisle twin engine jet,EHEH,LFPG,-0.0
+2808,Twin aisle twin engine jet,EHEH,EDDM,0.0
+2809,Twin aisle twin engine jet,EHEH,LFPG,0.0
 2810,Twin aisle twin engine jet,EHEH,SAEZ,0.0
 2811,Twin aisle twin engine jet,EHEH,CYYZ,0.0
 2812,Twin aisle twin engine jet,EHEH,MMMX,0.0
 2813,Twin aisle twin engine jet,EHEH,CYVR,0.0
-2814,Twin aisle twin engine jet,EHEH,EDDF,-0.0
-2815,Twin aisle twin engine jet,EHEH,KJFK,-0.0
+2814,Twin aisle twin engine jet,EHEH,EDDF,0.0
+2815,Twin aisle twin engine jet,EHEH,KJFK,0.0
 2816,Twin aisle twin engine jet,EHEH,SBGL,0.0
-2817,Twin aisle twin engine jet,EHEH,LEMD,-0.0
+2817,Twin aisle twin engine jet,EHEH,LEMD,0.0
 2818,Twin aisle twin engine jet,EHEH,ZSPD,0.0
 2819,Twin aisle twin engine jet,EHEH,OMDB,0.0
-2820,Twin aisle twin engine jet,EHEH,LTFM,-0.0
+2820,Twin aisle twin engine jet,EHEH,LTFM,0.0
 2821,Twin aisle twin engine jet,EHEH,ZBAA,0.0
 2822,Twin aisle twin engine jet,EHEH,VIDP,0.0
 2823,Twin aisle twin engine jet,EHEH,EFRO,0.0
 2824,Twin aisle twin engine jet,EHEH,EHEH,0.0
 2825,Twin aisle twin engine jet,EHEH,EFHK,0.0
 2826,Twin aisle twin engine jet,EHEH,LDZA,0.0
-2827,Twin aisle twin engine jet,EHEH,EBBR,-0.0
-2828,Twin aisle twin engine jet,EHEH,EIDW,-0.0
+2827,Twin aisle twin engine jet,EHEH,EBBR,0.0
+2828,Twin aisle twin engine jet,EHEH,EIDW,0.0
 2829,Twin aisle twin engine jet,EHEH,LGAV,0.0
 2830,Twin aisle twin engine jet,EHEH,BIKF,0.0
 2831,Twin aisle twin engine jet,EHEH,EETN,0.0
-2832,Twin aisle twin engine jet,EHEH,LKPR,-0.0
+2832,Twin aisle twin engine jet,EHEH,LKPR,0.0
 2833,Twin aisle twin engine jet,EHEH,FACT,0.0
-2834,Twin aisle twin engine jet,EHEH,ESSA,-0.0
+2834,Twin aisle twin engine jet,EHEH,ESSA,0.0
 2835,Twin aisle twin engine jet,EHEH,EGPH,0.0
-2836,Twin aisle twin engine jet,EHEH,LFQQ,-0.0
-2837,Twin aisle twin engine jet,EHEH,LPPT,-0.0
-2838,Twin aisle twin engine jet,EFHK,LIRF,-0.0
-2839,Twin aisle twin engine jet,EFHK,EDDT,-0.0
+2836,Twin aisle twin engine jet,EHEH,LFQQ,0.0
+2837,Twin aisle twin engine jet,EHEH,LPPT,0.0
+2838,Twin aisle twin engine jet,EFHK,LIRF,0.0
+2839,Twin aisle twin engine jet,EFHK,EDDT,0.0
 2840,Twin aisle twin engine jet,EFHK,RJAA,1.0
-2841,Twin aisle twin engine jet,EFHK,EDDM,-0.0
-2842,Twin aisle twin engine jet,EFHK,LFPG,-0.0
+2841,Twin aisle twin engine jet,EFHK,EDDM,0.0
+2842,Twin aisle twin engine jet,EFHK,LFPG,0.0
 2843,Twin aisle twin engine jet,EFHK,SAEZ,0.0
 2844,Twin aisle twin engine jet,EFHK,CYYZ,0.0
 2845,Twin aisle twin engine jet,EFHK,MMMX,0.0
 2846,Twin aisle twin engine jet,EFHK,CYVR,0.0
-2847,Twin aisle twin engine jet,EFHK,EDDF,-0.0
+2847,Twin aisle twin engine jet,EFHK,EDDF,0.0
 2848,Twin aisle twin engine jet,EFHK,KJFK,0.0
 2849,Twin aisle twin engine jet,EFHK,SBGL,0.0
-2850,Twin aisle twin engine jet,EFHK,LEMD,-0.0
+2850,Twin aisle twin engine jet,EFHK,LEMD,0.0
 2851,Twin aisle twin engine jet,EFHK,ZSPD,0.0
-2852,Twin aisle twin engine jet,EFHK,OMDB,-0.0
-2853,Twin aisle twin engine jet,EFHK,LTFM,-0.0
+2852,Twin aisle twin engine jet,EFHK,OMDB,0.0
+2853,Twin aisle twin engine jet,EFHK,LTFM,0.0
 2854,Twin aisle twin engine jet,EFHK,ZBAA,0.0
-2855,Twin aisle twin engine jet,EFHK,VIDP,-0.0
+2855,Twin aisle twin engine jet,EFHK,VIDP,0.0
 2856,Twin aisle twin engine jet,EFHK,EFRO,0.0
 2857,Twin aisle twin engine jet,EFHK,EHEH,0.0
 2858,Twin aisle twin engine jet,EFHK,EFHK,0.0
-2859,Twin aisle twin engine jet,EFHK,LDZA,-0.0
-2860,Twin aisle twin engine jet,EFHK,EBBR,-0.0
-2861,Twin aisle twin engine jet,EFHK,EIDW,-0.0
-2862,Twin aisle twin engine jet,EFHK,LGAV,-0.0
+2859,Twin aisle twin engine jet,EFHK,LDZA,0.0
+2860,Twin aisle twin engine jet,EFHK,EBBR,0.0
+2861,Twin aisle twin engine jet,EFHK,EIDW,0.0
+2862,Twin aisle twin engine jet,EFHK,LGAV,0.0
 2863,Twin aisle twin engine jet,EFHK,BIKF,0.0
-2864,Twin aisle twin engine jet,EFHK,EETN,-0.0
-2865,Twin aisle twin engine jet,EFHK,LKPR,-0.0
+2864,Twin aisle twin engine jet,EFHK,EETN,0.0
+2865,Twin aisle twin engine jet,EFHK,LKPR,0.0
 2866,Twin aisle twin engine jet,EFHK,FACT,0.0
-2867,Twin aisle twin engine jet,EFHK,ESSA,-0.0
-2868,Twin aisle twin engine jet,EFHK,EGPH,-0.0
-2869,Twin aisle twin engine jet,EFHK,LFQQ,-0.0
+2867,Twin aisle twin engine jet,EFHK,ESSA,0.0
+2868,Twin aisle twin engine jet,EFHK,EGPH,0.0
+2869,Twin aisle twin engine jet,EFHK,LFQQ,0.0
 2870,Twin aisle twin engine jet,EFHK,LPPT,0.0
-2871,Twin aisle twin engine jet,LDZA,LIRF,-0.0
-2872,Twin aisle twin engine jet,LDZA,EDDT,-0.0
+2871,Twin aisle twin engine jet,LDZA,LIRF,0.0
+2872,Twin aisle twin engine jet,LDZA,EDDT,0.0
 2873,Twin aisle twin engine jet,LDZA,RJAA,0.0
-2874,Twin aisle twin engine jet,LDZA,EDDM,-0.0
-2875,Twin aisle twin engine jet,LDZA,LFPG,-0.0
+2874,Twin aisle twin engine jet,LDZA,EDDM,0.0
+2875,Twin aisle twin engine jet,LDZA,LFPG,0.0
 2876,Twin aisle twin engine jet,LDZA,SAEZ,0.0
 2877,Twin aisle twin engine jet,LDZA,CYYZ,0.0
 2878,Twin aisle twin engine jet,LDZA,MMMX,0.0
 2879,Twin aisle twin engine jet,LDZA,CYVR,0.0
-2880,Twin aisle twin engine jet,LDZA,EDDF,-0.0
+2880,Twin aisle twin engine jet,LDZA,EDDF,0.0
 2881,Twin aisle twin engine jet,LDZA,KJFK,0.0
 2882,Twin aisle twin engine jet,LDZA,SBGL,0.0
-2883,Twin aisle twin engine jet,LDZA,LEMD,-0.0
+2883,Twin aisle twin engine jet,LDZA,LEMD,0.0
 2884,Twin aisle twin engine jet,LDZA,ZSPD,0.0
 2885,Twin aisle twin engine jet,LDZA,OMDB,0.0
-2886,Twin aisle twin engine jet,LDZA,LTFM,-0.0
+2886,Twin aisle twin engine jet,LDZA,LTFM,0.0
 2887,Twin aisle twin engine jet,LDZA,ZBAA,0.0
-2888,Twin aisle twin engine jet,LDZA,VIDP,-0.0
+2888,Twin aisle twin engine jet,LDZA,VIDP,0.0
 2889,Twin aisle twin engine jet,LDZA,EFRO,0.0
 2890,Twin aisle twin engine jet,LDZA,EHEH,0.0
-2891,Twin aisle twin engine jet,LDZA,EFHK,-0.0
+2891,Twin aisle twin engine jet,LDZA,EFHK,0.0
 2892,Twin aisle twin engine jet,LDZA,LDZA,0.0
-2893,Twin aisle twin engine jet,LDZA,EBBR,-0.0
-2894,Twin aisle twin engine jet,LDZA,EIDW,-0.0
-2895,Twin aisle twin engine jet,LDZA,LGAV,-0.0
+2893,Twin aisle twin engine jet,LDZA,EBBR,0.0
+2894,Twin aisle twin engine jet,LDZA,EIDW,0.0
+2895,Twin aisle twin engine jet,LDZA,LGAV,0.0
 2896,Twin aisle twin engine jet,LDZA,BIKF,0.0
 2897,Twin aisle twin engine jet,LDZA,EETN,0.0
-2898,Twin aisle twin engine jet,LDZA,LKPR,-0.0
+2898,Twin aisle twin engine jet,LDZA,LKPR,0.0
 2899,Twin aisle twin engine jet,LDZA,FACT,0.0
-2900,Twin aisle twin engine jet,LDZA,ESSA,-0.0
+2900,Twin aisle twin engine jet,LDZA,ESSA,0.0
 2901,Twin aisle twin engine jet,LDZA,EGPH,0.0
-2902,Twin aisle twin engine jet,LDZA,LFQQ,-0.0
-2903,Twin aisle twin engine jet,LDZA,LPPT,-0.0
-2904,Twin aisle twin engine jet,EBBR,LIRF,-0.0
-2905,Twin aisle twin engine jet,EBBR,EDDT,-0.0
+2902,Twin aisle twin engine jet,LDZA,LFQQ,0.0
+2903,Twin aisle twin engine jet,LDZA,LPPT,0.0
+2904,Twin aisle twin engine jet,EBBR,LIRF,0.0
+2905,Twin aisle twin engine jet,EBBR,EDDT,0.0
 2906,Twin aisle twin engine jet,EBBR,RJAA,1.0
-2907,Twin aisle twin engine jet,EBBR,EDDM,-0.0
-2908,Twin aisle twin engine jet,EBBR,LFPG,-0.0
+2907,Twin aisle twin engine jet,EBBR,EDDM,0.0
+2908,Twin aisle twin engine jet,EBBR,LFPG,0.0
 2909,Twin aisle twin engine jet,EBBR,SAEZ,0.0
 2910,Twin aisle twin engine jet,EBBR,CYYZ,0.0
 2911,Twin aisle twin engine jet,EBBR,MMMX,0.0
 2912,Twin aisle twin engine jet,EBBR,CYVR,0.0
-2913,Twin aisle twin engine jet,EBBR,EDDF,-0.0
-2914,Twin aisle twin engine jet,EBBR,KJFK,-0.0
+2913,Twin aisle twin engine jet,EBBR,EDDF,0.0
+2914,Twin aisle twin engine jet,EBBR,KJFK,0.0
 2915,Twin aisle twin engine jet,EBBR,SBGL,0.0
-2916,Twin aisle twin engine jet,EBBR,LEMD,-0.0
+2916,Twin aisle twin engine jet,EBBR,LEMD,0.0
 2917,Twin aisle twin engine jet,EBBR,ZSPD,0.0
-2918,Twin aisle twin engine jet,EBBR,OMDB,-0.0
-2919,Twin aisle twin engine jet,EBBR,LTFM,-0.0
+2918,Twin aisle twin engine jet,EBBR,OMDB,0.0
+2919,Twin aisle twin engine jet,EBBR,LTFM,0.0
 2920,Twin aisle twin engine jet,EBBR,ZBAA,0.0
 2921,Twin aisle twin engine jet,EBBR,VIDP,0.0
 2922,Twin aisle twin engine jet,EBBR,EFRO,0.0
-2923,Twin aisle twin engine jet,EBBR,EHEH,-0.0
-2924,Twin aisle twin engine jet,EBBR,EFHK,-0.0
-2925,Twin aisle twin engine jet,EBBR,LDZA,-0.0
+2923,Twin aisle twin engine jet,EBBR,EHEH,0.0
+2924,Twin aisle twin engine jet,EBBR,EFHK,0.0
+2925,Twin aisle twin engine jet,EBBR,LDZA,0.0
 2926,Twin aisle twin engine jet,EBBR,EBBR,0.0
-2927,Twin aisle twin engine jet,EBBR,EIDW,-0.0
-2928,Twin aisle twin engine jet,EBBR,LGAV,-0.0
+2927,Twin aisle twin engine jet,EBBR,EIDW,0.0
+2928,Twin aisle twin engine jet,EBBR,LGAV,0.0
 2929,Twin aisle twin engine jet,EBBR,BIKF,0.0
-2930,Twin aisle twin engine jet,EBBR,EETN,-0.0
-2931,Twin aisle twin engine jet,EBBR,LKPR,-0.0
+2930,Twin aisle twin engine jet,EBBR,EETN,0.0
+2931,Twin aisle twin engine jet,EBBR,LKPR,0.0
 2932,Twin aisle twin engine jet,EBBR,FACT,0.0
-2933,Twin aisle twin engine jet,EBBR,ESSA,-0.0
-2934,Twin aisle twin engine jet,EBBR,EGPH,-0.0
-2935,Twin aisle twin engine jet,EBBR,LFQQ,-0.0
-2936,Twin aisle twin engine jet,EBBR,LPPT,-0.0
-2937,Twin aisle twin engine jet,EIDW,LIRF,-0.0
-2938,Twin aisle twin engine jet,EIDW,EDDT,-0.0
+2933,Twin aisle twin engine jet,EBBR,ESSA,0.0
+2934,Twin aisle twin engine jet,EBBR,EGPH,0.0
+2935,Twin aisle twin engine jet,EBBR,LFQQ,0.0
+2936,Twin aisle twin engine jet,EBBR,LPPT,0.0
+2937,Twin aisle twin engine jet,EIDW,LIRF,0.0
+2938,Twin aisle twin engine jet,EIDW,EDDT,0.0
 2939,Twin aisle twin engine jet,EIDW,RJAA,1.0
-2940,Twin aisle twin engine jet,EIDW,EDDM,-0.0
-2941,Twin aisle twin engine jet,EIDW,LFPG,-0.0
+2940,Twin aisle twin engine jet,EIDW,EDDM,0.0
+2941,Twin aisle twin engine jet,EIDW,LFPG,0.0
 2942,Twin aisle twin engine jet,EIDW,SAEZ,0.0
 2943,Twin aisle twin engine jet,EIDW,CYYZ,0.0
 2944,Twin aisle twin engine jet,EIDW,MMMX,0.0
 2945,Twin aisle twin engine jet,EIDW,CYVR,0.0
-2946,Twin aisle twin engine jet,EIDW,EDDF,-0.0
-2947,Twin aisle twin engine jet,EIDW,KJFK,-0.0
+2946,Twin aisle twin engine jet,EIDW,EDDF,0.0
+2947,Twin aisle twin engine jet,EIDW,KJFK,0.0
 2948,Twin aisle twin engine jet,EIDW,SBGL,0.0
-2949,Twin aisle twin engine jet,EIDW,LEMD,-0.0
+2949,Twin aisle twin engine jet,EIDW,LEMD,0.0
 2950,Twin aisle twin engine jet,EIDW,ZSPD,0.0
-2951,Twin aisle twin engine jet,EIDW,OMDB,-0.0
-2952,Twin aisle twin engine jet,EIDW,LTFM,-0.0
+2951,Twin aisle twin engine jet,EIDW,OMDB,0.0
+2952,Twin aisle twin engine jet,EIDW,LTFM,0.0
 2953,Twin aisle twin engine jet,EIDW,ZBAA,0.0
 2954,Twin aisle twin engine jet,EIDW,VIDP,1.0
 2955,Twin aisle twin engine jet,EIDW,EFRO,0.0
-2956,Twin aisle twin engine jet,EIDW,EHEH,-0.0
-2957,Twin aisle twin engine jet,EIDW,EFHK,-0.0
-2958,Twin aisle twin engine jet,EIDW,LDZA,-0.0
-2959,Twin aisle twin engine jet,EIDW,EBBR,-0.0
+2956,Twin aisle twin engine jet,EIDW,EHEH,0.0
+2957,Twin aisle twin engine jet,EIDW,EFHK,0.0
+2958,Twin aisle twin engine jet,EIDW,LDZA,0.0
+2959,Twin aisle twin engine jet,EIDW,EBBR,0.0
 2960,Twin aisle twin engine jet,EIDW,EIDW,0.0
-2961,Twin aisle twin engine jet,EIDW,LGAV,-0.0
+2961,Twin aisle twin engine jet,EIDW,LGAV,0.0
 2962,Twin aisle twin engine jet,EIDW,BIKF,0.0
-2963,Twin aisle twin engine jet,EIDW,EETN,-0.0
-2964,Twin aisle twin engine jet,EIDW,LKPR,-0.0
+2963,Twin aisle twin engine jet,EIDW,EETN,0.0
+2964,Twin aisle twin engine jet,EIDW,LKPR,0.0
 2965,Twin aisle twin engine jet,EIDW,FACT,0.0
-2966,Twin aisle twin engine jet,EIDW,ESSA,-0.0
-2967,Twin aisle twin engine jet,EIDW,EGPH,-0.0
-2968,Twin aisle twin engine jet,EIDW,LFQQ,-0.0
-2969,Twin aisle twin engine jet,EIDW,LPPT,-0.0
-2970,Twin aisle twin engine jet,LGAV,LIRF,-0.0
-2971,Twin aisle twin engine jet,LGAV,EDDT,-0.0
+2966,Twin aisle twin engine jet,EIDW,ESSA,0.0
+2967,Twin aisle twin engine jet,EIDW,EGPH,0.0
+2968,Twin aisle twin engine jet,EIDW,LFQQ,0.0
+2969,Twin aisle twin engine jet,EIDW,LPPT,0.0
+2970,Twin aisle twin engine jet,LGAV,LIRF,0.0
+2971,Twin aisle twin engine jet,LGAV,EDDT,0.0
 2972,Twin aisle twin engine jet,LGAV,RJAA,1.0
-2973,Twin aisle twin engine jet,LGAV,EDDM,-0.0
-2974,Twin aisle twin engine jet,LGAV,LFPG,-0.0
+2973,Twin aisle twin engine jet,LGAV,EDDM,0.0
+2974,Twin aisle twin engine jet,LGAV,LFPG,0.0
 2975,Twin aisle twin engine jet,LGAV,SAEZ,0.0
 2976,Twin aisle twin engine jet,LGAV,CYYZ,0.0
 2977,Twin aisle twin engine jet,LGAV,MMMX,0.0
 2978,Twin aisle twin engine jet,LGAV,CYVR,0.0
-2979,Twin aisle twin engine jet,LGAV,EDDF,-0.0
+2979,Twin aisle twin engine jet,LGAV,EDDF,0.0
 2980,Twin aisle twin engine jet,LGAV,KJFK,1.0
 2981,Twin aisle twin engine jet,LGAV,SBGL,0.0
-2982,Twin aisle twin engine jet,LGAV,LEMD,-0.0
+2982,Twin aisle twin engine jet,LGAV,LEMD,0.0
 2983,Twin aisle twin engine jet,LGAV,ZSPD,0.0
-2984,Twin aisle twin engine jet,LGAV,OMDB,-0.0
-2985,Twin aisle twin engine jet,LGAV,LTFM,-0.0
+2984,Twin aisle twin engine jet,LGAV,OMDB,0.0
+2985,Twin aisle twin engine jet,LGAV,LTFM,0.0
 2986,Twin aisle twin engine jet,LGAV,ZBAA,0.0
-2987,Twin aisle twin engine jet,LGAV,VIDP,-0.0
+2987,Twin aisle twin engine jet,LGAV,VIDP,0.0
 2988,Twin aisle twin engine jet,LGAV,EFRO,0.0
 2989,Twin aisle twin engine jet,LGAV,EHEH,0.0
-2990,Twin aisle twin engine jet,LGAV,EFHK,-0.0
-2991,Twin aisle twin engine jet,LGAV,LDZA,-0.0
-2992,Twin aisle twin engine jet,LGAV,EBBR,-0.0
-2993,Twin aisle twin engine jet,LGAV,EIDW,-0.0
+2990,Twin aisle twin engine jet,LGAV,EFHK,0.0
+2991,Twin aisle twin engine jet,LGAV,LDZA,0.0
+2992,Twin aisle twin engine jet,LGAV,EBBR,0.0
+2993,Twin aisle twin engine jet,LGAV,EIDW,0.0
 2994,Twin aisle twin engine jet,LGAV,LGAV,0.0
 2995,Twin aisle twin engine jet,LGAV,BIKF,0.0
-2996,Twin aisle twin engine jet,LGAV,EETN,-0.0
-2997,Twin aisle twin engine jet,LGAV,LKPR,-0.0
+2996,Twin aisle twin engine jet,LGAV,EETN,0.0
+2997,Twin aisle twin engine jet,LGAV,LKPR,0.0
 2998,Twin aisle twin engine jet,LGAV,FACT,0.0
-2999,Twin aisle twin engine jet,LGAV,ESSA,-0.0
-3000,Twin aisle twin engine jet,LGAV,EGPH,-0.0
-3001,Twin aisle twin engine jet,LGAV,LFQQ,-0.0
-3002,Twin aisle twin engine jet,LGAV,LPPT,-0.0
+2999,Twin aisle twin engine jet,LGAV,ESSA,0.0
+3000,Twin aisle twin engine jet,LGAV,EGPH,0.0
+3001,Twin aisle twin engine jet,LGAV,LFQQ,0.0
+3002,Twin aisle twin engine jet,LGAV,LPPT,0.0
 3003,Twin aisle twin engine jet,BIKF,LIRF,0.0
 3004,Twin aisle twin engine jet,BIKF,EDDT,0.0
 3005,Twin aisle twin engine jet,BIKF,RJAA,0.0
@@ -3035,73 +3035,73 @@
 3033,Twin aisle twin engine jet,BIKF,EGPH,0.0
 3034,Twin aisle twin engine jet,BIKF,LFQQ,0.0
 3035,Twin aisle twin engine jet,BIKF,LPPT,0.0
-3036,Twin aisle twin engine jet,EETN,LIRF,-0.0
-3037,Twin aisle twin engine jet,EETN,EDDT,-0.0
+3036,Twin aisle twin engine jet,EETN,LIRF,0.0
+3037,Twin aisle twin engine jet,EETN,EDDT,0.0
 3038,Twin aisle twin engine jet,EETN,RJAA,0.0
-3039,Twin aisle twin engine jet,EETN,EDDM,-0.0
-3040,Twin aisle twin engine jet,EETN,LFPG,-0.0
+3039,Twin aisle twin engine jet,EETN,EDDM,0.0
+3040,Twin aisle twin engine jet,EETN,LFPG,0.0
 3041,Twin aisle twin engine jet,EETN,SAEZ,0.0
 3042,Twin aisle twin engine jet,EETN,CYYZ,0.0
 3043,Twin aisle twin engine jet,EETN,MMMX,0.0
 3044,Twin aisle twin engine jet,EETN,CYVR,0.0
-3045,Twin aisle twin engine jet,EETN,EDDF,-0.0
+3045,Twin aisle twin engine jet,EETN,EDDF,0.0
 3046,Twin aisle twin engine jet,EETN,KJFK,0.0
 3047,Twin aisle twin engine jet,EETN,SBGL,0.0
-3048,Twin aisle twin engine jet,EETN,LEMD,-0.0
+3048,Twin aisle twin engine jet,EETN,LEMD,0.0
 3049,Twin aisle twin engine jet,EETN,ZSPD,0.0
 3050,Twin aisle twin engine jet,EETN,OMDB,0.0
-3051,Twin aisle twin engine jet,EETN,LTFM,-0.0
+3051,Twin aisle twin engine jet,EETN,LTFM,0.0
 3052,Twin aisle twin engine jet,EETN,ZBAA,0.0
-3053,Twin aisle twin engine jet,EETN,VIDP,-0.0
+3053,Twin aisle twin engine jet,EETN,VIDP,0.0
 3054,Twin aisle twin engine jet,EETN,EFRO,0.0
 3055,Twin aisle twin engine jet,EETN,EHEH,0.0
-3056,Twin aisle twin engine jet,EETN,EFHK,-0.0
+3056,Twin aisle twin engine jet,EETN,EFHK,0.0
 3057,Twin aisle twin engine jet,EETN,LDZA,0.0
-3058,Twin aisle twin engine jet,EETN,EBBR,-0.0
-3059,Twin aisle twin engine jet,EETN,EIDW,-0.0
-3060,Twin aisle twin engine jet,EETN,LGAV,-0.0
+3058,Twin aisle twin engine jet,EETN,EBBR,0.0
+3059,Twin aisle twin engine jet,EETN,EIDW,0.0
+3060,Twin aisle twin engine jet,EETN,LGAV,0.0
 3061,Twin aisle twin engine jet,EETN,BIKF,0.0
 3062,Twin aisle twin engine jet,EETN,EETN,0.0
-3063,Twin aisle twin engine jet,EETN,LKPR,-0.0
+3063,Twin aisle twin engine jet,EETN,LKPR,0.0
 3064,Twin aisle twin engine jet,EETN,FACT,0.0
-3065,Twin aisle twin engine jet,EETN,ESSA,-0.0
+3065,Twin aisle twin engine jet,EETN,ESSA,0.0
 3066,Twin aisle twin engine jet,EETN,EGPH,0.0
 3067,Twin aisle twin engine jet,EETN,LFQQ,0.0
 3068,Twin aisle twin engine jet,EETN,LPPT,0.0
-3069,Twin aisle twin engine jet,LKPR,LIRF,-0.0
-3070,Twin aisle twin engine jet,LKPR,EDDT,-0.0
+3069,Twin aisle twin engine jet,LKPR,LIRF,0.0
+3070,Twin aisle twin engine jet,LKPR,EDDT,0.0
 3071,Twin aisle twin engine jet,LKPR,RJAA,1.0
-3072,Twin aisle twin engine jet,LKPR,EDDM,-0.0
-3073,Twin aisle twin engine jet,LKPR,LFPG,-0.0
+3072,Twin aisle twin engine jet,LKPR,EDDM,0.0
+3073,Twin aisle twin engine jet,LKPR,LFPG,0.0
 3074,Twin aisle twin engine jet,LKPR,SAEZ,0.0
 3075,Twin aisle twin engine jet,LKPR,CYYZ,0.0
 3076,Twin aisle twin engine jet,LKPR,MMMX,0.0
 3077,Twin aisle twin engine jet,LKPR,CYVR,0.0
-3078,Twin aisle twin engine jet,LKPR,EDDF,-0.0
+3078,Twin aisle twin engine jet,LKPR,EDDF,0.0
 3079,Twin aisle twin engine jet,LKPR,KJFK,0.0
 3080,Twin aisle twin engine jet,LKPR,SBGL,0.0
-3081,Twin aisle twin engine jet,LKPR,LEMD,-0.0
+3081,Twin aisle twin engine jet,LKPR,LEMD,0.0
 3082,Twin aisle twin engine jet,LKPR,ZSPD,0.0
 3083,Twin aisle twin engine jet,LKPR,OMDB,0.0
-3084,Twin aisle twin engine jet,LKPR,LTFM,-0.0
+3084,Twin aisle twin engine jet,LKPR,LTFM,0.0
 3085,Twin aisle twin engine jet,LKPR,ZBAA,0.0
-3086,Twin aisle twin engine jet,LKPR,VIDP,-0.0
+3086,Twin aisle twin engine jet,LKPR,VIDP,0.0
 3087,Twin aisle twin engine jet,LKPR,EFRO,0.0
-3088,Twin aisle twin engine jet,LKPR,EHEH,-0.0
-3089,Twin aisle twin engine jet,LKPR,EFHK,-0.0
-3090,Twin aisle twin engine jet,LKPR,LDZA,-0.0
-3091,Twin aisle twin engine jet,LKPR,EBBR,-0.0
-3092,Twin aisle twin engine jet,LKPR,EIDW,-0.0
-3093,Twin aisle twin engine jet,LKPR,LGAV,-0.0
+3088,Twin aisle twin engine jet,LKPR,EHEH,0.0
+3089,Twin aisle twin engine jet,LKPR,EFHK,0.0
+3090,Twin aisle twin engine jet,LKPR,LDZA,0.0
+3091,Twin aisle twin engine jet,LKPR,EBBR,0.0
+3092,Twin aisle twin engine jet,LKPR,EIDW,0.0
+3093,Twin aisle twin engine jet,LKPR,LGAV,0.0
 3094,Twin aisle twin engine jet,LKPR,BIKF,0.0
-3095,Twin aisle twin engine jet,LKPR,EETN,-0.0
+3095,Twin aisle twin engine jet,LKPR,EETN,0.0
 3096,Twin aisle twin engine jet,LKPR,LKPR,0.0
 3097,Twin aisle twin engine jet,LKPR,FACT,0.0
-3098,Twin aisle twin engine jet,LKPR,ESSA,-0.0
-3099,Twin aisle twin engine jet,LKPR,EGPH,-0.0
-3100,Twin aisle twin engine jet,LKPR,LFQQ,-0.0
-3101,Twin aisle twin engine jet,LKPR,LPPT,-0.0
-3102,Twin aisle twin engine jet,FACT,LIRF,0.0
+3098,Twin aisle twin engine jet,LKPR,ESSA,0.0
+3099,Twin aisle twin engine jet,LKPR,EGPH,0.0
+3100,Twin aisle twin engine jet,LKPR,LFQQ,0.0
+3101,Twin aisle twin engine jet,LKPR,LPPT,0.0
+3102,Twin aisle twin engine jet,FACT,LIRF,1.0
 3103,Twin aisle twin engine jet,FACT,EDDT,0.0
 3104,Twin aisle twin engine jet,FACT,RJAA,0.0
 3105,Twin aisle twin engine jet,FACT,EDDM,0.0
@@ -3112,7 +3112,7 @@
 3110,Twin aisle twin engine jet,FACT,CYVR,0.0
 3111,Twin aisle twin engine jet,FACT,EDDF,0.0
 3112,Twin aisle twin engine jet,FACT,KJFK,0.0
-3113,Twin aisle twin engine jet,FACT,SBGL,-0.0
+3113,Twin aisle twin engine jet,FACT,SBGL,0.0
 3114,Twin aisle twin engine jet,FACT,LEMD,0.0
 3115,Twin aisle twin engine jet,FACT,ZSPD,0.0
 3116,Twin aisle twin engine jet,FACT,OMDB,0.0
@@ -3134,39 +3134,39 @@
 3132,Twin aisle twin engine jet,FACT,EGPH,0.0
 3133,Twin aisle twin engine jet,FACT,LFQQ,0.0
 3134,Twin aisle twin engine jet,FACT,LPPT,0.0
-3135,Twin aisle twin engine jet,ESSA,LIRF,-0.0
-3136,Twin aisle twin engine jet,ESSA,EDDT,-0.0
+3135,Twin aisle twin engine jet,ESSA,LIRF,0.0
+3136,Twin aisle twin engine jet,ESSA,EDDT,0.0
 3137,Twin aisle twin engine jet,ESSA,RJAA,1.0
-3138,Twin aisle twin engine jet,ESSA,EDDM,-0.0
-3139,Twin aisle twin engine jet,ESSA,LFPG,-0.0
+3138,Twin aisle twin engine jet,ESSA,EDDM,0.0
+3139,Twin aisle twin engine jet,ESSA,LFPG,0.0
 3140,Twin aisle twin engine jet,ESSA,SAEZ,0.0
 3141,Twin aisle twin engine jet,ESSA,CYYZ,0.0
 3142,Twin aisle twin engine jet,ESSA,MMMX,0.0
 3143,Twin aisle twin engine jet,ESSA,CYVR,0.0
-3144,Twin aisle twin engine jet,ESSA,EDDF,-0.0
+3144,Twin aisle twin engine jet,ESSA,EDDF,0.0
 3145,Twin aisle twin engine jet,ESSA,KJFK,1.0
 3146,Twin aisle twin engine jet,ESSA,SBGL,0.0
-3147,Twin aisle twin engine jet,ESSA,LEMD,-0.0
+3147,Twin aisle twin engine jet,ESSA,LEMD,0.0
 3148,Twin aisle twin engine jet,ESSA,ZSPD,0.0
-3149,Twin aisle twin engine jet,ESSA,OMDB,-0.0
-3150,Twin aisle twin engine jet,ESSA,LTFM,-0.0
+3149,Twin aisle twin engine jet,ESSA,OMDB,0.0
+3150,Twin aisle twin engine jet,ESSA,LTFM,0.0
 3151,Twin aisle twin engine jet,ESSA,ZBAA,0.0
-3152,Twin aisle twin engine jet,ESSA,VIDP,-0.0
+3152,Twin aisle twin engine jet,ESSA,VIDP,0.0
 3153,Twin aisle twin engine jet,ESSA,EFRO,0.0
-3154,Twin aisle twin engine jet,ESSA,EHEH,-0.0
-3155,Twin aisle twin engine jet,ESSA,EFHK,-0.0
-3156,Twin aisle twin engine jet,ESSA,LDZA,-0.0
-3157,Twin aisle twin engine jet,ESSA,EBBR,-0.0
-3158,Twin aisle twin engine jet,ESSA,EIDW,-0.0
-3159,Twin aisle twin engine jet,ESSA,LGAV,-0.0
+3154,Twin aisle twin engine jet,ESSA,EHEH,0.0
+3155,Twin aisle twin engine jet,ESSA,EFHK,0.0
+3156,Twin aisle twin engine jet,ESSA,LDZA,0.0
+3157,Twin aisle twin engine jet,ESSA,EBBR,0.0
+3158,Twin aisle twin engine jet,ESSA,EIDW,0.0
+3159,Twin aisle twin engine jet,ESSA,LGAV,0.0
 3160,Twin aisle twin engine jet,ESSA,BIKF,0.0
-3161,Twin aisle twin engine jet,ESSA,EETN,-0.0
-3162,Twin aisle twin engine jet,ESSA,LKPR,-0.0
+3161,Twin aisle twin engine jet,ESSA,EETN,0.0
+3162,Twin aisle twin engine jet,ESSA,LKPR,0.0
 3163,Twin aisle twin engine jet,ESSA,FACT,0.0
 3164,Twin aisle twin engine jet,ESSA,ESSA,0.0
-3165,Twin aisle twin engine jet,ESSA,EGPH,-0.0
-3166,Twin aisle twin engine jet,ESSA,LFQQ,-0.0
-3167,Twin aisle twin engine jet,ESSA,LPPT,-0.0
+3165,Twin aisle twin engine jet,ESSA,EGPH,0.0
+3166,Twin aisle twin engine jet,ESSA,LFQQ,0.0
+3167,Twin aisle twin engine jet,ESSA,LPPT,0.0
 3168,Twin aisle twin engine jet,EGPH,LIRF,0.0
 3169,Twin aisle twin engine jet,EGPH,EDDT,0.0
 3170,Twin aisle twin engine jet,EGPH,RJAA,0.0
@@ -3200,69 +3200,69 @@
 3198,Twin aisle twin engine jet,EGPH,EGPH,0.0
 3199,Twin aisle twin engine jet,EGPH,LFQQ,0.0
 3200,Twin aisle twin engine jet,EGPH,LPPT,0.0
-3201,Twin aisle twin engine jet,LFQQ,LIRF,-0.0
-3202,Twin aisle twin engine jet,LFQQ,EDDT,-0.0
+3201,Twin aisle twin engine jet,LFQQ,LIRF,0.0
+3202,Twin aisle twin engine jet,LFQQ,EDDT,0.0
 3203,Twin aisle twin engine jet,LFQQ,RJAA,0.0
-3204,Twin aisle twin engine jet,LFQQ,EDDM,-0.0
-3205,Twin aisle twin engine jet,LFQQ,LFPG,-0.0
+3204,Twin aisle twin engine jet,LFQQ,EDDM,0.0
+3205,Twin aisle twin engine jet,LFQQ,LFPG,0.0
 3206,Twin aisle twin engine jet,LFQQ,SAEZ,0.0
 3207,Twin aisle twin engine jet,LFQQ,CYYZ,0.0
 3208,Twin aisle twin engine jet,LFQQ,MMMX,0.0
 3209,Twin aisle twin engine jet,LFQQ,CYVR,0.0
-3210,Twin aisle twin engine jet,LFQQ,EDDF,-0.0
-3211,Twin aisle twin engine jet,LFQQ,KJFK,-0.0
+3210,Twin aisle twin engine jet,LFQQ,EDDF,0.0
+3211,Twin aisle twin engine jet,LFQQ,KJFK,0.0
 3212,Twin aisle twin engine jet,LFQQ,SBGL,0.0
-3213,Twin aisle twin engine jet,LFQQ,LEMD,-0.0
+3213,Twin aisle twin engine jet,LFQQ,LEMD,0.0
 3214,Twin aisle twin engine jet,LFQQ,ZSPD,0.0
 3215,Twin aisle twin engine jet,LFQQ,OMDB,0.0
-3216,Twin aisle twin engine jet,LFQQ,LTFM,-0.0
+3216,Twin aisle twin engine jet,LFQQ,LTFM,0.0
 3217,Twin aisle twin engine jet,LFQQ,ZBAA,0.0
 3218,Twin aisle twin engine jet,LFQQ,VIDP,0.0
 3219,Twin aisle twin engine jet,LFQQ,EFRO,0.0
-3220,Twin aisle twin engine jet,LFQQ,EHEH,-0.0
-3221,Twin aisle twin engine jet,LFQQ,EFHK,-0.0
-3222,Twin aisle twin engine jet,LFQQ,LDZA,-0.0
-3223,Twin aisle twin engine jet,LFQQ,EBBR,-0.0
-3224,Twin aisle twin engine jet,LFQQ,EIDW,-0.0
-3225,Twin aisle twin engine jet,LFQQ,LGAV,-0.0
+3220,Twin aisle twin engine jet,LFQQ,EHEH,0.0
+3221,Twin aisle twin engine jet,LFQQ,EFHK,0.0
+3222,Twin aisle twin engine jet,LFQQ,LDZA,0.0
+3223,Twin aisle twin engine jet,LFQQ,EBBR,0.0
+3224,Twin aisle twin engine jet,LFQQ,EIDW,0.0
+3225,Twin aisle twin engine jet,LFQQ,LGAV,0.0
 3226,Twin aisle twin engine jet,LFQQ,BIKF,0.0
 3227,Twin aisle twin engine jet,LFQQ,EETN,0.0
-3228,Twin aisle twin engine jet,LFQQ,LKPR,-0.0
+3228,Twin aisle twin engine jet,LFQQ,LKPR,0.0
 3229,Twin aisle twin engine jet,LFQQ,FACT,0.0
-3230,Twin aisle twin engine jet,LFQQ,ESSA,-0.0
-3231,Twin aisle twin engine jet,LFQQ,EGPH,-0.0
+3230,Twin aisle twin engine jet,LFQQ,ESSA,0.0
+3231,Twin aisle twin engine jet,LFQQ,EGPH,0.0
 3232,Twin aisle twin engine jet,LFQQ,LFQQ,0.0
-3233,Twin aisle twin engine jet,LFQQ,LPPT,-0.0
-3234,Twin aisle twin engine jet,LPPT,LIRF,-0.0
-3235,Twin aisle twin engine jet,LPPT,EDDT,-0.0
+3233,Twin aisle twin engine jet,LFQQ,LPPT,0.0
+3234,Twin aisle twin engine jet,LPPT,LIRF,0.0
+3235,Twin aisle twin engine jet,LPPT,EDDT,0.0
 3236,Twin aisle twin engine jet,LPPT,RJAA,1.0
-3237,Twin aisle twin engine jet,LPPT,EDDM,-0.0
-3238,Twin aisle twin engine jet,LPPT,LFPG,-0.0
+3237,Twin aisle twin engine jet,LPPT,EDDM,0.0
+3238,Twin aisle twin engine jet,LPPT,LFPG,0.0
 3239,Twin aisle twin engine jet,LPPT,SAEZ,0.0
 3240,Twin aisle twin engine jet,LPPT,CYYZ,0.0
 3241,Twin aisle twin engine jet,LPPT,MMMX,0.0
 3242,Twin aisle twin engine jet,LPPT,CYVR,0.0
-3243,Twin aisle twin engine jet,LPPT,EDDF,-0.0
-3244,Twin aisle twin engine jet,LPPT,KJFK,-0.0
+3243,Twin aisle twin engine jet,LPPT,EDDF,0.0
+3244,Twin aisle twin engine jet,LPPT,KJFK,0.0
 3245,Twin aisle twin engine jet,LPPT,SBGL,0.0
-3246,Twin aisle twin engine jet,LPPT,LEMD,-0.0
+3246,Twin aisle twin engine jet,LPPT,LEMD,0.0
 3247,Twin aisle twin engine jet,LPPT,ZSPD,0.0
 3248,Twin aisle twin engine jet,LPPT,OMDB,0.0
-3249,Twin aisle twin engine jet,LPPT,LTFM,-0.0
+3249,Twin aisle twin engine jet,LPPT,LTFM,0.0
 3250,Twin aisle twin engine jet,LPPT,ZBAA,0.0
 3251,Twin aisle twin engine jet,LPPT,VIDP,0.0
 3252,Twin aisle twin engine jet,LPPT,EFRO,0.0
-3253,Twin aisle twin engine jet,LPPT,EHEH,-0.0
+3253,Twin aisle twin engine jet,LPPT,EHEH,0.0
 3254,Twin aisle twin engine jet,LPPT,EFHK,0.0
-3255,Twin aisle twin engine jet,LPPT,LDZA,-0.0
-3256,Twin aisle twin engine jet,LPPT,EBBR,-0.0
-3257,Twin aisle twin engine jet,LPPT,EIDW,-0.0
-3258,Twin aisle twin engine jet,LPPT,LGAV,-0.0
+3255,Twin aisle twin engine jet,LPPT,LDZA,0.0
+3256,Twin aisle twin engine jet,LPPT,EBBR,0.0
+3257,Twin aisle twin engine jet,LPPT,EIDW,0.0
+3258,Twin aisle twin engine jet,LPPT,LGAV,0.0
 3259,Twin aisle twin engine jet,LPPT,BIKF,0.0
 3260,Twin aisle twin engine jet,LPPT,EETN,0.0
-3261,Twin aisle twin engine jet,LPPT,LKPR,-0.0
+3261,Twin aisle twin engine jet,LPPT,LKPR,0.0
 3262,Twin aisle twin engine jet,LPPT,FACT,0.0
-3263,Twin aisle twin engine jet,LPPT,ESSA,-0.0
+3263,Twin aisle twin engine jet,LPPT,ESSA,0.0
 3264,Twin aisle twin engine jet,LPPT,EGPH,0.0
-3265,Twin aisle twin engine jet,LPPT,LFQQ,-0.0
+3265,Twin aisle twin engine jet,LPPT,LFQQ,0.0
 3266,Twin aisle twin engine jet,LPPT,LPPT,0.0
