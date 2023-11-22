@@ -1,0 +1,4 @@
+AC_type,Speed,Seats,TAT,Range,Runway,Lease_c,Operating_c,Time_c,Fuel_c
+Regional Jet,820,70,35,3300,1600,34000,600,775,2.0
+Single Aisle Twin Engine Jet,850,150,45,6300,1800,70000,1250,1400,3.75
+Twin aisle twin engine jet, 870,320,60,12000,2600,180000,2000,2800,7.0
