@@ -174,6 +174,19 @@ coordinates = {
     'BOS': {'x': 42.3656, 'y': -71.0096}
 }
 
+# Calculate the profit by OD pair
+OD_profit = pd.DataFrame(columns=airports, index=airports)
+
+for i in airports:
+    for j in airports:
+        op = 0
+        op = param['A310']['CASK'] * z['A310', i, j].x + \
+                param['A320']['CASK'] * z['A320', i, j].x
+        OD_profit.loc[i, j] = Yield * flight_distance[i][j] * (x[i, j].x + 0.9 * w[i, j].x) - op
+        print(i, j, 1 if op > OD_profit.loc[i, j] else 0, z['A310', i, j].x, z['A320', i, j].x)
+
+print(OD_profit)
+
 # Plot the network using folium from the dataframes
 
 import folium
