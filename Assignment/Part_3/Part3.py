@@ -591,7 +591,7 @@ for i in range(1, total_fleet + 1):
         continue
     output_df.to_excel(writer, sheet_name= best_k + '{}'.format(i))
     itinerary = self_nodes(itinerary)
-    general_graph.append(plot_itinerary(itinerary, G_ast, best_k, i, f_ast))
+    #general_graph.append(plot_itinerary(itinerary, G_ast, best_k, i, f_ast))
     output_df['I'] = i
     output_df['Aircraft type'] = best_k
     general_output.append(output_df)
@@ -626,4 +626,4 @@ plt.title('Itineraries')
 plt.grid(axis = 'y', alpha = 0.3)
 
 # Show the plot
-plt.show()
+#plt.show()
